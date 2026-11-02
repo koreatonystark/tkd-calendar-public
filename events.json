@@ -12,7 +12,7 @@
   },
   "coverage": {
     "configured_sources": 16,
-    "last_online_refresh": true,
+    "last_online_refresh": false,
     "missing_metadata": {
       "age_eligibility": 5,
       "belt_eligibility": 5,
@@ -16014,5 +16014,5 @@
       "url": "https://worldscusa.com/"
     }
   },
-  "updated_at": "2026-11-02T02:21:32Z"
+  "updated_at": "2026-11-02T02:43:18Z"
 }
