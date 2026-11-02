@@ -1,32 +1,35 @@
 /* Browser-only TKD public event explorer; local ICS download and optional Worker feed. */
-import {filterEvents, normalizeFilters, renderCustomIcs, serializeFilters, todayNY, dateValue, precision, calendarDisplayTitle, calendarDisplayGrade} from './calendar-core.mjs';
+import {filterEvents, normalizeFilters, renderCustomIcs, serializeFilters, todayNY, dateValue, precision, calendarDisplayTitle, calendarDisplayGrade, eventCardName, hostFamily} from './calendar-core.mjs';
 
 const $ = id => document.getElementById(id);
 const esc = value => String(value ?? '').replace(/[&<>"']/g,c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const safeURL = value => /^https:\/\//i.test(value||'') ? value : '';
 const feeds = {
-  all:['TKD S + A + B','Significant competitions only'],
-  s:['TKD / S','National titles and team trials'],
+  all:['TKD','International + S/A/B + ETC (union)'],
+  s:['TKD S','USATKD / AAU / CMA only; international excluded'],
   's-confirmed':['TKD / S · Confirmed','Officially dated S only'],
-  a:['TKD / A','Ranking and important championships'],
+  a:['TKD A','USATKD / AAU / CMA domestic majors'],
   'a-confirmed':['TKD / A · Confirmed','Officially dated A only'],
-  b:['TKD / B','Selected independent opens'],
+  b:['TKD B','USATKD / AAU / CMA selected domestic events'],
+  etc:['TKD ETC','ATA / ITF / TA / other domestic competitions'],
+  small:['TKD Small Events','Verified minor C-grade competitions only'],
   historical:['TKD / Archive','Completed tournament results / past dates'],
-  international:['TKD INTERNATIONAL','WT/ITF/ATA international events · Korea included'],
+  international:['TKD International','International only, excluded from S/A/B/ETC'],
   usatkd:['TKD USATKD','USA Taekwondo'],aau:['TKD AAU','AAU Taekwondo'],
   korea:['TKD Korea-Linked','Kukkiwon and Korean official ties'],
-  independent:['TKD Independent','ATA, ITF, local open events'],
+  independent:['TKD Independent','Domestic ETC events only'],
   northeast:['TKD Northeast','NY / NJ / CT / PA'],
   registration:['TKD Registration','Verified registration deadlines']
 };
-const groupNames={USATKD:'USATKD',AAU:'AAU',KOREA:'\uD55C\uAD6D \uC5F0\uACC4',INDEPENDENT:'\uAE30\uD0C0 / \uB3C5\uB9BD'};
+const groupNames={USATKD:'USATKD',AAU:'AAU',CMA:'CMA',KOREA:'한국 연계',INDEPENDENT:'기타 / 독립'};
+const hostNames={USATKD:'USATKD',AAU:'AAU',CMA:'CMA',ETC:'기타 / 독립'};
 const yesno={yes:'\uC801\uC6A9',no:'\uBBF8\uC801\uC6A9',unknown:'\uBBF8\uD655\uC778'};
 const mapURL=e=>{
   const query=e.venue_address||e.location;
   return query?'https://www.google.com/maps/search/?api=1&query='+encodeURIComponent(query):'';
 };
 const categories={competition:'대회',camp:'캠프·세미나',club:'도장 행사',other:'기타'};
-const defaults={search:'',org:'',group:'',scope:'',identity:'',tier:'S,A,B',pathway:'',type:'competition',region:'',discipline:'',precision:'',time:'upcoming',registration:''};
+const defaults={search:'',host:'',org:'',group:'',scope:'',identity:'',tier:'S,A,B',bucket:'',pathway:'',type:'competition',region:'',discipline:'',precision:'',time:'upcoming',registration:''};
 const state={events:[],meta:{sources:{}},filters:{...defaults},view:'list',month:null};
 const detailHref=e=>(window.TKD_EVENT_PAGE_PREFIX||'./events/')+encodeURIComponent(e.id)+'.html';
 const siteURL=()=>location.protocol==='https:' ? new URL('./',location.href).href : (location.protocol==='http:' ? new URL('./',location.href).href : '');
@@ -52,15 +55,27 @@ function eventCard(event){
   const tier=String(calendarDisplayGrade(event)).toUpperCase();
   const dateLabel=predicted?`${predictionText(event)} / \uC2E4\uC81C \uAC1C\uCD5C\uC77C \uBBF8\uD655\uC815`:
     date?fmtRange(event.start_date,event.end_date):event.announced_month?`${event.announced_month} / \uB0A0\uC9DC \uBBF8\uC815`:'\uB0A0\uC9DC \uBBF8\uC815';
-  const tags=[`<span class="tier-badge tier-${esc(tier)}">${esc(tier)}</span>`,
-    `<span class="org-label">${esc(event.organization)}</span>`,
-    `<span class="category">${esc(groupNames[event.group]||event.group||'?')}</span>`];
-  if(event.international_category) tags.push('<span class="category international-tag">INTERNATIONAL · 국제</span>');
-  if(event.identity_attention) tags.push('<span class="category identity-tag">신분/선발 조건</span>');
-  if(predicted)tags.push('<span class="category forecast">\uC608\uC815 \uB0A0\uC9DC</span>');
-  if(!date)tags.push('<span class="category tbd">\uB0A0\uC9DC \uBBF8\uC815</span>');
-  if(event.national_team_pathway)tags.push('<span class="category">TEAM PATH</span>');
-  if(event.ranking_applies==='yes')tags.push('<span class="category">RANKING</span>');
+  const host=hostFamily(event);
+  const hostLabel=hostNames[host]||'기타 / 독립';
+  const org=String(event.organization||'').trim();
+  const familyLabel=host==='ETC' ? `${org || '독립'} · ${hostLabel}` : hostLabel;
+  const summary=[];
+  const region=[event.state,event.country&&event.country!=='US'?event.country:'US'].filter(Boolean).join(' / ');
+  if(region)summary.push(`<span class="fact-chip">📍 ${esc(region)}</span>`);
+  if(event.identity_citizenship_required_some_divisions)summary.push('<span class="fact-chip citizenship">Citizen: US 시민권 필수 부문 있음</span>');
+  else if(event.identity_attention)summary.push('<span class="fact-chip citizenship">참가 신분·선발 조건 확인</span>');
+  if(event.age_eligibility && !/^(unknown|not confirmed|미확인)$/i.test(String(event.age_eligibility)))summary.push(`<span class="fact-chip">연령 ${esc(event.age_eligibility)}</span>`);
+  if(event.belt_eligibility && !/^(unknown|not confirmed|미확인)$/i.test(String(event.belt_eligibility)))summary.push(`<span class="fact-chip">급수 ${esc(event.belt_eligibility)}</span>`);
+  const disciplines=(event.disciplines||[]).map(v=>({kyorugi:'겨루기',poomsae:'품새'})[v]||v);
+  if(disciplines.length)summary.push(`<span class="fact-chip">${esc(disciplines.join(' · '))}</span>`);
+  if(event.national_team_pathway)summary.push('<span class="fact-chip">국가대표 선발</span>');
+  else if(event.national_championship_pathway)summary.push('<span class="fact-chip">전국대회 진출</span>');
+  if(/^yes/i.test(String(event.ranking_applies||'')))summary.push('<span class="fact-chip">랭킹 적용</span>');
+  const badges=[`<span class="tier-badge tier-${esc(tier)}">[TKD ${esc(tier)}]</span>`,
+    `<span class="host-line">${esc(familyLabel)}</span>`];
+  if(event.international_category)badges.push('<span class="status-chip international-tag">International</span>');
+  if(predicted)badges.push('<span class="status-chip forecast">예상</span>');
+  if(!date)badges.push('<span class="status-chip tbd">날짜 미정</span>');
   const venue=event.venue_name||event.location||'\uC7A5\uC18C \uBBF8\uC815';
   const deadline=event.registration_deadline?`<span class="deadline">\uC811\uC218 \uB9C8\uAC10 ${esc(fmt(event.registration_deadline))}</span>`:'';
   const links=[deadline];
@@ -68,8 +83,8 @@ function eventCard(event){
   if(safeURL(event.source_url))links.push(`<a href="${esc(event.source_url)}" target="_blank" rel="noopener noreferrer">\uACF5\uC2DD \uC6D0\uBB38 &#8599;</a>`);
   if(safeURL(event.registration_url))links.push(`<a href="${esc(event.registration_url)}" target="_blank" rel="noopener noreferrer">\uC811\uC218 &#8599;</a>`);
   links.push(`<a class="detail-open" href="${esc(detailHref(event))}">\uB300\uD68C \uC0C1\uC138\uC815\uBCF4 &#8594;</a>`);
-  const eventTitle=calendarDisplayTitle(event,predicted);
-  return `<article class="event-card ${predicted?'forecast-event':''}"><div class="event-date ${date?'':'tbd'} ${predicted?'predicted':''}"><span class="mon">${date?month:'DATE'}</span><span class="day">${date?String(date.d).padStart(2,'0'):'TBD'}</span><span class="year">${date?date.y:event.year}</span>${predicted?'<span class="date-micro">\uC608\uC815\uC77C</span>':''}</div><div class="event-content"><div class="event-meta">${tags.join('')}</div><h3 class="event-title">${esc(eventTitle)}</h3><p class="event-description">${esc(event.event_description||event.tier_basis||'\uC138\uBD80 \uC815\uBCF4\uB97C \uD655\uC778\uD558\uC138\uC694.')}</p><div class="event-sub"><span>&#9719; ${esc(dateLabel)}</span><span>&#9906; ${esc(venue)}</span></div><div class="event-extra">${links.join('')}</div>${evidenceDetails(event)}</div></article>`;
+  const eventTitle=eventCardName(event);
+  return `<article class="event-card ${predicted?'forecast-event':''}"><div class="event-date ${date?'':'tbd'} ${predicted?'predicted':''}"><span class="mon">${date?month:'DATE'}</span><span class="day">${date?String(date.d).padStart(2,'0'):'TBD'}</span><span class="year">${date?date.y:event.year}</span>${predicted?'<span class="date-micro">예정일</span>':''}</div><div class="event-content"><div class="event-meta">${badges.join('')}</div><h3 class="event-title">${esc(eventTitle)}</h3><div class="event-summary">${summary.join('')}</div><div class="event-sub"><span>&#9719; ${esc(dateLabel)}</span><span>&#9906; ${esc(venue)}</span></div><div class="event-extra">${links.join('')}</div>${evidenceDetails(event)}</div></article>`;
 }
 function bindDetailButtons(parent){
   parent.querySelectorAll('[data-detail]').forEach(btn=>btn.addEventListener('click',()=>{
@@ -98,6 +113,8 @@ function renderDetailBody(event){
   const evidence=(event.prediction?.evidence||[]).map(v=>`${v.year}: ${v.start_date}~${v.end_date}`).join(' / ');
   const participant=event.prior_participants?`${Number(event.prior_participants).toLocaleString('en-US')} (${event.prior_participants_year}\uB144)`:'';
   const lines=[
+    row('캘린더 기본 분류',event.calendar_bucket||'미분류'),
+    row('Host / 경기계열',hostNames[hostFamily(event)]||'기타 / 독립'),
     row('\uC8FC\uC694 \uACC4\uC5F4',groupNames[event.group]||event.group),
     row('\uB300\uD68C \uC2DC\uB9AC\uC988',event.series_name||'\uBBF8\uB4F1\uB85D'),
     row('\uC2DC\uB9AC\uC988 \uAE30\uBCF8 \uC815\uBCF4',event.series_note),
@@ -140,7 +157,7 @@ function renderDetailBody(event){
     !date?`<div class="detail-warning">\uC138\uBD80 \uB0A0\uC9DC \uBBF8\uACF5\uAC1C. \uD655\uC815 \uD6C4 \uCE98\uB9B0\uB354\uC5D0 \uC790\uB3D9 \uBC18\uC601\uB429\uB2C8\uB2E4.</div>`:'';
   const downloadable=Boolean(date);
   return `<div class="detail-heading"><span class="tier-badge tier-${esc(event.tier||'C')}">${esc(event.tier||'C')}</span><span class="org-label">${esc(event.organization)}</span></div>
-    <h2>${esc(calendarDisplayTitle(event,predicted))}</h2>
+    <h2>${esc(eventCardName(event))}</h2>
     <p class="detail-lead">${esc(event.event_description||event.tier_basis||'')}</p>${note}${identityDetails(event)}
     <div class="detail-links">${links||'<span>\uC6D0\uBB38 \uB9C1\uD06C \uBBF8\uD655\uC778</span>'}</div>
     <h3>\uB300\uD68C \uC0C1\uC138 \uC815\uBCF4</h3><dl class="detail-grid">${lines.join('')}</dl>
@@ -192,7 +209,7 @@ function render(){
 function setView(view){state.view=view;render()}
 function nextMonth(offset){const d=new Date(Date.UTC(state.month.y,state.month.m-1+offset,1));state.month={y:d.getUTCFullYear(),m:d.getUTCMonth()+1};render()}
 function feedCount(feed){
-  const match=e=>['S','A','B'].includes(e.tier)&&e.type==='competition';
+  const match=e=>['S','A','B','C'].includes(e.tier)&&e.type==='competition';
   const cutoff=addDays(todayNY(),-90);
   return state.events.filter(e=>{
     if(!match(e))return false;
@@ -200,13 +217,14 @@ function feedCount(feed){
     if(feed==='historical')return Boolean(when&&when<cutoff);
     if(!when||when<cutoff)return false;
     if(feed==='registration')return precision(e)==='confirmed'&&['registration_open','registration_deadline','late_deadline'].some(k=>e[k]&&e[k]>=cutoff);
-    if(feed==='all')return true;
-    if(['s','a','b'].includes(feed))return e.tier===feed.toUpperCase();
-    if(feed==='s-confirmed'||feed==='a-confirmed')return precision(e)==='confirmed'&&e.tier===feed[0].toUpperCase();
-    if(feed==='international')return Boolean(e.international_category);
+    const bucket=e.calendar_bucket||'';
+    if(feed==='all')return bucket!=='SMALL';
+    if(['s','a','b','etc','international','small'].includes(feed))return bucket===feed.toUpperCase();
+    if(feed==='s-confirmed'||feed==='a-confirmed')return precision(e)==='confirmed'&&bucket===feed[0].toUpperCase();
+    if(bucket==='INTERNATIONAL'||bucket==='SMALL')return false; // exclusive primary feeds.
     if(feed==='northeast')return ['NY','NJ','CT','PA'].includes(e.state);
     if(feed==='korea')return e.group==='KOREA';
-    if(feed==='independent')return e.group==='INDEPENDENT';
+    if(feed==='independent')return bucket==='ETC';
     return e.organization?.toLowerCase()===feed;
   }).length;
 }
@@ -223,7 +241,7 @@ async function renderPublicGoogleCalendars(){
   el.innerHTML=data.calendars.map(cal=>{
     const url='https://calendar.google.com/calendar/u/0/r?cid='+encodeURIComponent(cal.calendar_id);
     return `<div class="feed-item"><div class="feed-top"><b>${esc(cal.name)}</b></div><div class="feed-sub">${esc(cal.tier)}급 구독 · 공개 일정/예정일 포함 · 대회 메모에서 상세 링크 열기</div><div class="feed-actions"><a href="${esc(url)}" target="_blank" rel="noopener noreferrer">Google Calendar에 추가 ↗</a></div></div>`;
-  }).join('')+'<p class="worker-help">S/A/B는 겹치지 않으며, All과 개별 등급을 함께 구독하면 중복될 수 있습니다.</p>';
+  }).join('')+'<p class="worker-help">International/S/A/B/ETC/Small은 상호 배타적입니다. All은 Small을 제외한 주요대회 통합 피드입니다.</p>';
 }
 function renderSources(){
   const statuses=state.meta.sources||{};
@@ -269,12 +287,12 @@ function customSubscription(){
   copyText(url.toString());
 }
 function setup(){
-  for(const [id,key,eventName] of [['searchInput','search','input'],['orgSelect','org','change'],['groupSelect','group','change'],['scopeSelect','scope','change'],['identitySelect','identity','change'],['tierSelect','tier','change'],['pathwaySelect','pathway','change'],['typeSelect','type','change'],['regionSelect','region','change'],['disciplineSelect','discipline','change'],['precisionSelect','precision','change'],['timeSelect','time','change']]){
+  for(const [id,key,eventName] of [['searchInput','search','input'],['hostSelect','host','change'],['orgSelect','org','change'],['scopeSelect','scope','change'],['identitySelect','identity','change'],['tierSelect','tier','change'],['pathwaySelect','pathway','change'],['regionSelect','region','change'],['disciplineSelect','discipline','change'],['precisionSelect','precision','change'],['timeSelect','time','change']]){
     $(id).addEventListener(eventName,e=>{state.filters[key]=e.target.value;render()});
   }
   $('resetFilters').onclick=()=>{
     state.filters={...defaults};
-    for(const [id,key] of [['searchInput','search'],['orgSelect','org'],['groupSelect','group'],['scopeSelect','scope'],['identitySelect','identity'],['tierSelect','tier'],['pathwaySelect','pathway'],['typeSelect','type'],['regionSelect','region'],['disciplineSelect','discipline'],['precisionSelect','precision'],['timeSelect','time']])$(id).value=defaults[key];
+    for(const [id,key] of [['searchInput','search'],['hostSelect','host'],['orgSelect','org'],['scopeSelect','scope'],['identitySelect','identity'],['tierSelect','tier'],['pathwaySelect','pathway'],['regionSelect','region'],['disciplineSelect','discipline'],['precisionSelect','precision'],['timeSelect','time']])$(id).value=defaults[key];
     $('includeRegistration').checked=false;render();
   };
   $('closeEventDialog').onclick=()=>$('eventDialog').close();

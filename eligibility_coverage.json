@@ -1,9 +1,14 @@
 {
-  "awaiting_event_year_verification": 66,
-  "s_a_events": 66,
+  "awaiting_event_year_verification": 67,
+  "s_a_events": 67,
   "source_rules": 10,
   "with_verified_reference": 63,
   "without_verified_reference": [
+    {
+      "id": "evt_dda11f6d04e8cda564",
+      "title": "2026 CMA Nationals",
+      "year": 2026
+    },
     {
       "id": "evt_eda25645904f7c3470",
       "title": "2027 WT Grand Prix Challenge (Muju, Korea)",

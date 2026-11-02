@@ -18,6 +18,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2024 USATKD New York State Championship
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Fitzgerald Gymnasium\, Queens College\, 65-30 Kissena Blvd\, Flush
  ing\, NY 11367
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
@@ -44,6 +45,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2025 AAU New York Metropolitan District Championship
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Fitzgerald Gymnasium\, Queens College\, 65-30 Kissena Blvd\, Flush
  ing\, NY 11367
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
@@ -68,6 +70,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2025 USATKD New York State Championship
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Fitzgerald Gymnasium\, Queens College\, 65-30 Kissena Blvd\, Flush
  ing\, NY 11367
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
@@ -94,6 +97,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2025 U.S. AMERICAN OPEN EAST
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Richmond\, VA\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USATKD\nIdentity/entry: USATK
@@ -116,6 +120,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD S] 2025 U.S. NATIONAL CHAMPIONSHIPS
+X-TKD-CALENDAR-BUCKET:S
 LOCATION:Ontario\, CA\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  ditorial\, not federation grade)\nOrganizer: USATKD\nIdentity/entry: World
@@ -138,6 +143,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2025 U.S. SEASON FINAL & SPORT FESTIVAL
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Daytona Beach\, FL\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USATKD\nIdentity/entry: USATK
@@ -160,6 +166,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU North Carolina District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:NC\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -183,6 +190,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD S] 2026 U.S. National Taekwondo Team Trials
+X-TKD-CALENDAR-BUCKET:S
 LOCATION:TULSA\, OK\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
@@ -206,6 +214,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Southwestern District Championship
+X-TKD-CALENDAR-BUCKET:B
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
@@ -227,6 +236,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 Metro Open International
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Ronald G. Stone Community Gymnasium\, Newark\, NJ
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: Mohamed Elshikh / Metro Open 
@@ -253,6 +263,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Georgia District/State Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:GA\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -276,6 +287,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Virginia District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:VA\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -299,6 +311,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Florida District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:FL\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -322,6 +335,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD W] 2026 U.S. Open Championships
+X-TKD-CALENDAR-BUCKET:INTERNATIONAL
 X-TKD-INTERNATIONAL:TRUE
 LOCATION:Las Vegas\, NV
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
@@ -347,6 +361,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Michigan District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:MI\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -370,6 +385,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Utah District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:UT\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -393,6 +409,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Potomac Valley District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:MD\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -416,6 +433,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Southeastern District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:TN\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -439,6 +457,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 Virginia State Taekwondo Championship
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Sterling\, VA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: Virginia Taekwondo Associatio
@@ -462,6 +481,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Missouri Valley District Championship
+X-TKD-CALENDAR-BUCKET:B
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
@@ -483,6 +503,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU New Mexico District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:NM\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -506,6 +527,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 AAU New York Metropolitan District Championship
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:NY\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -529,6 +551,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 AAU Pacific Northwest Regional Championship
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:WA\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -552,6 +575,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 Georgia State Taekwondo Championship
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Napoleon Fielder Recreation Center\, 1598 East 16th St\, Rome\, GA
   30161
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
@@ -577,6 +601,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 USATKD New York State Championship
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Fitzgerald Gymnasium\, Queens College\, 65-30 Kissena Blvd\, Flush
  ing\, NY 11367
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
@@ -603,6 +628,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 California State Taekwondo Championship
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Selland Arena\, Fresno Convention Center\, 700 M Street\, Fresno\,
   CA 93721
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
@@ -627,6 +653,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU New England District Championship
+X-TKD-CALENDAR-BUCKET:B
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
@@ -648,6 +675,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Ohio District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:OH\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -671,6 +699,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU South Texas District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:TX\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -694,6 +723,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Central District Championship
+X-TKD-CALENDAR-BUCKET:B
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
@@ -715,6 +745,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Iowa District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:IA\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -738,6 +769,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Maryland District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:MD\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -761,6 +793,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Florida Gold Coast District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:FL\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -784,6 +817,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 NCTA National Collegiate and High School Championships
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Woollen Gymnasium\, UNC Chapel Hill\, 300 South Rd\, Chapel Hill\,
   NC 27599
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
@@ -811,6 +845,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Minnesota District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:MN\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -834,6 +869,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Puerto Rico District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:PR\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -857,6 +893,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Southern Pacific District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:CA\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -880,6 +917,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 Texas State Taekwondo Championship
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:The OC\, 680 Innovation Blvd\, Forney\, TX
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: Texas State Championship orga
@@ -903,6 +941,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Ozark District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:MO\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -926,6 +965,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Arizona District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:AZ\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -949,6 +989,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Colorado District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:CO\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -972,6 +1013,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Indiana District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:IN\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -995,6 +1037,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Oklahoma District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:OK\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -1018,6 +1061,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 AAU Region 1 Championships - Battle of New York
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:CMA Headquarters\, 200A Glen Cove Rd\, Carle Place\, NY 11514
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU Taekwondo Region 1\nAffil
@@ -1041,6 +1085,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Gulf District Championship
+X-TKD-CALENDAR-BUCKET:B
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
@@ -1062,6 +1107,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Niagara District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:NY\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -1085,6 +1131,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Oregon District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:OR\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -1108,6 +1155,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 AAU Region 10 Championship
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
@@ -1129,6 +1177,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Adirondack District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:NY\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -1152,6 +1201,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Middle Atlantic District Championship
+X-TKD-CALENDAR-BUCKET:B
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
@@ -1173,6 +1223,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Montana District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:MT\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -1196,6 +1247,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Wisconsin District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:WI\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -1219,6 +1271,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Western Pennsylvania District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:PA\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -1242,6 +1295,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 U.S. TAEKWONDO AMERICAN OPEN - EAST
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Oaks\, PA\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
@@ -1265,6 +1319,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Connecticut District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:CT\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -1288,6 +1343,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2026 AAU Kentucky District Championship
+X-TKD-CALENDAR-BUCKET:B
 LOCATION:KY\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -1311,6 +1367,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 AAU Region 9 Championship
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
@@ -1332,6 +1389,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 AAU North Carolina Super Regionals
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:NC\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
@@ -1355,6 +1413,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 U.S. TAEKWONDO AMERICAN OPEN - WEST
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Tucson\, AZ\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
@@ -1378,6 +1437,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD S] 2026 U.S. NATIONAL TAEKWONDO CHAMPIONSHIPS
+X-TKD-CALENDAR-BUCKET:S
 LOCATION:Charlotte\, NC\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U

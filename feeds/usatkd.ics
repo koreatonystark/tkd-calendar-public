@@ -18,6 +18,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 U.S. TAEKWONDO SEASON FINAL
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Little Rock\, AR\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
@@ -31,31 +32,6 @@ URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_6d513f4
 X-TKD-DETAIL-PATH:events/evt_6d513f4b09b0196304.html
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_e1abea5fa30cd9303b@tkd-calendar.local
-DTSTAMP:20261102T022102Z
-LAST-MODIFIED:20261102T022102Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261026
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-TKD-EDITORIAL-GRADE:S
-SUMMARY:[TKD W] 2026 Pan American Club Championship
-X-TKD-INTERNATIONAL:TRUE
-LOCATION:Daytona Beach\, FL\, United States
-DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
- ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
- SA Taekwondo\nCategory: International competition (see organizing federati
- on on event page)\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 
- 이상\, 성인 SafeSport\nVenue: City/state only\; exact address unconfir
- med\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd
- -calendar-public/events/evt_e1abea5fa30cd9303b.html\nConfirm official entr
- y rules before booking travel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e1abea5
- fa30cd9303b.html
-X-TKD-DETAIL-PATH:events/evt_e1abea5fa30cd9303b.html
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_e7d2c94095d74f1041@tkd-calendar.local
 DTSTAMP:20261102T022102Z
 LAST-MODIFIED:20261102T022102Z
@@ -66,6 +42,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 Lion's Cup
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Azusa\, CA\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USATKD\nAffiliation: USATKD\n
@@ -89,6 +66,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD S] 2027 U.S. National TKD Team Trials
+X-TKD-CALENDAR-BUCKET:S
 LOCATION:Memphis\, TN
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
@@ -104,30 +82,6 @@ URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_133ef94
 X-TKD-DETAIL-PATH:events/evt_133ef943baa2d4c948.html
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_72f303a85ad6ee5a7f@tkd-calendar.local
-DTSTAMP:20261102T022102Z
-LAST-MODIFIED:20261102T022102Z
-SEQUENCE:4
-DTSTART;VALUE=DATE:20270318
-DTEND;VALUE=DATE:20270322
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-TKD-EDITORIAL-GRADE:S
-SUMMARY:[TKD W] 2027 U.S. Open Championships
-X-TKD-INTERNATIONAL:TRUE
-DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
- ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
- SATKD\nEligibility: Check full entry conditions on detail page\nCategory: 
- International competition (see organizing federation on event page)\nIdent
- ity/entry: 국제오픈: WT GAL 필수(미국 시민권 일괄 요건 아
- 님)\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tk
- d-calendar-public/events/evt_72f303a85ad6ee5a7f.html\nConfirm official ent
- ry rules before booking travel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_72f303a
- 85ad6ee5a7f.html
-X-TKD-DETAIL-PATH:events/evt_72f303a85ad6ee5a7f.html
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_b3683a1747010b43b9@tkd-calendar.local
 DTSTAMP:20261102T022102Z
 LAST-MODIFIED:20261102T022102Z
@@ -138,6 +92,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 American Open East
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
@@ -160,6 +115,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 American Open West
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
@@ -182,6 +138,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD S] 2027 U.S. National Championships
+X-TKD-CALENDAR-BUCKET:S
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
@@ -204,6 +161,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 U.S. Season Final
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:The Podium Powered by STCU\, 511 West Joe Albi Way\, Spokane\, WA 
  99201
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
@@ -231,6 +189,7 @@ X-TKD-FORECAST-CONFIDENCE:LOW
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 California State Taekwondo Championship
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
  · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
@@ -258,6 +217,7 @@ X-TKD-FORECAST-CONFIDENCE:LOW
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 Georgia State Taekwondo Championship
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
  · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
@@ -285,6 +245,7 @@ X-TKD-FORECAST-CONFIDENCE:LOW
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 Metro Open International
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
  · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
@@ -312,6 +273,7 @@ X-TKD-FORECAST-CONFIDENCE:LOW
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 NCTA National Collegiate and High School Championships
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
  · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
@@ -324,35 +286,6 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
 URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_5060b73
  6317dabde37.html
 X-TKD-DETAIL-PATH:events/evt_5060b736317dabde37.html
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_10acbb0b75c867aea5@tkd-calendar.local
-DTSTAMP:20261031T190032Z
-LAST-MODIFIED:20261031T190032Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20271022
-DTEND;VALUE=DATE:20271023
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
-X-TKD-FORECAST-CONFIDENCE:LOW
-X-TKD-NOT-A-REAL-DATE:TRUE
-X-TKD-EDITORIAL-GRADE:S
-SUMMARY:[TKD W] 2027 Pan American Club Championship
-X-TKD-INTERNATIONAL:TRUE
-DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
- · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
- 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
- dition not confirmed\nTKD Hub importance: S (editorial\, not federation gr
- ade)\nOrganizer: USATKD\nCategory: International competition (see organizi
- ng federation on event page)\nIdentity/entry: USATKD 회원 등록\; 벨
- 트 옐로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\;
-  confidence low\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.g
- ithub.io/tkd-calendar-public/events/evt_10acbb0b75c867aea5.html\nConfirm o
- fficial entry rules before booking travel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_10acbb0
- b75c867aea5.html
-X-TKD-DETAIL-PATH:events/evt_10acbb0b75c867aea5.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_5aee50177dc1de9888@tkd-calendar.local
@@ -368,6 +301,7 @@ X-TKD-FORECAST-CONFIDENCE:LOW
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 Texas State Taekwondo Championship
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
  · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
@@ -395,6 +329,7 @@ X-TKD-FORECAST-CONFIDENCE:MEDIUM
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 USATKD New York State Championship
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
  n근거: 2024·2025·2026 개최 시작일 / 공식 발표 시 자동 수
  정됨\nStatus: [Projected] planning estimate — date/edition not confirm
@@ -422,6 +357,7 @@ X-TKD-FORECAST-CONFIDENCE:LOW
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 Virginia State Taekwondo Championship
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
  · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e

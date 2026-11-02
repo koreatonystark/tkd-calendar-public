@@ -1,6 +1,6 @@
 /* Shared event filtering and custom ICS renderer for the website and optional edge Worker.
    Personal participation, HomeBoard schedules and Google tokens are intentionally absent. */
-export const keys = ['search', 'org', 'group', 'scope', 'identity', 'tier', 'pathway', 'type', 'region', 'discipline', 'precision', 'time', 'registration'];
+export const keys = ['search', 'host', 'org', 'group', 'scope', 'identity', 'tier', 'bucket', 'pathway', 'type', 'region', 'discipline', 'precision', 'time', 'registration'];
 export const northeast = new Set(['NY', 'NJ', 'CT', 'PA']);
 export const dateDigits = iso => String(iso || '').replace(/-/g, '');
 export const dateAdd = (iso, n = 1) => {
@@ -17,11 +17,26 @@ export function dateValue(event) { return event.calendar_date || event.start_dat
 export function precision(event) {
   return (event.date_precision === 'predicted_month' ? 'predicted_date' : event.date_precision) || (event.start_date && event.verified ? 'confirmed' : event.prediction?.date ? 'predicted_date' : 'unknown');
 }
+export function hostFamily(event) {
+  const org=String(event.organization||'').trim().toUpperCase();
+  return event.host_family || (['USATKD','AAU','CMA'].includes(org) ? org : 'ETC');
+}
+export function eventCardName(event) {
+  const title=String(event.title||'').trim();
+  const org=String(event.organization||'').trim();
+  // Browser heading only; official ICS/SUMMARY and canonical UID are not changed.
+  if (!['ATA','ITF','TA'].includes(org.toUpperCase())) return title;
+  const m=title.match(/^(20\d{2})\s+(.+)$/);
+  if (m && m[2].toUpperCase().startsWith(org.toUpperCase()+' ')) return org+' '+m[1]+' '+m[2].slice(org.length+1);
+  return title;
+}
 export function normalizeFilters(raw={}) {
   const f = {};
   for (const key of keys) f[key] = String(raw[key] || '').slice(0, key === 'search' ? 96 : 25);
   if (f.precision === 'predicted_month') f.precision = 'predicted_date';
   if (!Object.prototype.hasOwnProperty.call(raw, 'tier')) f.tier='S,A,B';
+  // This public directory is for competitions only; camps have no Class/Small feed.
+  if (!Object.prototype.hasOwnProperty.call(raw, 'type')) f.type='competition';
   return f;
 }
 export function filterEvents(events, raw={}, now=todayNY()) {
@@ -30,6 +45,8 @@ export function filterEvents(events, raw={}, now=todayNY()) {
   return events.filter(event => {
     if (q && !`${event.title} ${event.organization} ${event.location} ${event.venue_address||''} ${event.organizer||''} ${event.sanctioning_body||''} ${event.event_description||''} ${event.type} ${(event.disciplines||[]).join(' ')}`.toLocaleLowerCase().includes(q)) return false;
     if (f.tier && !f.tier.split(',').includes(event.tier||'C')) return false;
+    if (f.host && hostFamily(event) !== f.host) return false;
+    if (f.bucket && event.calendar_bucket !== f.bucket) return false;
     if (f.group && event.group !== f.group) return false;
     if (f.scope === 'international' && !event.international_category) return false;
     if (f.scope === 'domestic' && event.international_category) return false;
@@ -161,6 +178,7 @@ function writeEvent(event, variant='event',options={}) {
   if(preliminary)lines.push('X-TKD-DATE-PRECISION:'+(event.prediction?.support===1?'ANNUAL_SERIES_ONE_YEAR':'EARLIEST_START_3Y_WEEKDAY_SAFE'),'X-TKD-NOT-A-REAL-DATE:TRUE');
   if(['S','A','B'].includes(event.tier))lines.push('X-TKD-EDITORIAL-GRADE:'+event.tier);
   lines.push('SUMMARY:'+escICS(name));
+  if(event.calendar_bucket)lines.push('X-TKD-CALENDAR-BUCKET:'+event.calendar_bucket);
   if(event.international_category)lines.push('X-TKD-INTERNATIONAL:TRUE');
   const venueLocation=event.venue_address?[event.venue_name,event.venue_address].filter(Boolean).join(', '):(event.location||'');
   if(venueLocation)lines.push('LOCATION:'+escICS(venueLocation));

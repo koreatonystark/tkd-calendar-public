@@ -17,6 +17,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 U.S. TAEKWONDO SEASON FINAL
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Little Rock\, AR\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
@@ -30,6 +31,29 @@ URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_6d513f4
 X-TKD-DETAIL-PATH:events/evt_6d513f4b09b0196304.html
 END:VEVENT
 BEGIN:VEVENT
+UID:evt_dda11f6d04e8cda564@tkd-calendar.local
+DTSTAMP:20261102T033538Z
+LAST-MODIFIED:20261102T033538Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 CMA Nationals
+X-TKD-CALENDAR-BUCKET:A
+LOCATION:Queens\, NY
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: Champions Martial Arts (CMA)\
+ nEligibility: Check full entry conditions on detail page\nVenue: City/stat
+ e only\; exact address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https
+ ://koreatonystark.github.io/tkd-calendar-public/events/evt_dda11f6d04e8cda
+ 564.html\nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_dda11f6
+ d04e8cda564.html
+X-TKD-DETAIL-PATH:events/evt_dda11f6d04e8cda564.html
+END:VEVENT
+BEGIN:VEVENT
 UID:evt_e7d2c94095d74f1041@tkd-calendar.local
 DTSTAMP:20261102T022102Z
 LAST-MODIFIED:20261102T022102Z
@@ -40,6 +64,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 Lion's Cup
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Azusa\, CA\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USATKD\nAffiliation: USATKD\n
@@ -53,55 +78,6 @@ URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e7d2c94
 X-TKD-DETAIL-PATH:events/evt_e7d2c94095d74f1041.html
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_4bb8cf22aba99d4ea4@tkd-calendar.local
-DTSTAMP:20261031T180000Z
-LAST-MODIFIED:20261031T180000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20261204
-DTEND;VALUE=DATE:20261206
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-TKD-EDITORIAL-GRADE:A
-SUMMARY:[TKD A] ATA 2026 H.U. Lee Classic
-LOCATION:Little Rock\, AR
-DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
- ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
- : ATA\nEligibility: Check full entry conditions on detail page\nRanking: L
- isted for some divisions\; check which organization/points on detail page\
- nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS / ENTRY 
- / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/events/ev
- t_4bb8cf22aba99d4ea4.html\nConfirm official entry rules before booking tra
- vel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_4bb8cf2
- 2aba99d4ea4.html
-X-TKD-DETAIL-PATH:events/evt_4bb8cf22aba99d4ea4.html
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_da5fa33a061e407444@tkd-calendar.local
-DTSTAMP:20261031T180000Z
-LAST-MODIFIED:20261031T180000Z
-SEQUENCE:0
-DTSTART;VALUE=DATE:20270122
-DTEND;VALUE=DATE:20270124
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-TKD-EDITORIAL-GRADE:A
-SUMMARY:[TKD A] TA 2027 National Tournament
-LOCATION:Northern Kentucky Convention Center\, 1 W Rivercenter Blvd\, Covin
- gton\, KY 41011
-DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
- ditorial\, not federation grade)\nOrganizer: Taekwondo America\nAffiliatio
- n: Taekwondo America\nEligibility: Check full entry conditions on detail p
- age\nIdentity/entry: TA 회원 도장 소속·학교장을 통한 등록\n
- Registration deadline: 2027-01-13\nVenue: Map/location field has the publi
- shed address\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.gith
- ub.io/tkd-calendar-public/events/evt_da5fa33a061e407444.html\nConfirm offi
- cial entry rules before booking travel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_da5fa33
- a061e407444.html
-X-TKD-DETAIL-PATH:events/evt_da5fa33a061e407444.html
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_add62b5dd9e92cb6a5@tkd-calendar.local
 DTSTAMP:20261031T180000Z
 LAST-MODIFIED:20261031T180000Z
@@ -112,6 +88,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 AAU Oregon Region 12 Qualifier
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Parkrose High School\, 12003 NE Shaver St\, Portland\, OR 97220
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU Oregon / Region 12 organi
@@ -136,6 +113,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 American Open East
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
@@ -158,6 +136,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 American Open West
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
@@ -180,6 +159,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 U.S. Season Final
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:The Podium Powered by STCU\, 511 West Joe Albi Way\, Spokane\, WA 
  99201
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e

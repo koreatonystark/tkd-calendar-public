@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:TKD S+A+B - All Significant Competitions
+X-WR-CALNAME:TKD - All Significant Competitions
 X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
  는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
  하세요.
@@ -18,6 +18,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2026 Lion's Cup
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Azusa\, CA\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USATKD\nAffiliation: USATKD\n

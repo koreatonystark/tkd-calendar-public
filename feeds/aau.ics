@@ -18,6 +18,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 AAU Oregon Region 12 Qualifier
+X-TKD-CALENDAR-BUCKET:A
 LOCATION:Parkrose High School\, 12003 NE Shaver St\, Portland\, OR 97220
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU Oregon / Region 12 organi
@@ -45,6 +46,7 @@ X-TKD-FORECAST-CONFIDENCE:HIGH
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD S] 2027 AAU Junior Olympic Games
+X-TKD-CALENDAR-BUCKET:S
 LOCATION:Houston\, TX
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 높음)\
  n근거: 2024·2025·2026 개최 시작일 / 공식 발표 시 자동 수
@@ -73,6 +75,7 @@ X-TKD-FORECAST-CONFIDENCE:MEDIUM
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 AAU New York Metropolitan District Championship
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
  n근거: 2025·2026 개최 시작일 / 공식 발표 시 자동 수정됨\
  nStatus: [Projected] planning estimate — date/edition not confirmed\nTKD
@@ -99,6 +102,7 @@ X-TKD-FORECAST-CONFIDENCE:LOW
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 AAU North Carolina Super Regionals
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
  · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
@@ -125,6 +129,7 @@ X-TKD-FORECAST-CONFIDENCE:LOW
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 AAU Pacific Northwest Regional Championship
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
  · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
@@ -151,6 +156,7 @@ X-TKD-FORECAST-CONFIDENCE:LOW
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 AAU Region 1 Championships - Battle of New York
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
  · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
@@ -177,6 +183,7 @@ X-TKD-FORECAST-CONFIDENCE:LOW
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 AAU Region 10 Championship
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
  · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
@@ -203,6 +210,7 @@ X-TKD-FORECAST-CONFIDENCE:LOW
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:A
 SUMMARY:[TKD A] 2027 AAU Region 9 Championship
+X-TKD-CALENDAR-BUCKET:A
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
  · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
@@ -229,6 +237,7 @@ X-TKD-FORECAST-CONFIDENCE:HIGH
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD S] 2027 AAU Taekwondo Nationals
+X-TKD-CALENDAR-BUCKET:S
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 높음)\
  n근거: 2024·2025·2026 개최 시작일 / 공식 발표 시 자동 수
  정됨\nStatus: [Projected] planning estimate — date/edition not confirm
@@ -256,6 +265,7 @@ X-TKD-FORECAST-CONFIDENCE:MEDIUM
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD S] 2027 AAU Team Trials
+X-TKD-CALENDAR-BUCKET:S
 LOCATION:Houston\, TX
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
  n근거: 2025·2026 개최 시작일 / 공식 발표 시 자동 수정됨\

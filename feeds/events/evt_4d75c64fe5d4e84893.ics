@@ -3,7 +3,7 @@ VERSION:2.0
 PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:TKD S+A+B - All Significant Competitions
+X-WR-CALNAME:TKD - All Significant Competitions
 X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
  는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
  하세요.
@@ -21,6 +21,7 @@ X-TKD-FORECAST-CONFIDENCE:MEDIUM
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:B
 SUMMARY:[TKD B] 2027 New York Open Taekwondo Championships
+X-TKD-CALENDAR-BUCKET:ETC
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
  n근거: 2025·2026 개최 시작일 / 공식 발표 시 자동 수정됨\
  nStatus: [Projected] planning estimate — date/edition not confirmed\nTKD

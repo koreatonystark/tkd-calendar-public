@@ -909,11 +909,25 @@
       "status": "pending",
       "title": "2027 Taekwondo America National Tournament",
       "year": 2027
+    },
+    {
+      "affiliation_claim": "CMA Champions Open organizer site; venue/date not confirmed by this page; review linked poster/registration",
+      "discovered_by": [
+        "cma_champions_open"
+      ],
+      "id": "candidate_613a554887a11fbaa1",
+      "location": "",
+      "source_url": "https://www.championsopen.us/",
+      "start_date": "",
+      "state": "",
+      "status": "pending",
+      "title": "2026 Champions Open",
+      "year": 2026
     }
   ],
   "counts": {
-    "pending": 65,
-    "total": 65
+    "pending": 66,
+    "total": 66
   },
   "notice": "DISCOVERY ONLY: not verified, graded or included in ICS.",
   "schema_version": 1

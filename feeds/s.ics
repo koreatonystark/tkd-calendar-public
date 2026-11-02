@@ -3,35 +3,10 @@ VERSION:2.0
 PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:TKD S - National & International
+X-WR-CALNAME:TKD S
 X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
  는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
  하세요.
-BEGIN:VEVENT
-UID:evt_e1abea5fa30cd9303b@tkd-calendar.local
-DTSTAMP:20261102T022102Z
-LAST-MODIFIED:20261102T022102Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261026
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-TKD-EDITORIAL-GRADE:S
-SUMMARY:[TKD W] 2026 Pan American Club Championship
-X-TKD-INTERNATIONAL:TRUE
-LOCATION:Daytona Beach\, FL\, United States
-DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
- ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
- SA Taekwondo\nCategory: International competition (see organizing federati
- on on event page)\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 
- 이상\, 성인 SafeSport\nVenue: City/state only\; exact address unconfir
- med\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd
- -calendar-public/events/evt_e1abea5fa30cd9303b.html\nConfirm official entr
- y rules before booking travel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e1abea5
- fa30cd9303b.html
-X-TKD-DETAIL-PATH:events/evt_e1abea5fa30cd9303b.html
-END:VEVENT
 BEGIN:VEVENT
 UID:evt_133ef943baa2d4c948@tkd-calendar.local
 DTSTAMP:20261102T022102Z
@@ -43,6 +18,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD S] 2027 U.S. National TKD Team Trials
+X-TKD-CALENDAR-BUCKET:S
 LOCATION:Memphis\, TN
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
@@ -58,56 +34,6 @@ URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_133ef94
 X-TKD-DETAIL-PATH:events/evt_133ef943baa2d4c948.html
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_e5b6518772c3f00c10@tkd-calendar.local
-DTSTAMP:20261102T022102Z
-LAST-MODIFIED:20261102T022102Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20270317
-DTEND;VALUE=DATE:20270321
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-TKD-EDITORIAL-GRADE:S
-SUMMARY:[TKD S] ATA 2027 Spring Nationals
-LOCATION:Fort Worth Convention Center\, 1201 Houston Street\, Fort Worth\, 
- TX 76102
-DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
- ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
- : ATA\nAge / belt: Official event says all ages\; individual event bracket
- s vary / Official event says all ranks\; some divisions are restricted\nRa
- nking: Listed for some divisions\; check which organization/points on deta
- il page\nVenue: Map/location field has the published address\nFULL DETAILS
-  / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/
- events/evt_e5b6518772c3f00c10.html\nConfirm official entry rules before bo
- oking travel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e5b6518
- 772c3f00c10.html
-X-TKD-DETAIL-PATH:events/evt_e5b6518772c3f00c10.html
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_72f303a85ad6ee5a7f@tkd-calendar.local
-DTSTAMP:20261102T022102Z
-LAST-MODIFIED:20261102T022102Z
-SEQUENCE:4
-DTSTART;VALUE=DATE:20270318
-DTEND;VALUE=DATE:20270322
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-TKD-EDITORIAL-GRADE:S
-SUMMARY:[TKD W] 2027 U.S. Open Championships
-X-TKD-INTERNATIONAL:TRUE
-DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
- ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
- SATKD\nEligibility: Check full entry conditions on detail page\nCategory: 
- International competition (see organizing federation on event page)\nIdent
- ity/entry: 국제오픈: WT GAL 필수(미국 시민권 일괄 요건 아
- 님)\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tk
- d-calendar-public/events/evt_72f303a85ad6ee5a7f.html\nConfirm official ent
- ry rules before booking travel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_72f303a
- 85ad6ee5a7f.html
-X-TKD-DETAIL-PATH:events/evt_72f303a85ad6ee5a7f.html
-END:VEVENT
-BEGIN:VEVENT
 UID:evt_e819a3218112395b29@tkd-calendar.local
 DTSTAMP:20261102T022102Z
 LAST-MODIFIED:20261102T022102Z
@@ -118,6 +44,7 @@ STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD S] 2027 U.S. National Championships
+X-TKD-CALENDAR-BUCKET:S
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
@@ -128,125 +55,6 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
 URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e819a32
  18112395b29.html
 X-TKD-DETAIL-PATH:events/evt_e819a3218112395b29.html
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_d02150bb464a3f0e6f@tkd-calendar.local
-DTSTAMP:20261102T022102Z
-LAST-MODIFIED:20261102T022102Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20270719
-DTEND;VALUE=DATE:20270725
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-TKD-EDITORIAL-GRADE:S
-SUMMARY:[TKD W] ATA 2027 World Championships
-X-TKD-INTERNATIONAL:TRUE
-LOCATION:Phoenix Convention Center\, 100 N 3rd St\, Phoenix\, AZ 85004
-DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
- ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
- : ATA\nAge / belt: Organizer says all ages and abilities\; individual divi
- sion conditions apply / Organizer says all ranks\; participation may requi
- re ATA membership\nCategory: International competition (see organizing fed
- eration on event page)\nVenue: Map/location field has the published addres
- s\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-c
- alendar-public/events/evt_d02150bb464a3f0e6f.html\nConfirm official entry 
- rules before booking travel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_d02150b
- b464a3f0e6f.html
-X-TKD-DETAIL-PATH:events/evt_d02150bb464a3f0e6f.html
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_58d662f1eba94dbdba@tkd-calendar.local
-DTSTAMP:20261102T022102Z
-LAST-MODIFIED:20261102T022102Z
-SEQUENCE:2
-DTSTART;VALUE=DATE:20271006
-DTEND;VALUE=DATE:20271010
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-TKD-EDITORIAL-GRADE:S
-SUMMARY:[TKD S] ATA 2027 Fall Nationals
-LOCATION:St. Louis\, MO
-DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
- ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
- : ATA\nEligibility: Check full entry conditions on detail page\nVenue: Cit
- y/state only\; exact address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE:
-  https://koreatonystark.github.io/tkd-calendar-public/events/evt_58d662f1e
- ba94dbdba.html\nConfirm official entry rules before booking travel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_58d662f
- 1eba94dbdba.html
-X-TKD-DETAIL-PATH:events/evt_58d662f1eba94dbdba.html
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_3ad5cd1e7aed03d8dc@tkd-calendar.local
-DTSTAMP:20261102T022102Z
-LAST-MODIFIED:20261102T022102Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20271017
-DTEND;VALUE=DATE:20271025
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-TKD-EDITORIAL-GRADE:S
-SUMMARY:[TKD W] ITF 2027 World Championships
-X-TKD-INTERNATIONAL:TRUE
-LOCATION:Asuncion\, Paraguay
-DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
- ditorial\, not federation grade)\nOrganizer: ITF / 2027 local host\nAffili
- ation: ITF (itftkd.sport)\nAge / belt: Junior / Senior divisions\; exact c
- urrent rules to confirm / ITF black belt certificate required per federati
- on policy\nCategory: International competition (see organizing federation 
- on event page)\nIdentity/entry: 국가협회/연맹 등록·선발 자격 
- 필요\nAdvancement: Team pathway\; \nVenue: City/state only\; exact addre
- ss unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.gi
- thub.io/tkd-calendar-public/events/evt_3ad5cd1e7aed03d8dc.html\nConfirm of
- ficial entry rules before booking travel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_3ad5cd1
- e7aed03d8dc.html
-X-TKD-DETAIL-PATH:events/evt_3ad5cd1e7aed03d8dc.html
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_8a86ea7bc0e52381e6@tkd-calendar.local
-DTSTAMP:20261102T022132Z
-LAST-MODIFIED:20261102T022132Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20280329
-DTEND;VALUE=DATE:20280402
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-TKD-EDITORIAL-GRADE:S
-SUMMARY:[TKD S] 2028 ATA Spring Nationals
-LOCATION:Fort Worth\, TX
-DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
- ditorial\, not federation grade)\nOrganizer: ATA\nVenue: City/state only\;
-  exact address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://korea
- tonystark.github.io/tkd-calendar-public/events/evt_8a86ea7bc0e52381e6.html
- \nConfirm official entry rules before booking travel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_8a86ea7
- bc0e52381e6.html
-X-TKD-DETAIL-PATH:events/evt_8a86ea7bc0e52381e6.html
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_8cbb5ae7385636ed6e@tkd-calendar.local
-DTSTAMP:20261102T022132Z
-LAST-MODIFIED:20261102T022132Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20280710
-DTEND;VALUE=DATE:20280716
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-TKD-EDITORIAL-GRADE:S
-SUMMARY:[TKD W] 2028 ATA World Championships
-X-TKD-INTERNATIONAL:TRUE
-LOCATION:Phoenix\, AZ
-DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
- ditorial\, not federation grade)\nOrganizer: ATA\nCategory: International 
- competition (see organizing federation on event page)\nVenue: City/state o
- nly\; exact address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://
- koreatonystark.github.io/tkd-calendar-public/events/evt_8cbb5ae7385636ed6e
- .html\nConfirm official entry rules before booking travel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_8cbb5ae
- 7385636ed6e.html
-X-TKD-DETAIL-PATH:events/evt_8cbb5ae7385636ed6e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_69c4f4fb09fd723854@tkd-calendar.local
@@ -262,6 +70,7 @@ X-TKD-FORECAST-CONFIDENCE:HIGH
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD S] 2027 AAU Junior Olympic Games
+X-TKD-CALENDAR-BUCKET:S
 LOCATION:Houston\, TX
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 높음)\
  n근거: 2024·2025·2026 개최 시작일 / 공식 발표 시 자동 수
@@ -290,6 +99,7 @@ X-TKD-FORECAST-CONFIDENCE:HIGH
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD S] 2027 AAU Taekwondo Nationals
+X-TKD-CALENDAR-BUCKET:S
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 높음)\
  n근거: 2024·2025·2026 개최 시작일 / 공식 발표 시 자동 수
  정됨\nStatus: [Projected] planning estimate — date/edition not confirm
@@ -317,6 +127,7 @@ X-TKD-FORECAST-CONFIDENCE:MEDIUM
 X-TKD-NOT-A-REAL-DATE:TRUE
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD S] 2027 AAU Team Trials
+X-TKD-CALENDAR-BUCKET:S
 LOCATION:Houston\, TX
 DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
  n근거: 2025·2026 개최 시작일 / 공식 발표 시 자동 수정됨\
@@ -331,67 +142,5 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
 URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_69a6895
  fdd9e4d8f73.html
 X-TKD-DETAIL-PATH:events/evt_69a6895fdd9e4d8f73.html
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_10acbb0b75c867aea5@tkd-calendar.local
-DTSTAMP:20261031T190032Z
-LAST-MODIFIED:20261031T190032Z
-SEQUENCE:1
-DTSTART;VALUE=DATE:20271022
-DTEND;VALUE=DATE:20271023
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
-X-TKD-FORECAST-CONFIDENCE:LOW
-X-TKD-NOT-A-REAL-DATE:TRUE
-X-TKD-EDITORIAL-GRADE:S
-SUMMARY:[TKD W] 2027 Pan American Club Championship
-X-TKD-INTERNATIONAL:TRUE
-DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
- · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
- 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
- dition not confirmed\nTKD Hub importance: S (editorial\, not federation gr
- ade)\nOrganizer: USATKD\nCategory: International competition (see organizi
- ng federation on event page)\nIdentity/entry: USATKD 회원 등록\; 벨
- 트 옐로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\;
-  confidence low\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.g
- ithub.io/tkd-calendar-public/events/evt_10acbb0b75c867aea5.html\nConfirm o
- fficial entry rules before booking travel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_10acbb0
- b75c867aea5.html
-X-TKD-DETAIL-PATH:events/evt_10acbb0b75c867aea5.html
-END:VEVENT
-BEGIN:VEVENT
-UID:evt_9c0218fa5b51277acf@tkd-calendar.local
-DTSTAMP:20261031T190412Z
-LAST-MODIFIED:20261031T190412Z
-SEQUENCE:4
-DTSTART;VALUE=DATE:20270716
-DTEND;VALUE=DATE:20270717
-STATUS:TENTATIVE
-TRANSP:TRANSPARENT
-X-TKD-DATE-PRECISION:EARLIEST_START_3Y_WEEKDAY_SAFE
-X-TKD-FORECAST-CONFIDENCE:MEDIUM
-X-TKD-NOT-A-REAL-DATE:TRUE
-X-TKD-EDITORIAL-GRADE:S
-SUMMARY:[TKD W] 2027 World Taekwondo Hanmadang
-X-TKD-INTERNATIONAL:TRUE
-LOCATION:Palma Gymnasium\, Suncheon\, South Korea
-DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
- n근거: 2024·2025·2026 개최 시작일 / 공식 발표 시 자동 수
- 정됨\nStatus: [Projected] planning estimate — date/edition not confirm
- ed\nTKD Hub importance: S (editorial\, not federation grade)\nOrganizer: K
- ukkiwon / host city\nAffiliation: Kukkiwon\nAge / belt: By contest divisio
- n\; current 2027 requirements unpublished / See full eligibility/rules on 
- the event detail page\nCategory: International competition (see organizing
-  federation on event page)\nIdentity/entry: 한국 국적→국내 팀 / 
- 그 외 국적→해외 팀\nForecast basis: 3 prior edition(s)\; confiden
- ce medium\nVenue: City/state only\; exact address unconfirmed\nFULL DETAIL
- S / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public
- /events/evt_9c0218fa5b51277acf.html\nConfirm official entry rules before b
- ooking travel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_9c0218f
- a5b51277acf.html
-X-TKD-DETAIL-PATH:events/evt_9c0218fa5b51277acf.html
 END:VEVENT
 END:VCALENDAR

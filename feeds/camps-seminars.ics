@@ -17,6 +17,7 @@ DTEND;VALUE=DATE:20261109
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SUMMARY:[TKD C] Level Up Sparring Camp
+X-TKD-CALENDAR-BUCKET:UNCLASSIFIED
 LOCATION:Lynnwood\, WA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: C (e
  ditorial\, not federation grade)\nOrganizer: USATKD\nIdentity/entry: USATK
@@ -38,6 +39,7 @@ DTEND;VALUE=DATE:20261206
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SUMMARY:[TKD C] USATKD Poomsae Seminar
+X-TKD-CALENDAR-BUCKET:UNCLASSIFIED
 LOCATION:Fort Worth\, TX
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: C (e
  ditorial\, not federation grade)\nOrganizer: USATKD\nIdentity/entry: USATK
@@ -59,6 +61,7 @@ DTEND;VALUE=DATE:20261214
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SUMMARY:[TKD C] Cadet & Junior Sparring Camp
+X-TKD-CALENDAR-BUCKET:UNCLASSIFIED
 LOCATION:Los Angeles\, CA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: C (e
  ditorial\, not federation grade)\nOrganizer: USATKD\nIdentity/entry: USATK
@@ -80,6 +83,7 @@ DTEND;VALUE=DATE:20270125
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 SUMMARY:[TKD C] Aspiring Athlete Sparring & Poomsae Camp
+X-TKD-CALENDAR-BUCKET:UNCLASSIFIED
 LOCATION:Charlotte\, NC
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: C (e
  ditorial\, not federation grade)\nOrganizer: USATKD\nIdentity/entry: USATK

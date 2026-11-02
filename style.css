@@ -82,3 +82,30 @@
 .identity-audit-link{font-size:11px;color:#9dd0ef}
 /* Linked, static per-tournament detail pages */
 a.detail-open{display:inline-flex;align-items:center;text-decoration:none!important}a.detail-open:hover{color:white}a.detail-page-link{display:block;text-align:center;padding:10px 12px;background:#eef5f2;color:#285951;text-decoration:none;border-radius:7px;font-size:12px;font-weight:780;border:1px solid #cadfda}a.detail-page-link:hover{background:#d7ebe4}
+
+/* v3.0.5 compact Host / Class finder and event cards */
+.primary-filters{display:grid;grid-template-columns:1fr;gap:12px;margin-top:17px;padding:14px;background:#eaf1f0;border:1px solid #cadfdb;border-radius:11px}
+.primary-filters .field-label{font-weight:900;font-size:11px;letter-spacing:.9px;color:#235663;margin:0 0 7px}
+.primary-filters .field-label span{font-weight:650;letter-spacing:0;color:#607b81;margin-left:5px}
+.primary-filters select{height:47px;border-color:#bfd0d1;font-size:13px;font-weight:730}
+.secondary-filters{background:white;border:1px solid #dee7e5;border-radius:10px;margin-top:14px;padding:0 13px}
+.secondary-filters summary{list-style:none;cursor:pointer;padding:13px 5px;color:#345b64;font-size:12px;font-weight:800}
+.secondary-filters summary::-webkit-details-marker{display:none}
+.secondary-filters summary:before{content:'＋';margin-right:8px;color:#628b89}
+.secondary-filters[open] summary:before{content:'－'}
+.secondary-filters summary span{display:block;margin:4px 0 0 23px;color:#8a999a;font-size:10px;font-weight:450}
+.secondary-filter-grid{display:grid;grid-template-columns:1fr;gap:2px 0;padding:0 1px 13px}
+.secondary-filter-grid .field-label{margin:13px 0 5px}
+.event-meta{margin-bottom:8px;gap:8px}
+.event-meta .tier-badge{height:25px;white-space:nowrap;font-size:10px;letter-spacing:.1px;padding:2px 8px}
+.host-line{font-size:11px;font-weight:850;color:#395e67;letter-spacing:.1px}
+.status-chip{padding:3px 8px;border-radius:5px;font-size:10px;font-weight:750;background:#eff4f4;color:#557278}
+.status-chip.forecast{background:#fff1db;color:#945b19}
+.status-chip.tbd{background:#f3f4f4;color:#78848a}
+.event-title{font-size:15px;margin:0 0 9px;line-height:1.4}
+.event-summary{display:flex;gap:5px 7px;flex-wrap:wrap;margin:0 0 11px}
+.fact-chip{font-size:10px;line-height:1.4;padding:3px 7px;border:1px solid #dfe9e7;border-radius:5px;background:#f8faf9;color:#597078;max-width:100%;overflow-wrap:anywhere}
+.fact-chip.citizenship{border-color:#e4d8c8;background:#fff8ef;color:#866445}
+.event-sub{padding-top:8px;border-top:1px solid #f0f3f1}
+@media(max-width:780px){.sidebar{display:block}.primary-filters{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;padding:11px}.secondary-filter-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:0 12px}.sidebar .panel-title{margin-bottom:13px}.sidebar .searchbox{width:100%}.secondary-filters summary span{display:inline;margin-left:8px}}
+@media(max-width:440px){.primary-filters,.secondary-filter-grid{grid-template-columns:1fr}.secondary-filters summary span{display:block;margin:4px 0 0 22px}}

@@ -37,8 +37,8 @@
     "sanctioning_body": 115,
     "venue_address": 30
   },
-  "discovery_sources": 7,
-  "index_sources": 9,
+  "discovery_sources": 8,
+  "index_sources": 10,
   "known_confirmed_states": {
     "AR": 3,
     "AZ": 4,
@@ -64,7 +64,7 @@
     "NJ": 2,
     "NM": 1,
     "NV": 1,
-    "NY": 10,
+    "NY": 11,
     "OH": 2,
     "OK": 2,
     "OR": 2,
@@ -82,9 +82,9 @@
   },
   "nationwide_complete": false,
   "next_steps": "Review candidate sanction/ranking/eligibility; add AAU district and regional published feeds and state organizer sources; maintain manual intake for poster-only events.",
-  "observed_sab_competitions": 140,
-  "review_candidates": 65,
-  "sources_configured": 16,
+  "observed_sab_competitions": 141,
+  "review_candidates": 66,
+  "sources_configured": 18,
   "states_with_no_confirmed_record": [
     "AL",
     "AK",

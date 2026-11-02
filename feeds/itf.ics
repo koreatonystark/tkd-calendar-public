@@ -3,35 +3,8 @@ VERSION:2.0
 PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
-X-WR-CALNAME:TKD ITF (S+A+B)
+X-WR-CALNAME:TKD ITF Domestic (ETC)
 X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
  는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
  하세요.
-BEGIN:VEVENT
-UID:evt_3ad5cd1e7aed03d8dc@tkd-calendar.local
-DTSTAMP:20261102T022102Z
-LAST-MODIFIED:20261102T022102Z
-SEQUENCE:3
-DTSTART;VALUE=DATE:20271017
-DTEND;VALUE=DATE:20271025
-STATUS:CONFIRMED
-TRANSP:TRANSPARENT
-X-TKD-EDITORIAL-GRADE:S
-SUMMARY:[TKD W] ITF 2027 World Championships
-X-TKD-INTERNATIONAL:TRUE
-LOCATION:Asuncion\, Paraguay
-DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
- ditorial\, not federation grade)\nOrganizer: ITF / 2027 local host\nAffili
- ation: ITF (itftkd.sport)\nAge / belt: Junior / Senior divisions\; exact c
- urrent rules to confirm / ITF black belt certificate required per federati
- on policy\nCategory: International competition (see organizing federation 
- on event page)\nIdentity/entry: 국가협회/연맹 등록·선발 자격 
- 필요\nAdvancement: Team pathway\; \nVenue: City/state only\; exact addre
- ss unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.gi
- thub.io/tkd-calendar-public/events/evt_3ad5cd1e7aed03d8dc.html\nConfirm of
- ficial entry rules before booking travel.
-URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_3ad5cd1
- e7aed03d8dc.html
-X-TKD-DETAIL-PATH:events/evt_3ad5cd1e7aed03d8dc.html
-END:VEVENT
 END:VCALENDAR
