@@ -1,0 +1,1233 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TKD Archive - Completed Competitions
+X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
+ 는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
+ 하세요.
+BEGIN:VEVENT
+UID:evt_48af7c37455a80eff6@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20240420
+DTEND;VALUE=DATE:20240421
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2024 USATKD New York State Championship
+LOCATION:Fitzgerald Gymnasium\, Queens College\, 65-30 Kissena Blvd\, Flush
+ ing\, NY 11367
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: New York State Taekwondo Fede
+ ration\nAffiliation: USA Taekwondo\nIdentity/entry: USATKD 회원 등록\;
+  벨트 옐로 이상\, 성인 SafeSport\nAdvancement: Nationals pathway\n
+ Ranking: Listed for some divisions\; check which organization/points on de
+ tail page\nVenue: Map/location field has the published address\nFULL DETAI
+ LS: Site not deployed yet\; see the bundled event page (events/evt_48af7c3
+ 7455a80eff6.html)\nConfirm official entry rules before booking travel.
+URL:https://www.usatkd.org/2024-usatkd-new-york-state-championships
+X-TKD-DETAIL-PATH:events/evt_48af7c37455a80eff6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_658e2187815d7fc351@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250329
+DTEND;VALUE=DATE:20250330
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2025 AAU New York Metropolitan District Championship
+LOCATION:Fitzgerald Gymnasium\, Queens College\, 65-30 Kissena Blvd\, Flush
+ ing\, NY 11367
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: Team Champions USA / Andrew O
+ h\nAffiliation: AAU\nEligibility: Check full entry conditions on detail pa
+ ge\nAdvancement: Nationals pathway\nVenue: Map/location field has the publ
+ ished address\nFULL DETAILS: Site not deployed yet\; see the bundled event
+  page (events/evt_658e2187815d7fc351.html)\nConfirm official entry rules b
+ efore booking travel.
+URL:https://image.aausports.org/dnn/tw/2025/Events/2025_AAUNYMETRO_Packet.p
+ df
+X-TKD-DETAIL-PATH:events/evt_658e2187815d7fc351.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_9e1d36fd3fce3837d1@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20250330
+DTEND;VALUE=DATE:20250331
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2025 USATKD New York State Championship
+LOCATION:Fitzgerald Gymnasium\, Queens College\, 65-30 Kissena Blvd\, Flush
+ ing\, NY 11367
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: New York State Taekwondo Fede
+ ration\nAffiliation: USA Taekwondo\nIdentity/entry: USATKD 회원 등록\;
+  벨트 옐로 이상\, 성인 SafeSport\nAdvancement: Nationals pathway\n
+ Ranking: Listed for some divisions\; check which organization/points on de
+ tail page\nVenue: Map/location field has the published address\nFULL DETAI
+ LS: Site not deployed yet\; see the bundled event page (events/evt_9e1d36f
+ d3fce3837d1.html)\nConfirm official entry rules before booking travel.
+URL:https://www.usatkd.org/2025-usatkd-new-york-state-championships
+X-TKD-DETAIL-PATH:events/evt_9e1d36fd3fce3837d1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_71f3bf5aa4d846a84f@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260117
+DTEND;VALUE=DATE:20260118
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU North Carolina District Championship
+LOCATION:NC\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_71f3bf5aa4
+ d846a84f.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_71f3bf5aa4d846a84f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_6818c3a10c19396510@tkd-calendar.local
+DTSTAMP:20261031T182922Z
+LAST-MODIFIED:20261031T182922Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260130
+DTEND;VALUE=DATE:20260202
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] 2026 U.S. National Taekwondo Team Trials
+LOCATION:Tulsa\, OK
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SA Taekwondo\nIdentity/entry: 미국 대표 선발 경로·국적·선발 
+ 자격 확인\nVenue: City/state only\; exact address unconfirmed\nFULL DE
+ TAILS: Site not deployed yet\; see the bundled event page (events/evt_6818
+ c3a10c19396510.html)\nConfirm official entry rules before booking travel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_6818c3a10c19396510.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_93234864c90f7245fb@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260207
+DTEND;VALUE=DATE:20260208
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Southwestern District Championship
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
+ (events/evt_93234864c90f7245fb.html)\nConfirm official entry rules before 
+ booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_93234864c90f7245fb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_f17e8c692bc461398c@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260214
+DTEND;VALUE=DATE:20260216
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 Metro Open International
+LOCATION:Ronald G. Stone Community Gymnasium\, Newark\, NJ
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: Mohamed Elshikh / Metro Open 
+ International\nAffiliation: USATKD\nEligibility: Check full entry conditio
+ ns on detail page\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 
+ 이상\, 성인 SafeSport\nRanking: Listed for some divisions\; check whic
+ h organization/points on detail page\nRegistration deadline: 2026-02-10\nV
+ enue: City/state only\; exact address unconfirmed\nFULL DETAILS: Site not 
+ deployed yet\; see the bundled event page (events/evt_f17e8c692bc461398c.h
+ tml)\nConfirm official entry rules before booking travel.
+URL:https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blt100c201
+ c77074baa/696ea914a092f407bfcd5f01/Metro_Open_International_2026.pdf
+X-TKD-DETAIL-PATH:events/evt_f17e8c692bc461398c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_07c290a8ea7f9e7c7d@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Georgia District/State Championship
+LOCATION:GA\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_07c290a8ea
+ 7f9e7c7d.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_07c290a8ea7f9e7c7d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_701b4fbc98e5ad1aeb@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260221
+DTEND;VALUE=DATE:20260222
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Virginia District Championship
+LOCATION:VA\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_701b4fbc98
+ e5ad1aeb.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_701b4fbc98e5ad1aeb.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_69a9b11344a50d9c97@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260228
+DTEND;VALUE=DATE:20260301
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Florida District Championship
+LOCATION:FL\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_69a9b11344
+ a50d9c97.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_69a9b11344a50d9c97.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_21f712685f3450cb09@tkd-calendar.local
+DTSTAMP:20261031T182922Z
+LAST-MODIFIED:20261031T182922Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260305
+DTEND;VALUE=DATE:20260309
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD W] 2026 U.S. Open Championships
+X-TKD-INTERNATIONAL:TRUE
+LOCATION:Las Vegas\, NV
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SA Taekwondo\nCategory: International competition (see organizing federati
+ on on event page)\nIdentity/entry: 국제오픈: WT GAL 필수(미국 시
+ 민권 일괄 요건 아님)\nVenue: City/state only\; exact address uncon
+ firmed\nFULL DETAILS: Site not deployed yet\; see the bundled event page (
+ events/evt_21f712685f3450cb09.html)\nConfirm official entry rules before b
+ ooking travel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_21f712685f3450cb09.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_c500caf1b6155395b7@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Michigan District Championship
+LOCATION:MI\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_c500caf1b6
+ 155395b7.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_c500caf1b6155395b7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_0277e853b5e61ff576@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Utah District Championship
+LOCATION:UT\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_0277e853b5
+ e61ff576.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_0277e853b5e61ff576.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_f8ce1093b5a976f509@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Potomac Valley District Championship
+LOCATION:MD\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_f8ce1093b5
+ a976f509.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_f8ce1093b5a976f509.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_2fb699e7475d0ea4a0@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Southeastern District Championship
+LOCATION:TN\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_2fb699e747
+ 5d0ea4a0.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_2fb699e7475d0ea4a0.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_1f156133b798cff1b4@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 Virginia State Taekwondo Championship
+LOCATION:Sterling\, VA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: Virginia Taekwondo Associatio
+ n\nAffiliation: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐
+ 로 이상\, 성인 SafeSport\nVenue: City/state only\; exact address unco
+ nfirmed\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
+ (events/evt_1f156133b798cff1b4.html)\nConfirm official entry rules before 
+ booking travel.
+URL:https://vatkd.org/
+X-TKD-DETAIL-PATH:events/evt_1f156133b798cff1b4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e00a714fcc959810a5@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Missouri Valley District Championship
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
+ (events/evt_e00a714fcc959810a5.html)\nConfirm official entry rules before 
+ booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_e00a714fcc959810a5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e4c4765f1c09573ae8@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU New Mexico District Championship
+LOCATION:NM\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_e4c4765f1c
+ 09573ae8.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_e4c4765f1c09573ae8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_f765f67d20f985eacd@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 AAU New York Metropolitan District Championship
+LOCATION:NY\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_f765f67d20
+ f985eacd.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_f765f67d20f985eacd.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e7e2ae4f854e8b77c4@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 AAU Pacific Northwest Regional Championship
+LOCATION:WA\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_e7e2ae4f85
+ 4e8b77c4.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_e7e2ae4f854e8b77c4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_d61667a07b72b1cbb5@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 Georgia State Taekwondo Championship
+LOCATION:Napoleon Fielder Recreation Center\, 1598 East 16th St\, Rome\, GA
+  30161
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: Georgia State Championship or
+ ganizer\nAffiliation: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨
+ 트 옐로 이상\, 성인 SafeSport\nRegistration deadline: 2026-03-19\nV
+ enue: Map/location field has the published address\nFULL DETAILS: Site not
+  deployed yet\; see the bundled event page (events/evt_d61667a07b72b1cbb5.
+ html)\nConfirm official entry rules before booking travel.
+URL:https://www.usatkd.org/2026-georgia-state-championship
+X-TKD-DETAIL-PATH:events/evt_d61667a07b72b1cbb5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_92a67da46ee70a78f6@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 USATKD New York State Championship
+LOCATION:Fitzgerald Gymnasium\, Queens College\, 65-30 Kissena Blvd\, Flush
+ ing\, NY 11367
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: New York State Taekwondo Fede
+ ration\nAffiliation: USA Taekwondo\nIdentity/entry: USATKD 회원 등록\;
+  벨트 옐로 이상\, 성인 SafeSport\nAdvancement: Nationals pathway\n
+ Ranking: Listed for some divisions\; check which organization/points on de
+ tail page\nVenue: Map/location field has the published address\nFULL DETAI
+ LS: Site not deployed yet\; see the bundled event page (events/evt_92a67da
+ 46ee70a78f6.html)\nConfirm official entry rules before booking travel.
+URL:https://www.usatkd.org/2026-usatkd-new-york-state-championship
+X-TKD-DETAIL-PATH:events/evt_92a67da46ee70a78f6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e742e278b23bd98498@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260403
+DTEND;VALUE=DATE:20260406
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 California State Taekwondo Championship
+LOCATION:Selland Arena\, Fresno Convention Center\, 700 M Street\, Fresno\,
+  CA 93721
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: California State Championship
+  organizer\nAffiliation: USATKD\nIdentity/entry: USATKD 회원 등록\; 
+ 벨트 옐로 이상\, 성인 SafeSport\nVenue: Map/location field has the
+  published address\nFULL DETAILS: Site not deployed yet\; see the bundled 
+ event page (events/evt_e742e278b23bd98498.html)\nConfirm official entry ru
+ les before booking travel.
+URL:https://www.usatkd.org/2026-california-state-championship
+X-TKD-DETAIL-PATH:events/evt_e742e278b23bd98498.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_aa35432404975e2598@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU New England District Championship
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
+ (events/evt_aa35432404975e2598.html)\nConfirm official entry rules before 
+ booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_aa35432404975e2598.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_24414643764b8e868e@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Ohio District Championship
+LOCATION:OH\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_2441464376
+ 4b8e868e.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_24414643764b8e868e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_9e47ae1bb2f32ade82@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260411
+DTEND;VALUE=DATE:20260412
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU South Texas District Championship
+LOCATION:TX\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_9e47ae1bb2
+ f32ade82.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_9e47ae1bb2f32ade82.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_3f429f70293d51d243@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Central District Championship
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
+ (events/evt_3f429f70293d51d243.html)\nConfirm official entry rules before 
+ booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_3f429f70293d51d243.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_ae9df195f5c783966f@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Iowa District Championship
+LOCATION:IA\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_ae9df195f5
+ c783966f.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_ae9df195f5c783966f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_4d2a586028d3f45170@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260419
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Maryland District Championship
+LOCATION:MD\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_4d2a586028
+ d3f45170.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_4d2a586028d3f45170.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_677c09871731b5f5fc@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260422
+DTEND;VALUE=DATE:20260423
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Florida Gold Coast District Championship
+LOCATION:FL\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_677c098717
+ 31b5f5fc.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_677c09871731b5f5fc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_aff87b2bc20c372fbe@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260427
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 NCTA National Collegiate and High School Championships
+LOCATION:Woollen Gymnasium\, UNC Chapel Hill\, 300 South Rd\, Chapel Hill\,
+  NC 27599
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: National Collegiate Taekwondo
+  Association\nAffiliation: USATKD (collegiate championship divisions only)
+ \nEligibility: Check full entry conditions on detail page\nIdentity/entry:
+  USATKD 회원 등록\; 벨트 옐로 이상\, 성인 SafeSport\nAdvanceme
+ nt: Nationals pathway\nRanking: Listed for some divisions\; check which or
+ ganization/points on detail page\nVenue: Map/location field has the publis
+ hed address\nFULL DETAILS: Site not deployed yet\; see the bundled event p
+ age (events/evt_aff87b2bc20c372fbe.html)\nConfirm official entry rules bef
+ ore booking travel.
+URL:https://ncta-usa.com/wordpress/2026-ncta-national-collegiate-and-high-s
+ chool-championships/
+X-TKD-DETAIL-PATH:events/evt_aff87b2bc20c372fbe.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_a1da79cdee14b3ebe1@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Minnesota District Championship
+LOCATION:MN\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_a1da79cdee
+ 14b3ebe1.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_a1da79cdee14b3ebe1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_48ef7c944cc284b35f@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260427
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Puerto Rico District Championship
+LOCATION:PR\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_48ef7c944c
+ c284b35f.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_48ef7c944cc284b35f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_d8c63713997f732881@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Southern Pacific District Championship
+LOCATION:CA\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_d8c6371399
+ 7f732881.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_d8c63713997f732881.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_ab2cd1a8a075755506@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260427
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 Texas State Taekwondo Championship
+LOCATION:The OC\, 680 Innovation Blvd\, Forney\, TX
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: Texas State Championship orga
+ nizer\nAffiliation: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 
+ 옐로 이상\, 성인 SafeSport\nRegistration deadline: 2026-04-13\nVenue
+ : Map/location field has the published address\nFULL DETAILS: Site not dep
+ loyed yet\; see the bundled event page (events/evt_ab2cd1a8a075755506.html
+ )\nConfirm official entry rules before booking travel.
+URL:https://www.usatkd.org/2026-usatkd-texas-state-championship
+X-TKD-DETAIL-PATH:events/evt_ab2cd1a8a075755506.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_4efd63a8b68e0df484@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260426
+DTEND;VALUE=DATE:20260427
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Ozark District Championship
+LOCATION:MO\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_4efd63a8b6
+ 8e0df484.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_4efd63a8b68e0df484.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_064cc69b073a4c4d5c@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Arizona District Championship
+LOCATION:AZ\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_064cc69b07
+ 3a4c4d5c.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_064cc69b073a4c4d5c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_d0faccf9b3f1ea969d@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Colorado District Championship
+LOCATION:CO\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_d0faccf9b3
+ f1ea969d.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_d0faccf9b3f1ea969d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_010b7b1f49a18db99a@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Indiana District Championship
+LOCATION:IN\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_010b7b1f49
+ a18db99a.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_010b7b1f49a18db99a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_1210209a60a5f9a04f@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260502
+DTEND;VALUE=DATE:20260503
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Oklahoma District Championship
+LOCATION:OK\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_1210209a60
+ a5f9a04f.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_1210209a60a5f9a04f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_006543a97babf2c5d9@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20260503
+DTEND;VALUE=DATE:20260504
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 AAU Region 1 Championships - Battle of New York
+LOCATION:CMA Headquarters\, 200A Glen Cove Rd\, Carle Place\, NY 11514
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: AAU Taekwondo Region 1\nAffil
+ iation: AAU\nEligibility: Check full entry conditions on detail page\nRegi
+ stration deadline: 2026-05-01\nVenue: Map/location field has the published
+  address\nFULL DETAILS: Site not deployed yet\; see the bundled event page
+  (events/evt_006543a97babf2c5d9.html)\nConfirm official entry rules before
+  booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_006543a97babf2c5d9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_a369e91f3c0c19b559@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Gulf District Championship
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
+ (events/evt_a369e91f3c0c19b559.html)\nConfirm official entry rules before 
+ booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_a369e91f3c0c19b559.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_3e6c278d7d2a62222e@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Niagara District Championship
+LOCATION:NY\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_3e6c278d7d
+ 2a62222e.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_3e6c278d7d2a62222e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_622e096350da4322a9@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260509
+DTEND;VALUE=DATE:20260510
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Oregon District Championship
+LOCATION:OR\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_622e096350
+ da4322a9.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_622e096350da4322a9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_81dca2941f393e8e2f@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260517
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 AAU Region 10 Championship
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
+ (events/evt_81dca2941f393e8e2f.html)\nConfirm official entry rules before 
+ booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_81dca2941f393e8e2f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_96011cc49b5802426a@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Adirondack District Championship
+LOCATION:NY\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_96011cc49b
+ 5802426a.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_96011cc49b5802426a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_947cf55e3651299ef2@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Middle Atlantic District Championship
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
+ (events/evt_947cf55e3651299ef2.html)\nConfirm official entry rules before 
+ booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_947cf55e3651299ef2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_bb858bf5eabc7403ad@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Montana District Championship
+LOCATION:MT\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_bb858bf5ea
+ bc7403ad.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_bb858bf5eabc7403ad.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_90eec3abec5736bc01@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260516
+DTEND;VALUE=DATE:20260517
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Wisconsin District Championship
+LOCATION:WI\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_90eec3abec
+ 5736bc01.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_90eec3abec5736bc01.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_903040e09d2c531d56@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260523
+DTEND;VALUE=DATE:20260524
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Western Pennsylvania District Championship
+LOCATION:PA\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_903040e09d
+ 2c531d56.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_903040e09d2c531d56.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_27cae247cc3570f6b2@tkd-calendar.local
+DTSTAMP:20261031T182922Z
+LAST-MODIFIED:20261031T182922Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260529
+DTEND;VALUE=DATE:20260601
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 U.S. American Open East
+LOCATION:Oaks\, PA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SA Taekwondo\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 이상\
+ , 성인 SafeSport\nVenue: City/state only\; exact address unconfirmed\nFU
+ LL DETAILS: Site not deployed yet\; see the bundled event page (events/evt
+ _27cae247cc3570f6b2.html)\nConfirm official entry rules before booking tra
+ vel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_27cae247cc3570f6b2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_adb54bd45b17eeed9e@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Connecticut District Championship
+LOCATION:CT\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_adb54bd45b
+ 17eeed9e.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_adb54bd45b17eeed9e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_2030df3be820a4bd7f@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 AAU Kentucky District Championship
+LOCATION:KY\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_2030df3be8
+ 20a4bd7f.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_2030df3be820a4bd7f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_955190ca72f77ca90b@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260530
+DTEND;VALUE=DATE:20260531
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 AAU Region 9 Championship
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
+ (events/evt_955190ca72f77ca90b.html)\nConfirm official entry rules before 
+ booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_955190ca72f77ca90b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_3aed03df7e20cf0f58@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260606
+DTEND;VALUE=DATE:20260607
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 AAU North Carolina Super Regionals
+LOCATION:NC\, USA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
+ ility: Check full entry conditions on detail page\nAdvancement: Nationals 
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_3aed03df7e
+ 20cf0f58.html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_3aed03df7e20cf0f58.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_f482cf0f9f8b92e8fa@tkd-calendar.local
+DTSTAMP:20261031T182922Z
+LAST-MODIFIED:20261031T182922Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260612
+DTEND;VALUE=DATE:20260615
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 U.S. American Open West
+LOCATION:Tucson\, AZ
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SA Taekwondo\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 이상\
+ , 성인 SafeSport\nVenue: City/state only\; exact address unconfirmed\nFU
+ LL DETAILS: Site not deployed yet\; see the bundled event page (events/evt
+ _f482cf0f9f8b92e8fa.html)\nConfirm official entry rules before booking tra
+ vel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_f482cf0f9f8b92e8fa.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_ffcc86e5936323c0d7@tkd-calendar.local
+DTSTAMP:20261031T182922Z
+LAST-MODIFIED:20261031T182922Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260706
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] 2026 U.S. National Championships
+LOCATION:Charlotte\, NC
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SA Taekwondo\nIdentity/entry: World Class: 미국 시민권 증빙 필수\
+ nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS: Site no
+ t deployed yet\; see the bundled event page (events/evt_ffcc86e5936323c0d7
+ .html)\nConfirm official entry rules before booking travel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_ffcc86e5936323c0d7.html
+END:VEVENT
+END:VCALENDAR

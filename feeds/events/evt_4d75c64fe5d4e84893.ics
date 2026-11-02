@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TKD S+A+B - All Significant Competitions
+X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
+ 는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
+ 하세요.
+BEGIN:VEVENT
+UID:evt_4d75c64fe5d4e84893@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:7
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:EARLIEST_START_3Y_WEEKDAY_SAFE
+X-TKD-FORECAST-CONFIDENCE:MEDIUM
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2027 New York Open Taekwondo Championships
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
+ n근거: 2025·2026 개최 시작일 / 공식 발표 시 자동 수정됨\
+ nStatus: [Projected] planning estimate — date/edition not confirmed\nTKD
+  Hub importance: B (editorial\, not federation grade)\nOrganizer: NY Open 
+ organizing committee\nEligibility: Check full entry conditions on detail p
+ age\nForecast basis: 2 prior edition(s)\; confidence medium\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_4d75c64fe5
+ d4e84893.html)\nConfirm official entry rules before booking travel.
+URL:https://nyopentkd.org/general-info/
+X-TKD-DETAIL-PATH:events/evt_4d75c64fe5d4e84893.html
+END:VEVENT
+END:VCALENDAR

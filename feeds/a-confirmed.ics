@@ -1,0 +1,186 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TKD A - Confirmed Dates Only
+X-WR-CALDESC:공식 날짜가 확인된 대회만 제공하는 선택 피
+ 드.
+BEGIN:VEVENT
+UID:evt_6d513f4b09b0196304@tkd-calendar.local
+DTSTAMP:20261031T182922Z
+LAST-MODIFIED:20261031T182922Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260914
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 U.S. Season Final
+LOCATION:Little Rock\, AR
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SA Taekwondo\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 이상\
+ , 성인 SafeSport\nVenue: City/state only\; exact address unconfirmed\nFU
+ LL DETAILS: Site not deployed yet\; see the bundled event page (events/evt
+ _6d513f4b09b0196304.html)\nConfirm official entry rules before booking tra
+ vel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_6d513f4b09b0196304.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_4bb8cf22aba99d4ea4@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261206
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] ATA 2026 H.U. Lee Classic
+LOCATION:Little Rock\, AR
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
+ : ATA\nEligibility: Check full entry conditions on detail page\nRanking: L
+ isted for some divisions\; check which organization/points on detail page\
+ nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS: Site no
+ t deployed yet\; see the bundled event page (events/evt_4bb8cf22aba99d4ea4
+ .html)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/
+X-TKD-DETAIL-PATH:events/evt_4bb8cf22aba99d4ea4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_da5fa33a061e407444@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270124
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] TA 2027 National Tournament
+LOCATION:Northern Kentucky Convention Center\, 1 W Rivercenter Blvd\, Covin
+ gton\, KY 41011
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: Taekwondo America\nAffiliatio
+ n: Taekwondo America\nEligibility: Check full entry conditions on detail p
+ age\nIdentity/entry: TA 회원 도장 소속·학교장을 통한 등록\n
+ Registration deadline: 2027-01-13\nVenue: Map/location field has the publi
+ shed address\nFULL DETAILS: Site not deployed yet\; see the bundled event 
+ page (events/evt_da5fa33a061e407444.html)\nConfirm official entry rules be
+ fore booking travel.
+URL:https://taekwondoamerica.org/project/national-tournament-cincinnati-oh-
+ jan-22-23-2027/
+X-TKD-DETAIL-PATH:events/evt_da5fa33a061e407444.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_add62b5dd9e92cb6a5@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 AAU Oregon Region 12 Qualifier
+LOCATION:Parkrose High School\, 12003 NE Shaver St\, Portland\, OR 97220
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: AAU Oregon / Region 12 organi
+ zer\nAffiliation: AAU\nEligibility: Check full entry conditions on detail 
+ page\nAdvancement: Nationals pathway\nRegistration deadline: 2027-02-24\nV
+ enue: Map/location field has the published address\nFULL DETAILS: Site not
+  deployed yet\; see the bundled event page (events/evt_add62b5dd9e92cb6a5.
+ html)\nConfirm official entry rules before booking travel.
+URL:https://aauortkd.com/
+X-TKD-DETAIL-PATH:events/evt_add62b5dd9e92cb6a5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_b3683a1747010b43b9@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270510
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 American Open East
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
+ ntry: USATKD 회원 등록\; 벨트 옐로 이상\, 성인 SafeSport\nFULL
+  DETAILS: Site not deployed yet\; see the bundled event page (events/evt_b
+ 3683a1747010b43b9.html)\nConfirm official entry rules before booking trave
+ l.
+URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+X-TKD-DETAIL-PATH:events/evt_b3683a1747010b43b9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_b61805cbe50356e590@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270621
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 American Open West
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
+ ntry: USATKD 회원 등록\; 벨트 옐로 이상\, 성인 SafeSport\nFULL
+  DETAILS: Site not deployed yet\; see the bundled event page (events/evt_b
+ 61805cbe50356e590.html)\nConfirm official entry rules before booking trave
+ l.
+URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+X-TKD-DETAIL-PATH:events/evt_b61805cbe50356e590.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_9f9dd2d45ca1267bff@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270906
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 U.S. Season Final
+LOCATION:The Podium Powered by STCU\, 511 West Joe Albi Way\, Spokane\, WA 
+ 99201
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
+ ntry: USATKD 회원 등록\; 벨트 옐로 이상\, 성인 SafeSport\nVenu
+ e: Map/location field has the published address\nFULL DETAILS: Site not de
+ ployed yet\; see the bundled event page (events/evt_9f9dd2d45ca1267bff.htm
+ l)\nConfirm official entry rules before booking travel.
+URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+X-TKD-DETAIL-PATH:events/evt_9f9dd2d45ca1267bff.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_f7656ff59fabd8298a@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271212
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] ATA 2027 H.U. Lee Classic
+LOCATION:Little Rock\, AR
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
+ : ATA\nEligibility: Check full entry conditions on detail page\nVenue: Cit
+ y/state only\; exact address unconfirmed\nFULL DETAILS: Site not deployed 
+ yet\; see the bundled event page (events/evt_f7656ff59fabd8298a.html)\nCon
+ firm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/
+X-TKD-DETAIL-PATH:events/evt_f7656ff59fabd8298a.html
+END:VEVENT
+END:VCALENDAR

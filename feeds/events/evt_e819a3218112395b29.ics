@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TKD S+A+B - All Significant Competitions
+X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
+ 는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
+ 하세요.
+BEGIN:VEVENT
+UID:evt_e819a3218112395b29@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270712
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] 2027 U.S. National Championships
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
+ ntry: World Class: 미국 시민권 증빙 필수\nAdvancement: Nationals 
+ pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
+ (events/evt_e819a3218112395b29.html)\nConfirm official entry rules before 
+ booking travel.
+URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+X-TKD-DETAIL-PATH:events/evt_e819a3218112395b29.html
+END:VEVENT
+END:VCALENDAR

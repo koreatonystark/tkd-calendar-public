@@ -1,0 +1,9 @@
+{
+  "identity_attention": 12,
+  "identity_citizenship_some_divisions": 2,
+  "identity_rule_count": 16,
+  "international_event_records": 10,
+  "international_series_rules": 8,
+  "international_upcoming": 8,
+  "warning": "Division-specific reference: do not infer automatic eligibility or lack of restrictions from an unstated rule. Recheck future event packets."
+}

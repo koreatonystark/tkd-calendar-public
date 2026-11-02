@@ -1,0 +1,603 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TKD ATA (S+A+B)
+X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
+ 는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
+ 하세요.
+BEGIN:VEVENT
+UID:evt_fa467dd2a6090f5364@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261108
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2026 Gateway Championships Class A Regional
+LOCATION:St. Charles\, MO
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2026-11-04\nVenue: City/state only\; ex
+ act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
+ dled event page (events/evt_fa467dd2a6090f5364.html)\nConfirm official ent
+ ry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_fa467dd2a6090f5364.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_a835a413486c667dc2@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261108
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2026 SOFLO Championship Class A Regional
+LOCATION:Fort Lauderdale\, FL
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2026-11-04\nVenue: City/state only\; ex
+ act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
+ dled event page (events/evt_a835a413486c667dc2.html)\nConfirm official ent
+ ry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_a835a413486c667dc2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_13ba834e047841043f@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261115
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2026 Grand Master Invitational Class A Regional
+LOCATION:Roswell\, GA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2026-11-11\nVenue: City/state only\; ex
+ act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
+ dled event page (events/evt_13ba834e047841043f.html)\nConfirm official ent
+ ry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_13ba834e047841043f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_150482411c6ea6b0e3@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261115
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2026 LVLUP Invitational Class A Regional
+LOCATION:Baraboo\, WI
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2026-11-11\nVenue: City/state only\; ex
+ act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
+ dled event page (events/evt_150482411c6ea6b0e3.html)\nConfirm official ent
+ ry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_150482411c6ea6b0e3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_4bb8cf22aba99d4ea4@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261206
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] ATA 2026 H.U. Lee Classic
+LOCATION:Little Rock\, AR
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
+ : ATA\nEligibility: Check full entry conditions on detail page\nRanking: L
+ isted for some divisions\; check which organization/points on detail page\
+ nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS: Site no
+ t deployed yet\; see the bundled event page (events/evt_4bb8cf22aba99d4ea4
+ .html)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/
+X-TKD-DETAIL-PATH:events/evt_4bb8cf22aba99d4ea4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_791cc83c0b436895ca@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270117
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Memphis\, TN (January)
+LOCATION:Renasant Convention Center\, 255 N Main St\, Memphis\, TN 38103
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Chief Master Betsy Stevens & 
+ Senior Master Tony Rosa\nAffiliation: ATA\nEligibility: Check full entry c
+ onditions on detail page\nRanking: Listed for some divisions\; check which
+  organization/points on detail page\nRegistration deadline: 2027-01-13\nVe
+ nue: Map/location field has the published address\nFULL DETAILS: Site not 
+ deployed yet\; see the bundled event page (events/evt_791cc83c0b436895ca.h
+ tml)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0115-162027-tn
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_791cc83c0b436895ca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_2fe481bb288e10791a@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270214
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Orlando\, FL (February)
+LOCATION:Caribe Royale Resort\, 8101 World Center Drive\, Orlando\, FL 3282
+ 1
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Grand Master Isaacs and Mrs. 
+ Lavonne Isaacs\nAffiliation: ATA\nEligibility: Check full entry conditions
+  on detail page\nRanking: Listed for some divisions\; check which organiza
+ tion/points on detail page\nRegistration deadline: 2027-02-10\nVenue: Map/
+ location field has the published address\nFULL DETAILS: Site not deployed 
+ yet\; see the bundled event page (events/evt_2fe481bb288e10791a.html)\nCon
+ firm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0212-132027-fl
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_2fe481bb288e10791a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_217a7ea5b97605cfe7@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270228
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Allen\, TX (February)
+LOCATION:Marriott Dallas Allen Hotel & Convention Center\, 777 Watters Cree
+ k Blvd\, Allen\, TX 75013
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Chief Master Jack Hornbuckle\
+ nAffiliation: ATA\nEligibility: Check full entry conditions on detail page
+ \nRanking: Listed for some divisions\; check which organization/points on 
+ detail page\nRegistration deadline: 2027-02-24\nVenue: Map/location field 
+ has the published address\nFULL DETAILS: Site not deployed yet\; see the b
+ undled event page (events/evt_217a7ea5b97605cfe7.html)\nConfirm official e
+ ntry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0226-272027-tx
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_217a7ea5b97605cfe7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_54ec6f339ea405336a@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270307
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Kansas City\, KS (March)
+LOCATION:Homefield KCK Showcase Center\, 9250 State Ave\, Kansas City\, KS 
+ 66112
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Master Joshua Palmer\nAffilia
+ tion: ATA\nEligibility: Check full entry conditions on detail page\nRankin
+ g: Listed for some divisions\; check which organization/points on detail p
+ age\nRegistration deadline: 2027-03-03\nVenue: Map/location field has the 
+ published address\nFULL DETAILS: Site not deployed yet\; see the bundled e
+ vent page (events/evt_54ec6f339ea405336a.html)\nConfirm official entry rul
+ es before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0305-062027-ks
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_54ec6f339ea405336a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e5b6518772c3f00c10@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270321
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] ATA 2027 Spring Nationals
+LOCATION:Fort Worth Convention Center\, 1201 Houston Street\, Fort Worth\, 
+ TX 76102
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
+ : ATA\nAge / belt: Official event says all ages\; individual event bracket
+ s vary / Official event says all ranks\; some divisions are restricted\nRa
+ nking: Listed for some divisions\; check which organization/points on deta
+ il page\nVenue: Map/location field has the published address\nFULL DETAILS
+ : Site not deployed yet\; see the bundled event page (events/evt_e5b651877
+ 2c3f00c10.html)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/spring-nationals/
+X-TKD-DETAIL-PATH:events/evt_e5b6518772c3f00c10.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_5d2732e2d91c8ef098@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270328
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Monroeville\, PA (March)
+LOCATION:All American Field\, 1 Racquet Ln\, Monroeville\, PA 15614
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Grand Master Michael Caruso\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2027-03-24\nVenue: Map/location field h
+ as the published address\nFULL DETAILS: Site not deployed yet\; see the bu
+ ndled event page (events/evt_5d2732e2d91c8ef098.html)\nConfirm official en
+ try rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0326-272027-pa
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_5d2732e2d91c8ef098.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_861a203b3e8fdb3279@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270411
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Chesterfield\, MO (April)
+LOCATION:Carshield Sportsplex\, 530 North Eatherton Rd\, Chesterfield\, MO 
+ 63005
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Chief Master Rob & Mrs. Lori 
+ Howard\nAffiliation: ATA\nEligibility: Check full entry conditions on deta
+ il page\nRanking: Listed for some divisions\; check which organization/poi
+ nts on detail page\nVenue: Map/location field has the published address\nF
+ ULL DETAILS: Site not deployed yet\; see the bundled event page (events/ev
+ t_861a203b3e8fdb3279.html)\nConfirm official entry rules before booking tr
+ avel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0409-102027-mo
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_861a203b3e8fdb3279.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_d58dc9269e1f87d1a8@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270411
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Lone Star Championship Class A Regional
+LOCATION:Galveston\, TX
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2027-04-07\nVenue: City/state only\; ex
+ act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
+ dled event page (events/evt_d58dc9269e1f87d1a8.html)\nConfirm official ent
+ ry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_d58dc9269e1f87d1a8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e966f043b66aa0e812@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Penn Classic Class A Regional
+LOCATION:Morgantown\, PA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2027-04-14\nVenue: City/state only\; ex
+ act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
+ dled event page (events/evt_e966f043b66aa0e812.html)\nConfirm official ent
+ ry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_e966f043b66aa0e812.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_63b0ef741e8f7569da@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270425
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Baraboo\, WI (April)
+LOCATION:Kalahari Resorts & Conventions - Wisconsin Dells\, 1305 Kalahari D
+ r\, Baraboo\, WI 53913
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Master Michael & Master Riche
+ lle Moh\nAffiliation: ATA\nEligibility: Check full entry conditions on det
+ ail page\nRanking: Listed for some divisions\; check which organization/po
+ ints on detail page\nVenue: Map/location field has the published address\n
+ FULL DETAILS: Site not deployed yet\; see the bundled event page (events/e
+ vt_63b0ef741e8f7569da.html)\nConfirm official entry rules before booking t
+ ravel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0423-242027-wi
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_63b0ef741e8f7569da.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_4d8d030bf50bb7c3ea@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270425
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Canal Winchester\, OH (April)
+LOCATION:Harvest Preparatory School\, 4595 Gender Rd\, Canal Winchester\, O
+ H 43110
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Senior Master Michelle & Seni
+ or Master Kevin Pavlik\nAffiliation: ATA\nEligibility: Check full entry co
+ nditions on detail page\nRanking: Listed for some divisions\; check which 
+ organization/points on detail page\nRegistration deadline: 2027-04-21\nVen
+ ue: Map/location field has the published address\nFULL DETAILS: Site not d
+ eployed yet\; see the bundled event page (events/evt_4d8d030bf50bb7c3ea.ht
+ ml)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0423-242027-oh
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_4d8d030bf50bb7c3ea.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_873d835b8838e7d3d3@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270425
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Raleigh\, NC (April)
+LOCATION:Raleigh Convention Center\, 500 S Salisbury St\, Raleigh\, NC 2760
+ 1
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Chief Master Michael & Senior
+  Master Julia Wegmann\nAffiliation: ATA\nEligibility: Check full entry con
+ ditions on detail page\nRanking: Listed for some divisions\; check which o
+ rganization/points on detail page\nVenue: Map/location field has the publi
+ shed address\nFULL DETAILS: Site not deployed yet\; see the bundled event 
+ page (events/evt_873d835b8838e7d3d3.html)\nConfirm official entry rules be
+ fore booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0423-242027-nc
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_873d835b8838e7d3d3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_b983465b9fc4a0b3a9@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270425
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Roswell\, GA (April)
+LOCATION:A5 Sportsplex\, 11000 Alpharetta Hwy\, Roswell\, GA 30076
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Senior Master Chong Sul\nAffi
+ liation: ATA\nEligibility: Check full entry conditions on detail page\nRan
+ king: Listed for some divisions\; check which organization/points on detai
+ l page\nRegistration deadline: 2027-04-21\nVenue: Map/location field has t
+ he published address\nFULL DETAILS: Site not deployed yet\; see the bundle
+ d event page (events/evt_b983465b9fc4a0b3a9.html)\nConfirm official entry 
+ rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0423-242027-ga
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_b983465b9fc4a0b3a9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_d02150bb464a3f0e6f@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270725
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD W] ATA 2027 World Championships
+X-TKD-INTERNATIONAL:TRUE
+LOCATION:Phoenix Convention Center\, 100 N 3rd St\, Phoenix\, AZ 85004
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
+ : ATA\nAge / belt: Organizer says all ages and abilities\; individual divi
+ sion conditions apply / Organizer says all ranks\; participation may requi
+ re ATA membership\nCategory: International competition (see organizing fed
+ eration on event page)\nVenue: Map/location field has the published addres
+ s\nFULL DETAILS: Site not deployed yet\; see the bundled event page (event
+ s/evt_d02150bb464a3f0e6f.html)\nConfirm official entry rules before bookin
+ g travel.
+URL:https://atamartialarts.com/worlds/
+X-TKD-DETAIL-PATH:events/evt_d02150bb464a3f0e6f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_135137e88c3c8e2f00@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270815
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Allen\, TX (August)
+LOCATION:Watters Creek Convention Center\, 777 Watters Creek Boulevard\, Al
+ len\, TX 75013
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Grand Master Mark Sustaire & 
+ Chief Master Barbara Sustaire\nAffiliation: ATA\nEligibility: Check full e
+ ntry conditions on detail page\nRanking: Listed for some divisions\; check
+  which organization/points on detail page\nVenue: Map/location field has t
+ he published address\nFULL DETAILS: Site not deployed yet\; see the bundle
+ d event page (events/evt_135137e88c3c8e2f00.html)\nConfirm official entry 
+ rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0813-142027-tx
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_135137e88c3c8e2f00.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_05f1820c8759dcf969@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270912
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Fenton\, MO (September)
+LOCATION:STL Athletic Center\, 2300 Hitzert Ct\, Fenton\, MO 63026
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Master Jordan Howard\nAffilia
+ tion: ATA\nEligibility: Check full entry conditions on detail page\nRankin
+ g: Listed for some divisions\; check which organization/points on detail p
+ age\nVenue: Map/location field has the published address\nFULL DETAILS: Si
+ te not deployed yet\; see the bundled event page (events/evt_05f1820c8759d
+ cf969.html)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0910-112027-mo
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_05f1820c8759dcf969.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_2eb8acc19b4fac375f@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Evansville\, IN (September)
+LOCATION:National Guard Armory\, 3300 E Division St\, Evansville\, IN 47715
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA Region 106\nAffiliation: 
+ ATA\nEligibility: Check full entry conditions on detail page\nRanking: Lis
+ ted for some divisions\; check which organization/points on detail page\nV
+ enue: Map/location field has the published address\nFULL DETAILS: Site not
+  deployed yet\; see the bundled event page (events/evt_2eb8acc19b4fac375f.
+ html)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/09182027-in-cl
+ ass-a/
+X-TKD-DETAIL-PATH:events/evt_2eb8acc19b4fac375f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_58d662f1eba94dbdba@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271010
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] ATA 2027 Fall Nationals
+LOCATION:St. Louis\, MO
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
+ : ATA\nEligibility: Check full entry conditions on detail page\nVenue: Cit
+ y/state only\; exact address unconfirmed\nFULL DETAILS: Site not deployed 
+ yet\; see the bundled event page (events/evt_58d662f1eba94dbdba.html)\nCon
+ firm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/
+X-TKD-DETAIL-PATH:events/evt_58d662f1eba94dbdba.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_a71958b9f8003dcacd@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Naperville\, IL (October)
+LOCATION:TOCA Soccer Center Naperville\, 1740 Quincy Ave\, Naperville\, IL 
+ 60540
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Chief Master Patti Barnum\nAf
+ filiation: ATA\nEligibility: Check full entry conditions on detail page\nR
+ anking: Listed for some divisions\; check which organization/points on det
+ ail page\nVenue: Map/location field has the published address\nFULL DETAIL
+ S: Site not deployed yet\; see the bundled event page (events/evt_a71958b9
+ f8003dcacd.html)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/10232027-il-cl
+ ass-a/
+X-TKD-DETAIL-PATH:events/evt_a71958b9f8003dcacd.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_f7656ff59fabd8298a@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271212
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] ATA 2027 H.U. Lee Classic
+LOCATION:Little Rock\, AR
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
+ : ATA\nEligibility: Check full entry conditions on detail page\nVenue: Cit
+ y/state only\; exact address unconfirmed\nFULL DETAILS: Site not deployed 
+ yet\; see the bundled event page (events/evt_f7656ff59fabd8298a.html)\nCon
+ firm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/
+X-TKD-DETAIL-PATH:events/evt_f7656ff59fabd8298a.html
+END:VEVENT
+END:VCALENDAR

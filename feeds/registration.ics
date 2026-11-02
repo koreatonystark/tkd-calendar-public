@@ -1,0 +1,456 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TKD Registration Deadlines (S+A+B)
+X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
+ 는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
+ 하세요.
+BEGIN:VEVENT
+UID:evt_b8af11c593637710ef.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD · 등록 마감] 2026 New York Open Taekwondo Championships
+LOCATION:Queens College Fitzgerald Gymnasium\, 65-30 Kissena Blvd\, Flushin
+ g\, NY 11367
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: NY Open organizing committee\
+ nEligibility: Check full entry conditions on detail page\nVenue: Map/locat
+ ion field has the published address\nFULL DETAILS: Site not deployed yet\;
+  see the bundled event page (events/evt_b8af11c593637710ef.html)\nConfirm 
+ official entry rules before booking travel.
+URL:https://nyopentkd.org/general-info/
+X-TKD-DETAIL-PATH:events/evt_b8af11c593637710ef.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_b8af11c593637710ef.late_deadline@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261011
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD · 최종/추가 등록 마감] 2026 New York Open Taekwondo C
+ hampionships
+LOCATION:Queens College Fitzgerald Gymnasium\, 65-30 Kissena Blvd\, Flushin
+ g\, NY 11367
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: NY Open organizing committee\
+ nEligibility: Check full entry conditions on detail page\nVenue: Map/locat
+ ion field has the published address\nFULL DETAILS: Site not deployed yet\;
+  see the bundled event page (events/evt_b8af11c593637710ef.html)\nConfirm 
+ official entry rules before booking travel.
+URL:https://nyopentkd.org/general-info/
+X-TKD-DETAIL-PATH:events/evt_b8af11c593637710ef.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_fa467dd2a6090f5364.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD · 등록 마감] 2026 ATA Gateway Championships Class A Regio
+ nal
+LOCATION:St. Charles\, MO
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nVenue: City/state only\; exact address unconfirmed\nFULL DETAI
+ LS: Site not deployed yet\; see the bundled event page (events/evt_fa467dd
+ 2a6090f5364.html)\nConfirm official entry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_fa467dd2a6090f5364.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_a835a413486c667dc2.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD · 등록 마감] 2026 ATA SOFLO Championship Class A Regional
+LOCATION:Fort Lauderdale\, FL
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nVenue: City/state only\; exact address unconfirmed\nFULL DETAI
+ LS: Site not deployed yet\; see the bundled event page (events/evt_a835a41
+ 3486c667dc2.html)\nConfirm official entry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_a835a413486c667dc2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_13ba834e047841043f.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD · 등록 마감] 2026 ATA Grand Master Invitational Class A R
+ egional
+LOCATION:Roswell\, GA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nVenue: City/state only\; exact address unconfirmed\nFULL DETAI
+ LS: Site not deployed yet\; see the bundled event page (events/evt_13ba834
+ e047841043f.html)\nConfirm official entry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_13ba834e047841043f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_150482411c6ea6b0e3.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261111
+DTEND;VALUE=DATE:20261112
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD · 등록 마감] 2026 ATA LVLUP Invitational Class A Regional
+LOCATION:Baraboo\, WI
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nVenue: City/state only\; exact address unconfirmed\nFULL DETAI
+ LS: Site not deployed yet\; see the bundled event page (events/evt_1504824
+ 11c6ea6b0e3.html)\nConfirm official entry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_150482411c6ea6b0e3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_791cc83c0b436895ca.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD · 등록 마감] 2027 ATA Class A Regional - Memphis\, TN (Ja
+ nuary)
+LOCATION:Renasant Convention Center\, 255 N Main St\, Memphis\, TN 38103
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Chief Master Betsy Stevens & 
+ Senior Master Tony Rosa\nAffiliation: ATA\nEligibility: Check full entry c
+ onditions on detail page\nRanking: Listed for some divisions\; check which
+  organization/points on detail page\nVenue: Map/location field has the pub
+ lished address\nFULL DETAILS: Site not deployed yet\; see the bundled even
+ t page (events/evt_791cc83c0b436895ca.html)\nConfirm official entry rules 
+ before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0115-162027-tn
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_791cc83c0b436895ca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_da5fa33a061e407444.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270113
+DTEND;VALUE=DATE:20270114
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD · 등록 마감] 2027 Taekwondo America National Tournament
+LOCATION:Northern Kentucky Convention Center\, 1 W Rivercenter Blvd\, Covin
+ gton\, KY 41011
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: Taekwondo America\nAffiliatio
+ n: Taekwondo America\nEligibility: Check full entry conditions on detail p
+ age\nIdentity/entry: TA 회원 도장 소속·학교장을 통한 등록\n
+ Venue: Map/location field has the published address\nFULL DETAILS: Site no
+ t deployed yet\; see the bundled event page (events/evt_da5fa33a061e407444
+ .html)\nConfirm official entry rules before booking travel.
+URL:https://taekwondoamerica.org/project/national-tournament-cincinnati-oh-
+ jan-22-23-2027/
+X-TKD-DETAIL-PATH:events/evt_da5fa33a061e407444.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_2fe481bb288e10791a.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270210
+DTEND;VALUE=DATE:20270211
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD · 등록 마감] 2027 ATA Class A Regional - Orlando\, FL (Fe
+ bruary)
+LOCATION:Caribe Royale Resort\, 8101 World Center Drive\, Orlando\, FL 3282
+ 1
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Grand Master Isaacs and Mrs. 
+ Lavonne Isaacs\nAffiliation: ATA\nEligibility: Check full entry conditions
+  on detail page\nRanking: Listed for some divisions\; check which organiza
+ tion/points on detail page\nVenue: Map/location field has the published ad
+ dress\nFULL DETAILS: Site not deployed yet\; see the bundled event page (e
+ vents/evt_2fe481bb288e10791a.html)\nConfirm official entry rules before bo
+ oking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0212-132027-fl
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_2fe481bb288e10791a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_217a7ea5b97605cfe7.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD · 등록 마감] 2027 ATA Class A Regional - Allen\, TX (Febr
+ uary)
+LOCATION:Marriott Dallas Allen Hotel & Convention Center\, 777 Watters Cree
+ k Blvd\, Allen\, TX 75013
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Chief Master Jack Hornbuckle\
+ nAffiliation: ATA\nEligibility: Check full entry conditions on detail page
+ \nRanking: Listed for some divisions\; check which organization/points on 
+ detail page\nVenue: Map/location field has the published address\nFULL DET
+ AILS: Site not deployed yet\; see the bundled event page (events/evt_217a7
+ ea5b97605cfe7.html)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0226-272027-tx
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_217a7ea5b97605cfe7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_add62b5dd9e92cb6a5.registration_open@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD · 등록 시작] 2027 AAU Oregon Region 12 Qualifier
+LOCATION:Parkrose High School\, 12003 NE Shaver St\, Portland\, OR 97220
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: AAU Oregon / Region 12 organi
+ zer\nAffiliation: AAU\nEligibility: Check full entry conditions on detail 
+ page\nAdvancement: Nationals pathway\nVenue: Map/location field has the pu
+ blished address\nFULL DETAILS: Site not deployed yet\; see the bundled eve
+ nt page (events/evt_add62b5dd9e92cb6a5.html)\nConfirm official entry rules
+  before booking travel.
+URL:https://aauortkd.com/
+X-TKD-DETAIL-PATH:events/evt_add62b5dd9e92cb6a5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_add62b5dd9e92cb6a5.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD · 등록 마감] 2027 AAU Oregon Region 12 Qualifier
+LOCATION:Parkrose High School\, 12003 NE Shaver St\, Portland\, OR 97220
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: AAU Oregon / Region 12 organi
+ zer\nAffiliation: AAU\nEligibility: Check full entry conditions on detail 
+ page\nAdvancement: Nationals pathway\nVenue: Map/location field has the pu
+ blished address\nFULL DETAILS: Site not deployed yet\; see the bundled eve
+ nt page (events/evt_add62b5dd9e92cb6a5.html)\nConfirm official entry rules
+  before booking travel.
+URL:https://aauortkd.com/
+X-TKD-DETAIL-PATH:events/evt_add62b5dd9e92cb6a5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_add62b5dd9e92cb6a5.late_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270224
+DTEND;VALUE=DATE:20270225
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD · 최종/추가 등록 마감] 2027 AAU Oregon Region 12 Qual
+ ifier
+LOCATION:Parkrose High School\, 12003 NE Shaver St\, Portland\, OR 97220
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: AAU Oregon / Region 12 organi
+ zer\nAffiliation: AAU\nEligibility: Check full entry conditions on detail 
+ page\nAdvancement: Nationals pathway\nVenue: Map/location field has the pu
+ blished address\nFULL DETAILS: Site not deployed yet\; see the bundled eve
+ nt page (events/evt_add62b5dd9e92cb6a5.html)\nConfirm official entry rules
+  before booking travel.
+URL:https://aauortkd.com/
+X-TKD-DETAIL-PATH:events/evt_add62b5dd9e92cb6a5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_54ec6f339ea405336a.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270304
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD · 등록 마감] 2027 ATA Class A Regional - Kansas City\, KS
+  (March)
+LOCATION:Homefield KCK Showcase Center\, 9250 State Ave\, Kansas City\, KS 
+ 66112
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Master Joshua Palmer\nAffilia
+ tion: ATA\nEligibility: Check full entry conditions on detail page\nRankin
+ g: Listed for some divisions\; check which organization/points on detail p
+ age\nVenue: Map/location field has the published address\nFULL DETAILS: Si
+ te not deployed yet\; see the bundled event page (events/evt_54ec6f339ea40
+ 5336a.html)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0305-062027-ks
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_54ec6f339ea405336a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_5d2732e2d91c8ef098.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270324
+DTEND;VALUE=DATE:20270325
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD · 등록 마감] 2027 ATA Class A Regional - Monroeville\, PA
+  (March)
+LOCATION:All American Field\, 1 Racquet Ln\, Monroeville\, PA 15614
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Grand Master Michael Caruso\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nVenue: Map/location field has the published address\nFULL DETA
+ ILS: Site not deployed yet\; see the bundled event page (events/evt_5d2732
+ e2d91c8ef098.html)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0326-272027-pa
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_5d2732e2d91c8ef098.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_d58dc9269e1f87d1a8.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD · 등록 마감] 2027 ATA Lone Star Championship Class A Regi
+ onal
+LOCATION:Galveston\, TX
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nVenue: City/state only\; exact address unconfirmed\nFULL DETAI
+ LS: Site not deployed yet\; see the bundled event page (events/evt_d58dc92
+ 69e1f87d1a8.html)\nConfirm official entry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_d58dc9269e1f87d1a8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e966f043b66aa0e812.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD · 등록 마감] 2027 ATA Penn Classic Class A Regional
+LOCATION:Morgantown\, PA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nVenue: City/state only\; exact address unconfirmed\nFULL DETAI
+ LS: Site not deployed yet\; see the bundled event page (events/evt_e966f04
+ 3b66aa0e812.html)\nConfirm official entry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_e966f043b66aa0e812.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_4d8d030bf50bb7c3ea.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD · 등록 마감] 2027 ATA Class A Regional - Canal Winchester
+ \, OH (April)
+LOCATION:Harvest Preparatory School\, 4595 Gender Rd\, Canal Winchester\, O
+ H 43110
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Senior Master Michelle & Seni
+ or Master Kevin Pavlik\nAffiliation: ATA\nEligibility: Check full entry co
+ nditions on detail page\nRanking: Listed for some divisions\; check which 
+ organization/points on detail page\nVenue: Map/location field has the publ
+ ished address\nFULL DETAILS: Site not deployed yet\; see the bundled event
+  page (events/evt_4d8d030bf50bb7c3ea.html)\nConfirm official entry rules b
+ efore booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0423-242027-oh
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_4d8d030bf50bb7c3ea.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_b983465b9fc4a0b3a9.registration_deadline@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD · 등록 마감] 2027 ATA Class A Regional - Roswell\, GA (Ap
+ ril)
+LOCATION:A5 Sportsplex\, 11000 Alpharetta Hwy\, Roswell\, GA 30076
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Senior Master Chong Sul\nAffi
+ liation: ATA\nEligibility: Check full entry conditions on detail page\nRan
+ king: Listed for some divisions\; check which organization/points on detai
+ l page\nVenue: Map/location field has the published address\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_b983465b9f
+ c4a0b3a9.html)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0423-242027-ga
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_b983465b9fc4a0b3a9.html
+END:VEVENT
+END:VCALENDAR

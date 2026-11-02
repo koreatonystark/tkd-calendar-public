@@ -1,0 +1,36 @@
+{
+  "conflicts": 0,
+  "counts": {
+    "a": 40,
+    "b": 74,
+    "dated": 100,
+    "master": 137,
+    "predicted": 19,
+    "s": 18,
+    "sab": 132,
+    "tbd": 18
+  },
+  "coverage": {
+    "configured_sources": 16,
+    "last_online_refresh": false,
+    "missing_metadata": {
+      "age_eligibility": 5,
+      "belt_eligibility": 5,
+      "national_championship_pathway": 63,
+      "national_team_pathway": 6,
+      "prior_participants": 2,
+      "registration_deadline": 20,
+      "sanctioning_body": 115,
+      "venue_address": 30
+    },
+    "nationwide_completeness": "not_verified",
+    "observed_states": 39
+  },
+  "discovery": {
+    "pending": 4,
+    "total": 4
+  },
+  "run": {},
+  "sources": {},
+  "updated_at": "2026-11-02T01:42:30Z"
+}

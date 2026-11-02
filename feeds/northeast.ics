@@ -1,0 +1,206 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TKD Northeast (S+A+B)
+X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
+ 는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
+ 하세요.
+BEGIN:VEVENT
+UID:evt_b8af11c593637710ef@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 New York Open Taekwondo Championships
+LOCATION:Queens College Fitzgerald Gymnasium\, 65-30 Kissena Blvd\, Flushin
+ g\, NY 11367
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: NY Open organizing committee\
+ nEligibility: Check full entry conditions on detail page\nRegistration dea
+ dline: 2026-10-07\nVenue: Map/location field has the published address\nFU
+ LL DETAILS: Site not deployed yet\; see the bundled event page (events/evt
+ _b8af11c593637710ef.html)\nConfirm official entry rules before booking tra
+ vel.
+URL:https://nyopentkd.org/general-info/
+X-TKD-DETAIL-PATH:events/evt_b8af11c593637710ef.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_5d2732e2d91c8ef098@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270328
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Monroeville\, PA (March)
+LOCATION:All American Field\, 1 Racquet Ln\, Monroeville\, PA 15614
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Grand Master Michael Caruso\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2027-03-24\nVenue: Map/location field h
+ as the published address\nFULL DETAILS: Site not deployed yet\; see the bu
+ ndled event page (events/evt_5d2732e2d91c8ef098.html)\nConfirm official en
+ try rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0326-272027-pa
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_5d2732e2d91c8ef098.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e966f043b66aa0e812@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Penn Classic Class A Regional
+LOCATION:Morgantown\, PA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2027-04-14\nVenue: City/state only\; ex
+ act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
+ dled event page (events/evt_e966f043b66aa0e812.html)\nConfirm official ent
+ ry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_e966f043b66aa0e812.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_324b30908a78f6e29a@tkd-calendar.local
+DTSTAMP:20261031T182922Z
+LAST-MODIFIED:20261031T182922Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:EARLIEST_START_3Y_WEEKDAY_SAFE
+X-TKD-FORECAST-CONFIDENCE:MEDIUM
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 AAU New York Metropolitan District Championship
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
+ n근거: 2025·2026 개최 시작일 / 공식 발표 시 자동 수정됨\
+ nStatus: [Projected] planning estimate — date/edition not confirmed\nTKD
+  Hub importance: A (editorial\, not federation grade)\nOrganizer: AAU\nFor
+ ecast basis: 2 prior edition(s)\; confidence medium\nFULL DETAILS: Site no
+ t deployed yet\; see the bundled event page (events/evt_324b30908a78f6e29a
+ .html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_324b30908a78f6e29a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_5a44319f801b90171e@tkd-calendar.local
+DTSTAMP:20261031T190032Z
+LAST-MODIFIED:20261031T190032Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
+X-TKD-FORECAST-CONFIDENCE:LOW
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 AAU Region 1 Championships - Battle of New York
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
+ · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
+ 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
+ dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
+ ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
+ nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
+ evt_5a44319f801b90171e.html)\nConfirm official entry rules before booking 
+ travel.
+URL:https://aausports.org/taekwondo/future-dates/
+X-TKD-DETAIL-PATH:events/evt_5a44319f801b90171e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_17898047a9039e6b4b@tkd-calendar.local
+DTSTAMP:20261031T190032Z
+LAST-MODIFIED:20261031T190032Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
+X-TKD-FORECAST-CONFIDENCE:LOW
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 Metro Open International
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
+ · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
+ 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
+ dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
+ ade)\nOrganizer: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐
+ 로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\; confid
+ ence low\nFULL DETAILS: Site not deployed yet\; see the bundled event page
+  (events/evt_17898047a9039e6b4b.html)\nConfirm official entry rules before
+  booking travel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_17898047a9039e6b4b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_4d75c64fe5d4e84893@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:7
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:EARLIEST_START_3Y_WEEKDAY_SAFE
+X-TKD-FORECAST-CONFIDENCE:MEDIUM
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2027 New York Open Taekwondo Championships
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
+ n근거: 2025·2026 개최 시작일 / 공식 발표 시 자동 수정됨\
+ nStatus: [Projected] planning estimate — date/edition not confirmed\nTKD
+  Hub importance: B (editorial\, not federation grade)\nOrganizer: NY Open 
+ organizing committee\nEligibility: Check full entry conditions on detail p
+ age\nForecast basis: 2 prior edition(s)\; confidence medium\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_4d75c64fe5
+ d4e84893.html)\nConfirm official entry rules before booking travel.
+URL:https://nyopentkd.org/general-info/
+X-TKD-DETAIL-PATH:events/evt_4d75c64fe5d4e84893.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_6b26455de1ccb87d09@tkd-calendar.local
+DTSTAMP:20261031T182922Z
+LAST-MODIFIED:20261031T182922Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:EARLIEST_START_3Y_WEEKDAY_SAFE
+X-TKD-FORECAST-CONFIDENCE:MEDIUM
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 USATKD New York State Championship
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
+ n근거: 2024·2025·2026 개최 시작일 / 공식 발표 시 자동 수
+ 정됨\nStatus: [Projected] planning estimate — date/edition not confirm
+ ed\nTKD Hub importance: A (editorial\, not federation grade)\nOrganizer: U
+ SATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 이상\, 성
+ 인 SafeSport\nForecast basis: 3 prior edition(s)\; confidence medium\nFUL
+ L DETAILS: Site not deployed yet\; see the bundled event page (events/evt_
+ 6b26455de1ccb87d09.html)\nConfirm official entry rules before booking trav
+ el.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_6b26455de1ccb87d09.html
+END:VEVENT
+END:VCALENDAR

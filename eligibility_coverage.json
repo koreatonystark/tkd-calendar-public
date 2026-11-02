@@ -1,0 +1,23 @@
+{
+  "awaiting_event_year_verification": 58,
+  "s_a_events": 58,
+  "source_rules": 10,
+  "with_verified_reference": 55,
+  "without_verified_reference": [
+    {
+      "id": "evt_eda25645904f7c3470",
+      "title": "2027 WT Grand Prix Challenge (Muju, Korea)",
+      "year": 2027
+    },
+    {
+      "id": "evt_d59366a8a31b061ee9",
+      "title": "2027 World Taekwondo Championships (Astana)",
+      "year": 2027
+    },
+    {
+      "id": "evt_cdb653c44946a41cf6",
+      "title": "2027 World Taekwondo Under-21 Championships (Samokov)",
+      "year": 2027
+    }
+  ]
+}

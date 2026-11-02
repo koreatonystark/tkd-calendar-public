@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TKD S+A+B - All Significant Competitions
+X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
+ 는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
+ 하세요.
+BEGIN:VEVENT
+UID:evt_0706fb7dc88eb58892@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:EARLIEST_START_3Y_WEEKDAY_SAFE
+X-TKD-FORECAST-CONFIDENCE:HIGH
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] 2027 AAU Taekwondo Nationals
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 높음)\
+ n근거: 2024·2025·2026 개최 시작일 / 공식 발표 시 자동 수
+ 정됨\nStatus: [Projected] planning estimate — date/edition not confirm
+ ed\nTKD Hub importance: S (editorial\, not federation grade)\nOrganizer: A
+ AU Taekwondo\nAffiliation: AAU\nEligibility: Check full entry conditions o
+ n detail page\nAdvancement: Team pathway\; \nForecast basis: 3 prior editi
+ on(s)\; confidence high\nFULL DETAILS: Site not deployed yet\; see the bun
+ dled event page (events/evt_0706fb7dc88eb58892.html)\nConfirm official ent
+ ry rules before booking travel.
+URL:https://aausports.org/taekwondo/future-dates/
+X-TKD-DETAIL-PATH:events/evt_0706fb7dc88eb58892.html
+END:VEVENT
+END:VCALENDAR

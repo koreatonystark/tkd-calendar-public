@@ -1,0 +1,66 @@
+{
+  "candidates": [
+    {
+      "affiliation_claim": "AAU (as listed by registration platform; official sanction unverified)",
+      "discovered_by": [
+        "curated_discovery_reference"
+      ],
+      "id": "candidate_8cd35ddc88b55ba19b",
+      "location": "New Jersey, USA",
+      "source_url": "https://www.tourneyreg.net/",
+      "start_date": "2027-01-16",
+      "state": "NJ",
+      "status": "pending",
+      "title": "4th New Jersey AAU State Hanmadang & Sport Poomsae Qualifier",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "AAU stated by organizer; sanction and points unverified",
+      "discovered_by": [
+        "curated_discovery_reference"
+      ],
+      "id": "candidate_330585ad6588fb88da",
+      "location": "Phoenix Convention Center, Phoenix, AZ",
+      "source_url": "https://worldscusa.com/",
+      "start_date": "2027-02-13",
+      "state": "AZ",
+      "status": "pending",
+      "title": "2027 AAU Taekwondo Arizona State Championship",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ITFU event title; eligibility and scale require review",
+      "discovered_by": [
+        "curated_discovery_reference"
+      ],
+      "id": "candidate_1626dd4f067d507be0",
+      "location": "Fivay High School, FL, USA",
+      "source_url": "https://www.kihapp.com/arts/1/tournaments?country=United+States",
+      "start_date": "2027-02-20",
+      "state": "FL",
+      "status": "pending",
+      "title": "ITFU Florida 4th International Taekwon-Do Open",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "Taekwondo America national event; closed/membership eligibility to verify",
+      "discovered_by": [
+        "curated_discovery_reference"
+      ],
+      "id": "candidate_328b874a6021bc509e",
+      "location": "Northern Kentucky Convention Center, Covington, KY",
+      "source_url": "https://taekwondoamerica.org/project/national-tournament-cincinnati-oh-jan-22-23-2027/",
+      "start_date": "2027-01-22",
+      "state": "KY",
+      "status": "pending",
+      "title": "2027 Taekwondo America National Tournament - Covington, KY",
+      "year": 2027
+    }
+  ],
+  "counts": {
+    "pending": 4,
+    "total": 4
+  },
+  "notice": "DISCOVERY ONLY: not verified, graded or included in ICS.",
+  "schema_version": 1
+}

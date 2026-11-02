@@ -1,0 +1,10 @@
+# PUBLIC website repository: secrets and program files must never be committed.
+.env
+.env.*
+*.key
+*.pem
+*credentials*.json
+*service-account*.json
+__pycache__/
+PRIVATE_ADMIN/
+*.py

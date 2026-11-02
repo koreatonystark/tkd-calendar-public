@@ -1,0 +1,1399 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TKD All Competitions (S+A+B)
+X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
+ 는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
+ 하세요.
+BEGIN:VEVENT
+UID:evt_6d513f4b09b0196304@tkd-calendar.local
+DTSTAMP:20261031T182922Z
+LAST-MODIFIED:20261031T182922Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260914
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 U.S. Season Final
+LOCATION:Little Rock\, AR
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SA Taekwondo\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 이상\
+ , 성인 SafeSport\nVenue: City/state only\; exact address unconfirmed\nFU
+ LL DETAILS: Site not deployed yet\; see the bundled event page (events/evt
+ _6d513f4b09b0196304.html)\nConfirm official entry rules before booking tra
+ vel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_6d513f4b09b0196304.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_b8af11c593637710ef@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20261017
+DTEND;VALUE=DATE:20261018
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 New York Open Taekwondo Championships
+LOCATION:Queens College Fitzgerald Gymnasium\, 65-30 Kissena Blvd\, Flushin
+ g\, NY 11367
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: NY Open organizing committee\
+ nEligibility: Check full entry conditions on detail page\nRegistration dea
+ dline: 2026-10-07\nVenue: Map/location field has the published address\nFU
+ LL DETAILS: Site not deployed yet\; see the bundled event page (events/evt
+ _b8af11c593637710ef.html)\nConfirm official entry rules before booking tra
+ vel.
+URL:https://nyopentkd.org/general-info/
+X-TKD-DETAIL-PATH:events/evt_b8af11c593637710ef.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e1abea5fa30cd9303b@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261022
+DTEND;VALUE=DATE:20261026
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD W] 2026 Pan American Club Championship
+X-TKD-INTERNATIONAL:TRUE
+LOCATION:Daytona Beach\, FL
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SA Taekwondo\nCategory: International competition (see organizing federati
+ on on event page)\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 
+ 이상\, 성인 SafeSport\nVenue: City/state only\; exact address unconfir
+ med\nFULL DETAILS: Site not deployed yet\; see the bundled event page (eve
+ nts/evt_e1abea5fa30cd9303b.html)\nConfirm official entry rules before book
+ ing travel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_e1abea5fa30cd9303b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_fa467dd2a6090f5364@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261108
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2026 Gateway Championships Class A Regional
+LOCATION:St. Charles\, MO
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2026-11-04\nVenue: City/state only\; ex
+ act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
+ dled event page (events/evt_fa467dd2a6090f5364.html)\nConfirm official ent
+ ry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_fa467dd2a6090f5364.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_a835a413486c667dc2@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261108
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2026 SOFLO Championship Class A Regional
+LOCATION:Fort Lauderdale\, FL
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2026-11-04\nVenue: City/state only\; ex
+ act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
+ dled event page (events/evt_a835a413486c667dc2.html)\nConfirm official ent
+ ry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_a835a413486c667dc2.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_ea1877a560f5df9193@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261107
+DTEND;VALUE=DATE:20261108
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2026 Korea National Assembly President's Cup U.S. Taekwondo
+  Championship
+LOCATION:San Jose Convention Center - South Hall\, 435 S Market St\, San Jo
+ se\, CA 95113
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Blue Dragon Taekwondo Academy
+ \, Inc.\nEligibility: Check full entry conditions on detail page\nVenue: M
+ ap/location field has the published address\nFULL DETAILS: Site not deploy
+ ed yet\; see the bundled event page (events/evt_ea1877a560f5df9193.html)\n
+ Confirm official entry rules before booking travel.
+URL:https://worldscusa.com/tournaments/korea-national-assembly-presidents-c
+ up-u-s-taekwondo-championship/
+X-TKD-DETAIL-PATH:events/evt_ea1877a560f5df9193.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_13ba834e047841043f@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261115
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2026 Grand Master Invitational Class A Regional
+LOCATION:Roswell\, GA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2026-11-11\nVenue: City/state only\; ex
+ act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
+ dled event page (events/evt_13ba834e047841043f.html)\nConfirm official ent
+ ry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_13ba834e047841043f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_150482411c6ea6b0e3@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261113
+DTEND;VALUE=DATE:20261115
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2026 LVLUP Invitational Class A Regional
+LOCATION:Baraboo\, WI
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2026-11-11\nVenue: City/state only\; ex
+ act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
+ dled event page (events/evt_150482411c6ea6b0e3.html)\nConfirm official ent
+ ry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_150482411c6ea6b0e3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_4bb8cf22aba99d4ea4@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261206
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] ATA 2026 H.U. Lee Classic
+LOCATION:Little Rock\, AR
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
+ : ATA\nEligibility: Check full entry conditions on detail page\nRanking: L
+ isted for some divisions\; check which organization/points on detail page\
+ nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS: Site no
+ t deployed yet\; see the bundled event page (events/evt_4bb8cf22aba99d4ea4
+ .html)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/
+X-TKD-DETAIL-PATH:events/evt_4bb8cf22aba99d4ea4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_133ef943baa2d4c948@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270118
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] 2027 U.S. National TKD Team Trials
+LOCATION:Memphis\, TN
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SATKD\nAge / belt: See full eligibility/rules on the event detail page / S
+ enior WT World Class requires valid Kukkiwon/WT Dan\; verify other divisio
+ ns individually.\nIdentity/entry: 미국 대표 선발 경로·국적·선
+ 발 자격 확인\nAdvancement: Team pathway\; \nVenue: City/state only\; 
+ exact address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the b
+ undled event page (events/evt_133ef943baa2d4c948.html)\nConfirm official e
+ ntry rules before booking travel.
+URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+X-TKD-DETAIL-PATH:events/evt_133ef943baa2d4c948.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_791cc83c0b436895ca@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270117
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Memphis\, TN (January)
+LOCATION:Renasant Convention Center\, 255 N Main St\, Memphis\, TN 38103
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Chief Master Betsy Stevens & 
+ Senior Master Tony Rosa\nAffiliation: ATA\nEligibility: Check full entry c
+ onditions on detail page\nRanking: Listed for some divisions\; check which
+  organization/points on detail page\nRegistration deadline: 2027-01-13\nVe
+ nue: Map/location field has the published address\nFULL DETAILS: Site not 
+ deployed yet\; see the bundled event page (events/evt_791cc83c0b436895ca.h
+ tml)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0115-162027-tn
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_791cc83c0b436895ca.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_da5fa33a061e407444@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270124
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] TA 2027 National Tournament
+LOCATION:Northern Kentucky Convention Center\, 1 W Rivercenter Blvd\, Covin
+ gton\, KY 41011
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: Taekwondo America\nAffiliatio
+ n: Taekwondo America\nEligibility: Check full entry conditions on detail p
+ age\nIdentity/entry: TA 회원 도장 소속·학교장을 통한 등록\n
+ Registration deadline: 2027-01-13\nVenue: Map/location field has the publi
+ shed address\nFULL DETAILS: Site not deployed yet\; see the bundled event 
+ page (events/evt_da5fa33a061e407444.html)\nConfirm official entry rules be
+ fore booking travel.
+URL:https://taekwondoamerica.org/project/national-tournament-cincinnati-oh-
+ jan-22-23-2027/
+X-TKD-DETAIL-PATH:events/evt_da5fa33a061e407444.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_2fe481bb288e10791a@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270212
+DTEND;VALUE=DATE:20270214
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Orlando\, FL (February)
+LOCATION:Caribe Royale Resort\, 8101 World Center Drive\, Orlando\, FL 3282
+ 1
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Grand Master Isaacs and Mrs. 
+ Lavonne Isaacs\nAffiliation: ATA\nEligibility: Check full entry conditions
+  on detail page\nRanking: Listed for some divisions\; check which organiza
+ tion/points on detail page\nRegistration deadline: 2027-02-10\nVenue: Map/
+ location field has the published address\nFULL DETAILS: Site not deployed 
+ yet\; see the bundled event page (events/evt_2fe481bb288e10791a.html)\nCon
+ firm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0212-132027-fl
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_2fe481bb288e10791a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_217a7ea5b97605cfe7@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270228
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Allen\, TX (February)
+LOCATION:Marriott Dallas Allen Hotel & Convention Center\, 777 Watters Cree
+ k Blvd\, Allen\, TX 75013
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Chief Master Jack Hornbuckle\
+ nAffiliation: ATA\nEligibility: Check full entry conditions on detail page
+ \nRanking: Listed for some divisions\; check which organization/points on 
+ detail page\nRegistration deadline: 2027-02-24\nVenue: Map/location field 
+ has the published address\nFULL DETAILS: Site not deployed yet\; see the b
+ undled event page (events/evt_217a7ea5b97605cfe7.html)\nConfirm official e
+ ntry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0226-272027-tx
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_217a7ea5b97605cfe7.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_add62b5dd9e92cb6a5@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270227
+DTEND;VALUE=DATE:20270228
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 AAU Oregon Region 12 Qualifier
+LOCATION:Parkrose High School\, 12003 NE Shaver St\, Portland\, OR 97220
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: AAU Oregon / Region 12 organi
+ zer\nAffiliation: AAU\nEligibility: Check full entry conditions on detail 
+ page\nAdvancement: Nationals pathway\nRegistration deadline: 2027-02-24\nV
+ enue: Map/location field has the published address\nFULL DETAILS: Site not
+  deployed yet\; see the bundled event page (events/evt_add62b5dd9e92cb6a5.
+ html)\nConfirm official entry rules before booking travel.
+URL:https://aauortkd.com/
+X-TKD-DETAIL-PATH:events/evt_add62b5dd9e92cb6a5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_54ec6f339ea405336a@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270305
+DTEND;VALUE=DATE:20270307
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Kansas City\, KS (March)
+LOCATION:Homefield KCK Showcase Center\, 9250 State Ave\, Kansas City\, KS 
+ 66112
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Master Joshua Palmer\nAffilia
+ tion: ATA\nEligibility: Check full entry conditions on detail page\nRankin
+ g: Listed for some divisions\; check which organization/points on detail p
+ age\nRegistration deadline: 2027-03-03\nVenue: Map/location field has the 
+ published address\nFULL DETAILS: Site not deployed yet\; see the bundled e
+ vent page (events/evt_54ec6f339ea405336a.html)\nConfirm official entry rul
+ es before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0305-062027-ks
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_54ec6f339ea405336a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e5b6518772c3f00c10@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270321
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] ATA 2027 Spring Nationals
+LOCATION:Fort Worth Convention Center\, 1201 Houston Street\, Fort Worth\, 
+ TX 76102
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
+ : ATA\nAge / belt: Official event says all ages\; individual event bracket
+ s vary / Official event says all ranks\; some divisions are restricted\nRa
+ nking: Listed for some divisions\; check which organization/points on deta
+ il page\nVenue: Map/location field has the published address\nFULL DETAILS
+ : Site not deployed yet\; see the bundled event page (events/evt_e5b651877
+ 2c3f00c10.html)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/spring-nationals/
+X-TKD-DETAIL-PATH:events/evt_e5b6518772c3f00c10.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_72f303a85ad6ee5a7f@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20270318
+DTEND;VALUE=DATE:20270322
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD W] 2027 U.S. Open Championships
+X-TKD-INTERNATIONAL:TRUE
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SATKD\nEligibility: Check full entry conditions on detail page\nCategory: 
+ International competition (see organizing federation on event page)\nIdent
+ ity/entry: 국제오픈: WT GAL 필수(미국 시민권 일괄 요건 아
+ 님)\nFULL DETAILS: Site not deployed yet\; see the bundled event page (ev
+ ents/evt_72f303a85ad6ee5a7f.html)\nConfirm official entry rules before boo
+ king travel.
+URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+X-TKD-DETAIL-PATH:events/evt_72f303a85ad6ee5a7f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_5d2732e2d91c8ef098@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270328
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Monroeville\, PA (March)
+LOCATION:All American Field\, 1 Racquet Ln\, Monroeville\, PA 15614
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Grand Master Michael Caruso\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2027-03-24\nVenue: Map/location field h
+ as the published address\nFULL DETAILS: Site not deployed yet\; see the bu
+ ndled event page (events/evt_5d2732e2d91c8ef098.html)\nConfirm official en
+ try rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0326-272027-pa
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_5d2732e2d91c8ef098.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_861a203b3e8fdb3279@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270411
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Chesterfield\, MO (April)
+LOCATION:Carshield Sportsplex\, 530 North Eatherton Rd\, Chesterfield\, MO 
+ 63005
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Chief Master Rob & Mrs. Lori 
+ Howard\nAffiliation: ATA\nEligibility: Check full entry conditions on deta
+ il page\nRanking: Listed for some divisions\; check which organization/poi
+ nts on detail page\nVenue: Map/location field has the published address\nF
+ ULL DETAILS: Site not deployed yet\; see the bundled event page (events/ev
+ t_861a203b3e8fdb3279.html)\nConfirm official entry rules before booking tr
+ avel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0409-102027-mo
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_861a203b3e8fdb3279.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_d58dc9269e1f87d1a8@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270411
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Lone Star Championship Class A Regional
+LOCATION:Galveston\, TX
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2027-04-07\nVenue: City/state only\; ex
+ act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
+ dled event page (events/evt_d58dc9269e1f87d1a8.html)\nConfirm official ent
+ ry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_d58dc9269e1f87d1a8.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e966f043b66aa0e812@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Penn Classic Class A Regional
+LOCATION:Morgantown\, PA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA member-school organizer\n
+ Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
+ nRanking: Listed for some divisions\; check which organization/points on d
+ etail page\nRegistration deadline: 2027-04-14\nVenue: City/state only\; ex
+ act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
+ dled event page (events/evt_e966f043b66aa0e812.html)\nConfirm official ent
+ ry rules before booking travel.
+URL:https://www.ataezsignup.com/tournaments/all/
+X-TKD-DETAIL-PATH:events/evt_e966f043b66aa0e812.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_63b0ef741e8f7569da@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270425
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Baraboo\, WI (April)
+LOCATION:Kalahari Resorts & Conventions - Wisconsin Dells\, 1305 Kalahari D
+ r\, Baraboo\, WI 53913
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Master Michael & Master Riche
+ lle Moh\nAffiliation: ATA\nEligibility: Check full entry conditions on det
+ ail page\nRanking: Listed for some divisions\; check which organization/po
+ ints on detail page\nVenue: Map/location field has the published address\n
+ FULL DETAILS: Site not deployed yet\; see the bundled event page (events/e
+ vt_63b0ef741e8f7569da.html)\nConfirm official entry rules before booking t
+ ravel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0423-242027-wi
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_63b0ef741e8f7569da.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_4d8d030bf50bb7c3ea@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270425
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Canal Winchester\, OH (April)
+LOCATION:Harvest Preparatory School\, 4595 Gender Rd\, Canal Winchester\, O
+ H 43110
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Senior Master Michelle & Seni
+ or Master Kevin Pavlik\nAffiliation: ATA\nEligibility: Check full entry co
+ nditions on detail page\nRanking: Listed for some divisions\; check which 
+ organization/points on detail page\nRegistration deadline: 2027-04-21\nVen
+ ue: Map/location field has the published address\nFULL DETAILS: Site not d
+ eployed yet\; see the bundled event page (events/evt_4d8d030bf50bb7c3ea.ht
+ ml)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0423-242027-oh
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_4d8d030bf50bb7c3ea.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_873d835b8838e7d3d3@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270425
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Raleigh\, NC (April)
+LOCATION:Raleigh Convention Center\, 500 S Salisbury St\, Raleigh\, NC 2760
+ 1
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Chief Master Michael & Senior
+  Master Julia Wegmann\nAffiliation: ATA\nEligibility: Check full entry con
+ ditions on detail page\nRanking: Listed for some divisions\; check which o
+ rganization/points on detail page\nVenue: Map/location field has the publi
+ shed address\nFULL DETAILS: Site not deployed yet\; see the bundled event 
+ page (events/evt_873d835b8838e7d3d3.html)\nConfirm official entry rules be
+ fore booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0423-242027-nc
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_873d835b8838e7d3d3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_b983465b9fc4a0b3a9@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270425
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Roswell\, GA (April)
+LOCATION:A5 Sportsplex\, 11000 Alpharetta Hwy\, Roswell\, GA 30076
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Senior Master Chong Sul\nAffi
+ liation: ATA\nEligibility: Check full entry conditions on detail page\nRan
+ king: Listed for some divisions\; check which organization/points on detai
+ l page\nRegistration deadline: 2027-04-21\nVenue: Map/location field has t
+ he published address\nFULL DETAILS: Site not deployed yet\; see the bundle
+ d event page (events/evt_b983465b9fc4a0b3a9.html)\nConfirm official entry 
+ rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0423-242027-ga
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_b983465b9fc4a0b3a9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_b3683a1747010b43b9@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20270507
+DTEND;VALUE=DATE:20270510
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 American Open East
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
+ ntry: USATKD 회원 등록\; 벨트 옐로 이상\, 성인 SafeSport\nFULL
+  DETAILS: Site not deployed yet\; see the bundled event page (events/evt_b
+ 3683a1747010b43b9.html)\nConfirm official entry rules before booking trave
+ l.
+URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+X-TKD-DETAIL-PATH:events/evt_b3683a1747010b43b9.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_b61805cbe50356e590@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270621
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 American Open West
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
+ ntry: USATKD 회원 등록\; 벨트 옐로 이상\, 성인 SafeSport\nFULL
+  DETAILS: Site not deployed yet\; see the bundled event page (events/evt_b
+ 61805cbe50356e590.html)\nConfirm official entry rules before booking trave
+ l.
+URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+X-TKD-DETAIL-PATH:events/evt_b61805cbe50356e590.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e819a3218112395b29@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20270707
+DTEND;VALUE=DATE:20270712
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] 2027 U.S. National Championships
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
+ ntry: World Class: 미국 시민권 증빙 필수\nAdvancement: Nationals 
+ pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
+ (events/evt_e819a3218112395b29.html)\nConfirm official entry rules before 
+ booking travel.
+URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+X-TKD-DETAIL-PATH:events/evt_e819a3218112395b29.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_d02150bb464a3f0e6f@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270725
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD W] ATA 2027 World Championships
+X-TKD-INTERNATIONAL:TRUE
+LOCATION:Phoenix Convention Center\, 100 N 3rd St\, Phoenix\, AZ 85004
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
+ : ATA\nAge / belt: Organizer says all ages and abilities\; individual divi
+ sion conditions apply / Organizer says all ranks\; participation may requi
+ re ATA membership\nCategory: International competition (see organizing fed
+ eration on event page)\nVenue: Map/location field has the published addres
+ s\nFULL DETAILS: Site not deployed yet\; see the bundled event page (event
+ s/evt_d02150bb464a3f0e6f.html)\nConfirm official entry rules before bookin
+ g travel.
+URL:https://atamartialarts.com/worlds/
+X-TKD-DETAIL-PATH:events/evt_d02150bb464a3f0e6f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_135137e88c3c8e2f00@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270813
+DTEND;VALUE=DATE:20270815
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Allen\, TX (August)
+LOCATION:Watters Creek Convention Center\, 777 Watters Creek Boulevard\, Al
+ len\, TX 75013
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Grand Master Mark Sustaire & 
+ Chief Master Barbara Sustaire\nAffiliation: ATA\nEligibility: Check full e
+ ntry conditions on detail page\nRanking: Listed for some divisions\; check
+  which organization/points on detail page\nVenue: Map/location field has t
+ he published address\nFULL DETAILS: Site not deployed yet\; see the bundle
+ d event page (events/evt_135137e88c3c8e2f00.html)\nConfirm official entry 
+ rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0813-142027-tx
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_135137e88c3c8e2f00.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_9f9dd2d45ca1267bff@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:3
+DTSTART;VALUE=DATE:20270903
+DTEND;VALUE=DATE:20270906
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 U.S. Season Final
+LOCATION:The Podium Powered by STCU\, 511 West Joe Albi Way\, Spokane\, WA 
+ 99201
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
+ SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
+ ntry: USATKD 회원 등록\; 벨트 옐로 이상\, 성인 SafeSport\nVenu
+ e: Map/location field has the published address\nFULL DETAILS: Site not de
+ ployed yet\; see the bundled event page (events/evt_9f9dd2d45ca1267bff.htm
+ l)\nConfirm official entry rules before booking travel.
+URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+X-TKD-DETAIL-PATH:events/evt_9f9dd2d45ca1267bff.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_05f1820c8759dcf969@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270912
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Fenton\, MO (September)
+LOCATION:STL Athletic Center\, 2300 Hitzert Ct\, Fenton\, MO 63026
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Master Jordan Howard\nAffilia
+ tion: ATA\nEligibility: Check full entry conditions on detail page\nRankin
+ g: Listed for some divisions\; check which organization/points on detail p
+ age\nVenue: Map/location field has the published address\nFULL DETAILS: Si
+ te not deployed yet\; see the bundled event page (events/evt_05f1820c8759d
+ cf969.html)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0910-112027-mo
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_05f1820c8759dcf969.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_2eb8acc19b4fac375f@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270918
+DTEND;VALUE=DATE:20270919
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Evansville\, IN (September)
+LOCATION:National Guard Armory\, 3300 E Division St\, Evansville\, IN 47715
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: ATA Region 106\nAffiliation: 
+ ATA\nEligibility: Check full entry conditions on detail page\nRanking: Lis
+ ted for some divisions\; check which organization/points on detail page\nV
+ enue: Map/location field has the published address\nFULL DETAILS: Site not
+  deployed yet\; see the bundled event page (events/evt_2eb8acc19b4fac375f.
+ html)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/09182027-in-cl
+ ass-a/
+X-TKD-DETAIL-PATH:events/evt_2eb8acc19b4fac375f.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_58d662f1eba94dbdba@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271010
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] ATA 2027 Fall Nationals
+LOCATION:St. Louis\, MO
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
+ : ATA\nEligibility: Check full entry conditions on detail page\nVenue: Cit
+ y/state only\; exact address unconfirmed\nFULL DETAILS: Site not deployed 
+ yet\; see the bundled event page (events/evt_58d662f1eba94dbdba.html)\nCon
+ firm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/
+X-TKD-DETAIL-PATH:events/evt_58d662f1eba94dbdba.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_3ad5cd1e7aed03d8dc@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:2
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271025
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD W] ITF 2027 World Championships
+X-TKD-INTERNATIONAL:TRUE
+LOCATION:Asuncion\, Paraguay
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: ITF / 2027 local host\nAffili
+ ation: ITF (itftkd.sport)\nAge / belt: Junior / Senior divisions\; exact c
+ urrent rules to confirm / ITF black belt certificate required per federati
+ on policy\nCategory: International competition (see organizing federation 
+ on event page)\nIdentity/entry: 국가협회/연맹 등록·선발 자격 
+ 필요\nAdvancement: Team pathway\; \nVenue: City/state only\; exact addre
+ ss unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bundled even
+ t page (events/evt_3ad5cd1e7aed03d8dc.html)\nConfirm official entry rules 
+ before booking travel.
+URL:https://itftkd.sport/events/category/championships/
+X-TKD-DETAIL-PATH:events/evt_3ad5cd1e7aed03d8dc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_a71958b9f8003dcacd@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20271023
+DTEND;VALUE=DATE:20271024
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Naperville\, IL (October)
+LOCATION:TOCA Soccer Center Naperville\, 1740 Quincy Ave\, Naperville\, IL 
+ 60540
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Chief Master Patti Barnum\nAf
+ filiation: ATA\nEligibility: Check full entry conditions on detail page\nR
+ anking: Listed for some divisions\; check which organization/points on det
+ ail page\nVenue: Map/location field has the published address\nFULL DETAIL
+ S: Site not deployed yet\; see the bundled event page (events/evt_a71958b9
+ f8003dcacd.html)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/10232027-il-cl
+ ass-a/
+X-TKD-DETAIL-PATH:events/evt_a71958b9f8003dcacd.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_f7656ff59fabd8298a@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20271210
+DTEND;VALUE=DATE:20271212
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] ATA 2027 H.U. Lee Classic
+LOCATION:Little Rock\, AR
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
+ : ATA\nEligibility: Check full entry conditions on detail page\nVenue: Cit
+ y/state only\; exact address unconfirmed\nFULL DETAILS: Site not deployed 
+ yet\; see the bundled event page (events/evt_f7656ff59fabd8298a.html)\nCon
+ firm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/
+X-TKD-DETAIL-PATH:events/evt_f7656ff59fabd8298a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_69c4f4fb09fd723854@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270727
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:EARLIEST_START_3Y_WEEKDAY_SAFE
+X-TKD-FORECAST-CONFIDENCE:HIGH
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] 2027 AAU Junior Olympic Games
+LOCATION:Houston\, TX
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 높음)\
+ n근거: 2024·2025·2026 개최 시작일 / 공식 발표 시 자동 수
+ 정됨\nStatus: [Projected] planning estimate — date/edition not confirm
+ ed\nTKD Hub importance: S (editorial\, not federation grade)\nOrganizer: A
+ AU Taekwondo\nAffiliation: AAU\nEligibility: Check full entry conditions o
+ n detail page\nForecast basis: 3 prior edition(s)\; confidence high\nVenue
+ : City/state only\; exact address unconfirmed\nFULL DETAILS: Site not depl
+ oyed yet\; see the bundled event page (events/evt_69c4f4fb09fd723854.html)
+ \nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/future-dates/
+X-TKD-DETAIL-PATH:events/evt_69c4f4fb09fd723854.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_324b30908a78f6e29a@tkd-calendar.local
+DTSTAMP:20261031T182922Z
+LAST-MODIFIED:20261031T182922Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:EARLIEST_START_3Y_WEEKDAY_SAFE
+X-TKD-FORECAST-CONFIDENCE:MEDIUM
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 AAU New York Metropolitan District Championship
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
+ n근거: 2025·2026 개최 시작일 / 공식 발표 시 자동 수정됨\
+ nStatus: [Projected] planning estimate — date/edition not confirmed\nTKD
+  Hub importance: A (editorial\, not federation grade)\nOrganizer: AAU\nFor
+ ecast basis: 2 prior edition(s)\; confidence medium\nFULL DETAILS: Site no
+ t deployed yet\; see the bundled event page (events/evt_324b30908a78f6e29a
+ .html)\nConfirm official entry rules before booking travel.
+URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+X-TKD-DETAIL-PATH:events/evt_324b30908a78f6e29a.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_01d0f69e0fbf36b5c6@tkd-calendar.local
+DTSTAMP:20261031T190032Z
+LAST-MODIFIED:20261031T190032Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270605
+DTEND;VALUE=DATE:20270606
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
+X-TKD-FORECAST-CONFIDENCE:LOW
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 AAU North Carolina Super Regionals
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
+ · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
+ 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
+ dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
+ ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
+ nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
+ evt_01d0f69e0fbf36b5c6.html)\nConfirm official entry rules before booking 
+ travel.
+URL:https://aausports.org/taekwondo/future-dates/
+X-TKD-DETAIL-PATH:events/evt_01d0f69e0fbf36b5c6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_5ca718f96311ab7da4@tkd-calendar.local
+DTSTAMP:20261031T190032Z
+LAST-MODIFIED:20261031T190032Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270327
+DTEND;VALUE=DATE:20270328
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
+X-TKD-FORECAST-CONFIDENCE:LOW
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 AAU Pacific Northwest Regional Championship
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
+ · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
+ 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
+ dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
+ ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
+ nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
+ evt_5ca718f96311ab7da4.html)\nConfirm official entry rules before booking 
+ travel.
+URL:https://aausports.org/taekwondo/future-dates/
+X-TKD-DETAIL-PATH:events/evt_5ca718f96311ab7da4.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_5a44319f801b90171e@tkd-calendar.local
+DTSTAMP:20261031T190032Z
+LAST-MODIFIED:20261031T190032Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
+X-TKD-FORECAST-CONFIDENCE:LOW
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 AAU Region 1 Championships - Battle of New York
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
+ · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
+ 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
+ dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
+ ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
+ nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
+ evt_5a44319f801b90171e.html)\nConfirm official entry rules before booking 
+ travel.
+URL:https://aausports.org/taekwondo/future-dates/
+X-TKD-DETAIL-PATH:events/evt_5a44319f801b90171e.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_73cf42e0cadc09c03c@tkd-calendar.local
+DTSTAMP:20261031T190032Z
+LAST-MODIFIED:20261031T190032Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270514
+DTEND;VALUE=DATE:20270515
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
+X-TKD-FORECAST-CONFIDENCE:LOW
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 AAU Region 10 Championship
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
+ · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
+ 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
+ dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
+ ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
+ nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
+ evt_73cf42e0cadc09c03c.html)\nConfirm official entry rules before booking 
+ travel.
+URL:https://aausports.org/taekwondo/future-dates/
+X-TKD-DETAIL-PATH:events/evt_73cf42e0cadc09c03c.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_d187d92c10d7caa2dc@tkd-calendar.local
+DTSTAMP:20261031T190032Z
+LAST-MODIFIED:20261031T190032Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270529
+DTEND;VALUE=DATE:20270530
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
+X-TKD-FORECAST-CONFIDENCE:LOW
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 AAU Region 9 Championship
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
+ · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
+ 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
+ dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
+ ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
+ nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
+ evt_d187d92c10d7caa2dc.html)\nConfirm official entry rules before booking 
+ travel.
+URL:https://aausports.org/taekwondo/future-dates/
+X-TKD-DETAIL-PATH:events/evt_d187d92c10d7caa2dc.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_0706fb7dc88eb58892@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:6
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:EARLIEST_START_3Y_WEEKDAY_SAFE
+X-TKD-FORECAST-CONFIDENCE:HIGH
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] 2027 AAU Taekwondo Nationals
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 높음)\
+ n근거: 2024·2025·2026 개최 시작일 / 공식 발표 시 자동 수
+ 정됨\nStatus: [Projected] planning estimate — date/edition not confirm
+ ed\nTKD Hub importance: S (editorial\, not federation grade)\nOrganizer: A
+ AU Taekwondo\nAffiliation: AAU\nEligibility: Check full entry conditions o
+ n detail page\nAdvancement: Team pathway\; \nForecast basis: 3 prior editi
+ on(s)\; confidence high\nFULL DETAILS: Site not deployed yet\; see the bun
+ dled event page (events/evt_0706fb7dc88eb58892.html)\nConfirm official ent
+ ry rules before booking travel.
+URL:https://aausports.org/taekwondo/future-dates/
+X-TKD-DETAIL-PATH:events/evt_0706fb7dc88eb58892.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_69a6895fdd9e4d8f73@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:7
+DTSTART;VALUE=DATE:20270728
+DTEND;VALUE=DATE:20270729
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:EARLIEST_START_3Y_WEEKDAY_SAFE
+X-TKD-FORECAST-CONFIDENCE:MEDIUM
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] 2027 AAU Team Trials
+LOCATION:Houston\, TX
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
+ n근거: 2025·2026 개최 시작일 / 공식 발표 시 자동 수정됨\
+ nStatus: [Projected] planning estimate — date/edition not confirmed\nTKD
+  Hub importance: S (editorial\, not federation grade)\nOrganizer: AAU Taek
+ wondo\nAffiliation: AAU\nEligibility: Check full entry conditions on detai
+ l page\nAdvancement: Team pathway\; \nForecast basis: 2 prior edition(s)\;
+  confidence medium\nVenue: City/state only\; exact address unconfirmed\nFU
+ LL DETAILS: Site not deployed yet\; see the bundled event page (events/evt
+ _69a6895fdd9e4d8f73.html)\nConfirm official entry rules before booking tra
+ vel.
+URL:https://aausports.org/taekwondo/future-dates/
+X-TKD-DETAIL-PATH:events/evt_69a6895fdd9e4d8f73.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_8729e713a649b68aa3@tkd-calendar.local
+DTSTAMP:20261031T190032Z
+LAST-MODIFIED:20261031T190032Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
+X-TKD-FORECAST-CONFIDENCE:LOW
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 California State Taekwondo Championship
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
+ · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
+ 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
+ dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
+ ade)\nOrganizer: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐
+ 로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\; confid
+ ence low\nFULL DETAILS: Site not deployed yet\; see the bundled event page
+  (events/evt_8729e713a649b68aa3.html)\nConfirm official entry rules before
+  booking travel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_8729e713a649b68aa3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_3161c2241f2eff5227@tkd-calendar.local
+DTSTAMP:20261031T190032Z
+LAST-MODIFIED:20261031T190032Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
+X-TKD-FORECAST-CONFIDENCE:LOW
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 Georgia State Taekwondo Championship
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
+ · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
+ 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
+ dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
+ ade)\nOrganizer: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐
+ 로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\; confid
+ ence low\nFULL DETAILS: Site not deployed yet\; see the bundled event page
+  (events/evt_3161c2241f2eff5227.html)\nConfirm official entry rules before
+  booking travel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_3161c2241f2eff5227.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_17898047a9039e6b4b@tkd-calendar.local
+DTSTAMP:20261031T190032Z
+LAST-MODIFIED:20261031T190032Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
+X-TKD-FORECAST-CONFIDENCE:LOW
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 Metro Open International
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
+ · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
+ 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
+ dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
+ ade)\nOrganizer: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐
+ 로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\; confid
+ ence low\nFULL DETAILS: Site not deployed yet\; see the bundled event page
+  (events/evt_17898047a9039e6b4b.html)\nConfirm official entry rules before
+  booking travel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_17898047a9039e6b4b.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_5060b736317dabde37@tkd-calendar.local
+DTSTAMP:20261031T190032Z
+LAST-MODIFIED:20261031T190032Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270424
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
+X-TKD-FORECAST-CONFIDENCE:LOW
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 NCTA National Collegiate and High School Championships
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
+ · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
+ 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
+ dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
+ ade)\nOrganizer: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐
+ 로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\; confid
+ ence low\nFULL DETAILS: Site not deployed yet\; see the bundled event page
+  (events/evt_5060b736317dabde37.html)\nConfirm official entry rules before
+  booking travel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_5060b736317dabde37.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_4d75c64fe5d4e84893@tkd-calendar.local
+DTSTAMP:20261031T160000Z
+LAST-MODIFIED:20261031T160000Z
+SEQUENCE:7
+DTSTART;VALUE=DATE:20271016
+DTEND;VALUE=DATE:20271017
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:EARLIEST_START_3Y_WEEKDAY_SAFE
+X-TKD-FORECAST-CONFIDENCE:MEDIUM
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] 2027 New York Open Taekwondo Championships
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
+ n근거: 2025·2026 개최 시작일 / 공식 발표 시 자동 수정됨\
+ nStatus: [Projected] planning estimate — date/edition not confirmed\nTKD
+  Hub importance: B (editorial\, not federation grade)\nOrganizer: NY Open 
+ organizing committee\nEligibility: Check full entry conditions on detail p
+ age\nForecast basis: 2 prior edition(s)\; confidence medium\nFULL DETAILS:
+  Site not deployed yet\; see the bundled event page (events/evt_4d75c64fe5
+ d4e84893.html)\nConfirm official entry rules before booking travel.
+URL:https://nyopentkd.org/general-info/
+X-TKD-DETAIL-PATH:events/evt_4d75c64fe5d4e84893.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_10acbb0b75c867aea5@tkd-calendar.local
+DTSTAMP:20261031T190032Z
+LAST-MODIFIED:20261031T190032Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20271022
+DTEND;VALUE=DATE:20271023
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
+X-TKD-FORECAST-CONFIDENCE:LOW
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD W] 2027 Pan American Club Championship
+X-TKD-INTERNATIONAL:TRUE
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
+ · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
+ 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
+ dition not confirmed\nTKD Hub importance: S (editorial\, not federation gr
+ ade)\nOrganizer: USATKD\nCategory: International competition (see organizi
+ ng federation on event page)\nIdentity/entry: USATKD 회원 등록\; 벨
+ 트 옐로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\;
+  confidence low\nFULL DETAILS: Site not deployed yet\; see the bundled eve
+ nt page (events/evt_10acbb0b75c867aea5.html)\nConfirm official entry rules
+  before booking travel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_10acbb0b75c867aea5.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_5aee50177dc1de9888@tkd-calendar.local
+DTSTAMP:20261031T190032Z
+LAST-MODIFIED:20261031T190032Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270424
+DTEND;VALUE=DATE:20270425
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
+X-TKD-FORECAST-CONFIDENCE:LOW
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 Texas State Taekwondo Championship
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
+ · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
+ 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
+ dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
+ ade)\nOrganizer: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐
+ 로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\; confid
+ ence low\nFULL DETAILS: Site not deployed yet\; see the bundled event page
+  (events/evt_5aee50177dc1de9888.html)\nConfirm official entry rules before
+  booking travel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_5aee50177dc1de9888.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_6b26455de1ccb87d09@tkd-calendar.local
+DTSTAMP:20261031T182922Z
+LAST-MODIFIED:20261031T182922Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:EARLIEST_START_3Y_WEEKDAY_SAFE
+X-TKD-FORECAST-CONFIDENCE:MEDIUM
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 USATKD New York State Championship
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
+ n근거: 2024·2025·2026 개최 시작일 / 공식 발표 시 자동 수
+ 정됨\nStatus: [Projected] planning estimate — date/edition not confirm
+ ed\nTKD Hub importance: A (editorial\, not federation grade)\nOrganizer: U
+ SATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 이상\, 성
+ 인 SafeSport\nForecast basis: 3 prior edition(s)\; confidence medium\nFUL
+ L DETAILS: Site not deployed yet\; see the bundled event page (events/evt_
+ 6b26455de1ccb87d09.html)\nConfirm official entry rules before booking trav
+ el.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_6b26455de1ccb87d09.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_cc1261ab565bfde85d@tkd-calendar.local
+DTSTAMP:20261031T190032Z
+LAST-MODIFIED:20261031T190032Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270320
+DTEND;VALUE=DATE:20270321
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:ANNUAL_SERIES_ONE_YEAR
+X-TKD-FORECAST-CONFIDENCE:LOW
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2027 Virginia State Taekwondo Championship
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음) 
+ · 근거부족: 1개 연도\n근거: 2026 개최 시작일 / 공식 발
+ 표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
+ dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
+ ade)\nOrganizer: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐
+ 로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\; confid
+ ence low\nFULL DETAILS: Site not deployed yet\; see the bundled event page
+  (events/evt_cc1261ab565bfde85d.html)\nConfirm official entry rules before
+  booking travel.
+URL:https://www.usatkd.org/calendar
+X-TKD-DETAIL-PATH:events/evt_cc1261ab565bfde85d.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_9c0218fa5b51277acf@tkd-calendar.local
+DTSTAMP:20261031T190412Z
+LAST-MODIFIED:20261031T190412Z
+SEQUENCE:4
+DTSTART;VALUE=DATE:20270716
+DTEND;VALUE=DATE:20270717
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+X-TKD-DATE-PRECISION:EARLIEST_START_3Y_WEEKDAY_SAFE
+X-TKD-FORECAST-CONFIDENCE:MEDIUM
+X-TKD-NOT-A-REAL-DATE:TRUE
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD W] 2027 World Taekwondo Hanmadang
+X-TKD-INTERNATIONAL:TRUE
+LOCATION:Palma Gymnasium\, Suncheon\, South Korea
+DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
+ n근거: 2024·2025·2026 개최 시작일 / 공식 발표 시 자동 수
+ 정됨\nStatus: [Projected] planning estimate — date/edition not confirm
+ ed\nTKD Hub importance: S (editorial\, not federation grade)\nOrganizer: K
+ ukkiwon / host city\nAffiliation: Kukkiwon\nAge / belt: By contest divisio
+ n\; current 2027 requirements unpublished / See full eligibility/rules on 
+ the event detail page\nCategory: International competition (see organizing
+  federation on event page)\nIdentity/entry: 한국 국적→국내 팀 / 
+ 그 외 국적→해외 팀\nForecast basis: 3 prior edition(s)\; confiden
+ ce medium\nVenue: City/state only\; exact address unconfirmed\nFULL DETAIL
+ S: Site not deployed yet\; see the bundled event page (events/evt_9c0218fa
+ 5b51277acf.html)\nConfirm official entry rules before booking travel.
+URL:https://www.kukkiwon.or.kr/eng/board/read?boardManagementNo=49&boardNo=
+ 4050&menuLevel=2&menuNo=91&page=1&searchCategory=&searchType=&searchWord=
+X-TKD-DETAIL-PATH:events/evt_9c0218fa5b51277acf.html
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TKD S+A+B - All Significant Competitions
+X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
+ 는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
+ 하세요.
+BEGIN:VEVENT
+UID:evt_4d8d030bf50bb7c3ea@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270425
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:B
+SUMMARY:[TKD B] ATA 2027 Class A Regional - Canal Winchester\, OH (April)
+LOCATION:Harvest Preparatory School\, 4595 Gender Rd\, Canal Winchester\, O
+ H 43110
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
+ ditorial\, not federation grade)\nOrganizer: Senior Master Michelle & Seni
+ or Master Kevin Pavlik\nAffiliation: ATA\nEligibility: Check full entry co
+ nditions on detail page\nRanking: Listed for some divisions\; check which 
+ organization/points on detail page\nRegistration deadline: 2027-04-21\nVen
+ ue: Map/location field has the published address\nFULL DETAILS: Site not d
+ eployed yet\; see the bundled event page (events/evt_4d8d030bf50bb7c3ea.ht
+ ml)\nConfirm official entry rules before booking travel.
+URL:https://atamartialarts.com/events/event-schedule/class-a/0423-242027-oh
+ -class-a/
+X-TKD-DETAIL-PATH:events/evt_4d8d030bf50bb7c3ea.html
+END:VEVENT
+END:VCALENDAR

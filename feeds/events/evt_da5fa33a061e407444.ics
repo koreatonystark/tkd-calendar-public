@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TKD S+A+B - All Significant Competitions
+X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
+ 는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
+ 하세요.
+BEGIN:VEVENT
+UID:evt_da5fa33a061e407444@tkd-calendar.local
+DTSTAMP:20261031T180000Z
+LAST-MODIFIED:20261031T180000Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270122
+DTEND;VALUE=DATE:20270124
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] TA 2027 National Tournament
+LOCATION:Northern Kentucky Convention Center\, 1 W Rivercenter Blvd\, Covin
+ gton\, KY 41011
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: Taekwondo America\nAffiliatio
+ n: Taekwondo America\nEligibility: Check full entry conditions on detail p
+ age\nIdentity/entry: TA 회원 도장 소속·학교장을 통한 등록\n
+ Registration deadline: 2027-01-13\nVenue: Map/location field has the publi
+ shed address\nFULL DETAILS: Site not deployed yet\; see the bundled event 
+ page (events/evt_da5fa33a061e407444.html)\nConfirm official entry rules be
+ fore booking travel.
+URL:https://taekwondoamerica.org/project/national-tournament-cincinnati-oh-
+ jan-22-23-2027/
+X-TKD-DETAIL-PATH:events/evt_da5fa33a061e407444.html
+END:VEVENT
+END:VCALENDAR
