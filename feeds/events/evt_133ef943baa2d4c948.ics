@@ -9,9 +9,9 @@ X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
  하세요.
 BEGIN:VEVENT
 UID:evt_133ef943baa2d4c948@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:3
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270118
 STATUS:CONFIRMED
@@ -25,10 +25,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  enior WT World Class requires valid Kukkiwon/WT Dan\; verify other divisio
  ns individually.\nIdentity/entry: 미국 대표 선발 경로·국적·선
  발 자격 확인\nAdvancement: Team pathway\; \nVenue: City/state only\; 
- exact address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the b
- undled event page (events/evt_133ef943baa2d4c948.html)\nConfirm official e
- ntry rules before booking travel.
-URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+ exact address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://koreat
+ onystark.github.io/tkd-calendar-public/events/evt_133ef943baa2d4c948.html\
+ nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_133ef94
+ 3baa2d4c948.html
 X-TKD-DETAIL-PATH:events/evt_133ef943baa2d4c948.html
 END:VEVENT
 END:VCALENDAR

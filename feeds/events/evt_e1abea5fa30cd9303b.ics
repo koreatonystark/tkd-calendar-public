@@ -9,9 +9,9 @@ X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
  하세요.
 BEGIN:VEVENT
 UID:evt_e1abea5fa30cd9303b@tkd-calendar.local
-DTSTAMP:20261031T180000Z
-LAST-MODIFIED:20261031T180000Z
-SEQUENCE:0
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261026
 STATUS:CONFIRMED
@@ -19,16 +19,17 @@ TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD W] 2026 Pan American Club Championship
 X-TKD-INTERNATIONAL:TRUE
-LOCATION:Daytona Beach\, FL
+LOCATION:Daytona Beach\, FL\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SA Taekwondo\nCategory: International competition (see organizing federati
  on on event page)\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 
  이상\, 성인 SafeSport\nVenue: City/state only\; exact address unconfir
- med\nFULL DETAILS: Site not deployed yet\; see the bundled event page (eve
- nts/evt_e1abea5fa30cd9303b.html)\nConfirm official entry rules before book
- ing travel.
-URL:https://www.usatkd.org/calendar
+ med\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd
+ -calendar-public/events/evt_e1abea5fa30cd9303b.html\nConfirm official entr
+ y rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e1abea5
+ fa30cd9303b.html
 X-TKD-DETAIL-PATH:events/evt_e1abea5fa30cd9303b.html
 END:VEVENT
 END:VCALENDAR

@@ -9,9 +9,9 @@ X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
  하세요.
 BEGIN:VEVENT
 UID:evt_3ad5cd1e7aed03d8dc@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:2
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20271017
 DTEND;VALUE=DATE:20271025
 STATUS:CONFIRMED
@@ -27,10 +27,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  on policy\nCategory: International competition (see organizing federation 
  on event page)\nIdentity/entry: 국가협회/연맹 등록·선발 자격 
  필요\nAdvancement: Team pathway\; \nVenue: City/state only\; exact addre
- ss unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bundled even
- t page (events/evt_3ad5cd1e7aed03d8dc.html)\nConfirm official entry rules 
- before booking travel.
-URL:https://itftkd.sport/events/category/championships/
+ ss unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.gi
+ thub.io/tkd-calendar-public/events/evt_3ad5cd1e7aed03d8dc.html\nConfirm of
+ ficial entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_3ad5cd1
+ e7aed03d8dc.html
 X-TKD-DETAIL-PATH:events/evt_3ad5cd1e7aed03d8dc.html
 END:VEVENT
 END:VCALENDAR

@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TKD S+A+B - All Significant Competitions
+X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
+ 는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
+ 하세요.
+BEGIN:VEVENT
+UID:evt_8cbb5ae7385636ed6e@tkd-calendar.local
+DTSTAMP:20261102T022132Z
+LAST-MODIFIED:20261102T022132Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20280710
+DTEND;VALUE=DATE:20280716
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD W] 2028 ATA World Championships
+X-TKD-INTERNATIONAL:TRUE
+LOCATION:Phoenix\, AZ
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: ATA\nCategory: International 
+ competition (see organizing federation on event page)\nVenue: City/state o
+ nly\; exact address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://
+ koreatonystark.github.io/tkd-calendar-public/events/evt_8cbb5ae7385636ed6e
+ .html\nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_8cbb5ae
+ 7385636ed6e.html
+X-TKD-DETAIL-PATH:events/evt_8cbb5ae7385636ed6e.html
+END:VEVENT
+END:VCALENDAR

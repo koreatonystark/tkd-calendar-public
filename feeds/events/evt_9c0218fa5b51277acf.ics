@@ -33,10 +33,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
   federation on event page)\nIdentity/entry: 한국 국적→국내 팀 / 
  그 외 국적→해외 팀\nForecast basis: 3 prior edition(s)\; confiden
  ce medium\nVenue: City/state only\; exact address unconfirmed\nFULL DETAIL
- S: Site not deployed yet\; see the bundled event page (events/evt_9c0218fa
- 5b51277acf.html)\nConfirm official entry rules before booking travel.
-URL:https://www.kukkiwon.or.kr/eng/board/read?boardManagementNo=49&boardNo=
- 4050&menuLevel=2&menuNo=91&page=1&searchCategory=&searchType=&searchWord=
+ S / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public
+ /events/evt_9c0218fa5b51277acf.html\nConfirm official entry rules before b
+ ooking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_9c0218f
+ a5b51277acf.html
 X-TKD-DETAIL-PATH:events/evt_9c0218fa5b51277acf.html
 END:VEVENT
 END:VCALENDAR

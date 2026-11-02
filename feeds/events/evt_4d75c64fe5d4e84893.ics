@@ -26,10 +26,12 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
  nStatus: [Projected] planning estimate — date/edition not confirmed\nTKD
   Hub importance: B (editorial\, not federation grade)\nOrganizer: NY Open 
  organizing committee\nEligibility: Check full entry conditions on detail p
- age\nForecast basis: 2 prior edition(s)\; confidence medium\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_4d75c64fe5
- d4e84893.html)\nConfirm official entry rules before booking travel.
-URL:https://nyopentkd.org/general-info/
+ age\nForecast basis: 2 prior edition(s)\; confidence medium\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_4d75c64fe5d4e84893.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_4d75c64
+ fe5d4e84893.html
 X-TKD-DETAIL-PATH:events/evt_4d75c64fe5d4e84893.html
 END:VEVENT
 END:VCALENDAR

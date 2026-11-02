@@ -27,10 +27,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
  ed\nTKD Hub importance: A (editorial\, not federation grade)\nOrganizer: U
  SATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 이상\, 성
  인 SafeSport\nForecast basis: 3 prior edition(s)\; confidence medium\nFUL
- L DETAILS: Site not deployed yet\; see the bundled event page (events/evt_
- 6b26455de1ccb87d09.html)\nConfirm official entry rules before booking trav
- el.
-URL:https://www.usatkd.org/calendar
+ L DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calenda
+ r-public/events/evt_6b26455de1ccb87d09.html\nConfirm official entry rules 
+ before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_6b26455
+ de1ccb87d09.html
 X-TKD-DETAIL-PATH:events/evt_6b26455de1ccb87d09.html
 END:VEVENT
 END:VCALENDAR

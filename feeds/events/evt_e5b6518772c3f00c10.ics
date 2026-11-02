@@ -9,9 +9,9 @@ X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
  하세요.
 BEGIN:VEVENT
 UID:evt_e5b6518772c3f00c10@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:2
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270321
 STATUS:CONFIRMED
@@ -26,9 +26,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  s vary / Official event says all ranks\; some divisions are restricted\nRa
  nking: Listed for some divisions\; check which organization/points on deta
  il page\nVenue: Map/location field has the published address\nFULL DETAILS
- : Site not deployed yet\; see the bundled event page (events/evt_e5b651877
- 2c3f00c10.html)\nConfirm official entry rules before booking travel.
-URL:https://atamartialarts.com/events/spring-nationals/
+  / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/
+ events/evt_e5b6518772c3f00c10.html\nConfirm official entry rules before bo
+ oking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e5b6518
+ 772c3f00c10.html
 X-TKD-DETAIL-PATH:events/evt_e5b6518772c3f00c10.html
 END:VEVENT
 END:VCALENDAR

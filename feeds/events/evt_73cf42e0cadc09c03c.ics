@@ -26,10 +26,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
- nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
- evt_73cf42e0cadc09c03c.html)\nConfirm official entry rules before booking 
- travel.
-URL:https://aausports.org/taekwondo/future-dates/
+ nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-cal
+ endar-public/events/evt_73cf42e0cadc09c03c.html\nConfirm official entry ru
+ les before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_73cf42e
+ 0cadc09c03c.html
 X-TKD-DETAIL-PATH:events/evt_73cf42e0cadc09c03c.html
 END:VEVENT
 END:VCALENDAR

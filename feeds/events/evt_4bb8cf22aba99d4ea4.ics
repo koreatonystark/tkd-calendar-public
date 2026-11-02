@@ -23,10 +23,12 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
  : ATA\nEligibility: Check full entry conditions on detail page\nRanking: L
  isted for some divisions\; check which organization/points on detail page\
- nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS: Site no
- t deployed yet\; see the bundled event page (events/evt_4bb8cf22aba99d4ea4
- .html)\nConfirm official entry rules before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/
+ nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS / ENTRY 
+ / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/events/ev
+ t_4bb8cf22aba99d4ea4.html\nConfirm official entry rules before booking tra
+ vel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_4bb8cf2
+ 2aba99d4ea4.html
 X-TKD-DETAIL-PATH:events/evt_4bb8cf22aba99d4ea4.html
 END:VEVENT
 END:VCALENDAR

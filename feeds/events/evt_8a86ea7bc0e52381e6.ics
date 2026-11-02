@@ -1,0 +1,31 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//TKD Calendar Hub//Public Event Feeds//KO
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:TKD S+A+B - All Significant Competitions
+X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
+ 는 이벤트 설명의 Status: [Projected] 및 날짜 신뢰도를 확인
+ 하세요.
+BEGIN:VEVENT
+UID:evt_8a86ea7bc0e52381e6@tkd-calendar.local
+DTSTAMP:20261102T022132Z
+LAST-MODIFIED:20261102T022132Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20280329
+DTEND;VALUE=DATE:20280402
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] 2028 ATA Spring Nationals
+LOCATION:Fort Worth\, TX
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: ATA\nVenue: City/state only\;
+  exact address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://korea
+ tonystark.github.io/tkd-calendar-public/events/evt_8a86ea7bc0e52381e6.html
+ \nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_8a86ea7
+ bc0e52381e6.html
+X-TKD-DETAIL-PATH:events/evt_8a86ea7bc0e52381e6.html
+END:VEVENT
+END:VCALENDAR

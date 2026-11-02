@@ -23,17 +23,19 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU Oregon / Region 12 organi
  zer\nAffiliation: AAU\nEligibility: Check full entry conditions on detail 
  page\nAdvancement: Nationals pathway\nRegistration deadline: 2027-02-24\nV
- enue: Map/location field has the published address\nFULL DETAILS: Site not
-  deployed yet\; see the bundled event page (events/evt_add62b5dd9e92cb6a5.
- html)\nConfirm official entry rules before booking travel.
-URL:https://aauortkd.com/
+ enue: Map/location field has the published address\nFULL DETAILS / ENTRY /
+  EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/events/evt
+ _add62b5dd9e92cb6a5.html\nConfirm official entry rules before booking trav
+ el.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_add62b5
+ dd9e92cb6a5.html
 X-TKD-DETAIL-PATH:events/evt_add62b5dd9e92cb6a5.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_69c4f4fb09fd723854@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:6
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20270726
 DTEND;VALUE=DATE:20270727
 STATUS:TENTATIVE
@@ -50,10 +52,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 높음)\
  ed\nTKD Hub importance: S (editorial\, not federation grade)\nOrganizer: A
  AU Taekwondo\nAffiliation: AAU\nEligibility: Check full entry conditions o
  n detail page\nForecast basis: 3 prior edition(s)\; confidence high\nVenue
- : City/state only\; exact address unconfirmed\nFULL DETAILS: Site not depl
- oyed yet\; see the bundled event page (events/evt_69c4f4fb09fd723854.html)
- \nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/future-dates/
+ : City/state only\; exact address unconfirmed\nFULL DETAILS / ENTRY / EVID
+ ENCE: https://koreatonystark.github.io/tkd-calendar-public/events/evt_69c4
+ f4fb09fd723854.html\nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_69c4f4f
+ b09fd723854.html
 X-TKD-DETAIL-PATH:events/evt_69c4f4fb09fd723854.html
 END:VEVENT
 BEGIN:VEVENT
@@ -74,10 +77,12 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
  n근거: 2025·2026 개최 시작일 / 공식 발표 시 자동 수정됨\
  nStatus: [Projected] planning estimate — date/edition not confirmed\nTKD
   Hub importance: A (editorial\, not federation grade)\nOrganizer: AAU\nFor
- ecast basis: 2 prior edition(s)\; confidence medium\nFULL DETAILS: Site no
- t deployed yet\; see the bundled event page (events/evt_324b30908a78f6e29a
- .html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ ecast basis: 2 prior edition(s)\; confidence medium\nFULL DETAILS / ENTRY 
+ / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/events/ev
+ t_324b30908a78f6e29a.html\nConfirm official entry rules before booking tra
+ vel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_324b309
+ 08a78f6e29a.html
 X-TKD-DETAIL-PATH:events/evt_324b30908a78f6e29a.html
 END:VEVENT
 BEGIN:VEVENT
@@ -99,10 +104,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
- nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
- evt_01d0f69e0fbf36b5c6.html)\nConfirm official entry rules before booking 
- travel.
-URL:https://aausports.org/taekwondo/future-dates/
+ nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-cal
+ endar-public/events/evt_01d0f69e0fbf36b5c6.html\nConfirm official entry ru
+ les before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_01d0f69
+ e0fbf36b5c6.html
 X-TKD-DETAIL-PATH:events/evt_01d0f69e0fbf36b5c6.html
 END:VEVENT
 BEGIN:VEVENT
@@ -124,10 +130,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
- nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
- evt_5ca718f96311ab7da4.html)\nConfirm official entry rules before booking 
- travel.
-URL:https://aausports.org/taekwondo/future-dates/
+ nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-cal
+ endar-public/events/evt_5ca718f96311ab7da4.html\nConfirm official entry ru
+ les before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_5ca718f
+ 96311ab7da4.html
 X-TKD-DETAIL-PATH:events/evt_5ca718f96311ab7da4.html
 END:VEVENT
 BEGIN:VEVENT
@@ -149,10 +156,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
- nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
- evt_5a44319f801b90171e.html)\nConfirm official entry rules before booking 
- travel.
-URL:https://aausports.org/taekwondo/future-dates/
+ nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-cal
+ endar-public/events/evt_5a44319f801b90171e.html\nConfirm official entry ru
+ les before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_5a44319
+ f801b90171e.html
 X-TKD-DETAIL-PATH:events/evt_5a44319f801b90171e.html
 END:VEVENT
 BEGIN:VEVENT
@@ -174,10 +182,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
- nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
- evt_73cf42e0cadc09c03c.html)\nConfirm official entry rules before booking 
- travel.
-URL:https://aausports.org/taekwondo/future-dates/
+ nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-cal
+ endar-public/events/evt_73cf42e0cadc09c03c.html\nConfirm official entry ru
+ les before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_73cf42e
+ 0cadc09c03c.html
 X-TKD-DETAIL-PATH:events/evt_73cf42e0cadc09c03c.html
 END:VEVENT
 BEGIN:VEVENT
@@ -199,17 +208,18 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
- nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
- evt_d187d92c10d7caa2dc.html)\nConfirm official entry rules before booking 
- travel.
-URL:https://aausports.org/taekwondo/future-dates/
+ nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-cal
+ endar-public/events/evt_d187d92c10d7caa2dc.html\nConfirm official entry ru
+ les before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_d187d92
+ c10d7caa2dc.html
 X-TKD-DETAIL-PATH:events/evt_d187d92c10d7caa2dc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_0706fb7dc88eb58892@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:6
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 STATUS:TENTATIVE
@@ -225,17 +235,18 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 높음)\
  ed\nTKD Hub importance: S (editorial\, not federation grade)\nOrganizer: A
  AU Taekwondo\nAffiliation: AAU\nEligibility: Check full entry conditions o
  n detail page\nAdvancement: Team pathway\; \nForecast basis: 3 prior editi
- on(s)\; confidence high\nFULL DETAILS: Site not deployed yet\; see the bun
- dled event page (events/evt_0706fb7dc88eb58892.html)\nConfirm official ent
- ry rules before booking travel.
-URL:https://aausports.org/taekwondo/future-dates/
+ on(s)\; confidence high\nFULL DETAILS / ENTRY / EVIDENCE: https://koreaton
+ ystark.github.io/tkd-calendar-public/events/evt_0706fb7dc88eb58892.html\nC
+ onfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_0706fb7
+ dc88eb58892.html
 X-TKD-DETAIL-PATH:events/evt_0706fb7dc88eb58892.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_69a6895fdd9e4d8f73@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:7
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:8
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
 STATUS:TENTATIVE
@@ -253,10 +264,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
  wondo\nAffiliation: AAU\nEligibility: Check full entry conditions on detai
  l page\nAdvancement: Team pathway\; \nForecast basis: 2 prior edition(s)\;
   confidence medium\nVenue: City/state only\; exact address unconfirmed\nFU
- LL DETAILS: Site not deployed yet\; see the bundled event page (events/evt
- _69a6895fdd9e4d8f73.html)\nConfirm official entry rules before booking tra
- vel.
-URL:https://aausports.org/taekwondo/future-dates/
+ LL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calend
+ ar-public/events/evt_69a6895fdd9e4d8f73.html\nConfirm official entry rules
+  before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_69a6895
+ fdd9e4d8f73.html
 X-TKD-DETAIL-PATH:events/evt_69a6895fdd9e4d8f73.html
 END:VEVENT
 END:VCALENDAR

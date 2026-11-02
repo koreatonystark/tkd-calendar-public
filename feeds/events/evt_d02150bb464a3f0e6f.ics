@@ -9,9 +9,9 @@ X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
  하세요.
 BEGIN:VEVENT
 UID:evt_d02150bb464a3f0e6f@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:2
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20270719
 DTEND;VALUE=DATE:20270725
 STATUS:CONFIRMED
@@ -26,10 +26,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  sion conditions apply / Organizer says all ranks\; participation may requi
  re ATA membership\nCategory: International competition (see organizing fed
  eration on event page)\nVenue: Map/location field has the published addres
- s\nFULL DETAILS: Site not deployed yet\; see the bundled event page (event
- s/evt_d02150bb464a3f0e6f.html)\nConfirm official entry rules before bookin
- g travel.
-URL:https://atamartialarts.com/worlds/
+ s\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-c
+ alendar-public/events/evt_d02150bb464a3f0e6f.html\nConfirm official entry 
+ rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_d02150b
+ b464a3f0e6f.html
 X-TKD-DETAIL-PATH:events/evt_d02150bb464a3f0e6f.html
 END:VEVENT
 END:VCALENDAR

@@ -9,24 +9,25 @@ X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
  하세요.
 BEGIN:VEVENT
 UID:evt_6d513f4b09b0196304@tkd-calendar.local
-DTSTAMP:20261031T182922Z
-LAST-MODIFIED:20261031T182922Z
-SEQUENCE:1
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260914
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
-SUMMARY:[TKD A] 2026 U.S. Season Final
-LOCATION:Little Rock\, AR
+SUMMARY:[TKD A] 2026 U.S. TAEKWONDO SEASON FINAL
+LOCATION:Little Rock\, AR\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SA Taekwondo\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 이상\
  , 성인 SafeSport\nVenue: City/state only\; exact address unconfirmed\nFU
- LL DETAILS: Site not deployed yet\; see the bundled event page (events/evt
- _6d513f4b09b0196304.html)\nConfirm official entry rules before booking tra
- vel.
-URL:https://www.usatkd.org/calendar
+ LL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calend
+ ar-public/events/evt_6d513f4b09b0196304.html\nConfirm official entry rules
+  before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_6d513f4
+ b09b0196304.html
 X-TKD-DETAIL-PATH:events/evt_6d513f4b09b0196304.html
 END:VEVENT
 END:VCALENDAR

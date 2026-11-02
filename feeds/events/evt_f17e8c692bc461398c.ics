@@ -25,11 +25,12 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ns on detail page\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 
  이상\, 성인 SafeSport\nRanking: Listed for some divisions\; check whic
  h organization/points on detail page\nRegistration deadline: 2026-02-10\nV
- enue: City/state only\; exact address unconfirmed\nFULL DETAILS: Site not 
- deployed yet\; see the bundled event page (events/evt_f17e8c692bc461398c.h
- tml)\nConfirm official entry rules before booking travel.
-URL:https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blt100c201
- c77074baa/696ea914a092f407bfcd5f01/Metro_Open_International_2026.pdf
+ enue: City/state only\; exact address unconfirmed\nFULL DETAILS / ENTRY / 
+ EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/events/evt_
+ f17e8c692bc461398c.html\nConfirm official entry rules before booking trave
+ l.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_f17e8c6
+ 92bc461398c.html
 X-TKD-DETAIL-PATH:events/evt_f17e8c692bc461398c.html
 END:VEVENT
 END:VCALENDAR

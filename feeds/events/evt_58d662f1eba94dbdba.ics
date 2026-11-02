@@ -9,9 +9,9 @@ X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
  하세요.
 BEGIN:VEVENT
 UID:evt_58d662f1eba94dbdba@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:1
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20271006
 DTEND;VALUE=DATE:20271010
 STATUS:CONFIRMED
@@ -22,10 +22,11 @@ LOCATION:St. Louis\, MO
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
  : ATA\nEligibility: Check full entry conditions on detail page\nVenue: Cit
- y/state only\; exact address unconfirmed\nFULL DETAILS: Site not deployed 
- yet\; see the bundled event page (events/evt_58d662f1eba94dbdba.html)\nCon
- firm official entry rules before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/
+ y/state only\; exact address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE:
+  https://koreatonystark.github.io/tkd-calendar-public/events/evt_58d662f1e
+ ba94dbdba.html\nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_58d662f
+ 1eba94dbdba.html
 X-TKD-DETAIL-PATH:events/evt_58d662f1eba94dbdba.html
 END:VEVENT
 END:VCALENDAR

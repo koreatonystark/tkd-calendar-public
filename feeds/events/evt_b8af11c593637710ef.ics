@@ -24,10 +24,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: NY Open organizing committee\
  nEligibility: Check full entry conditions on detail page\nRegistration dea
  dline: 2026-10-07\nVenue: Map/location field has the published address\nFU
- LL DETAILS: Site not deployed yet\; see the bundled event page (events/evt
- _b8af11c593637710ef.html)\nConfirm official entry rules before booking tra
- vel.
-URL:https://nyopentkd.org/general-info/
+ LL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calend
+ ar-public/events/evt_b8af11c593637710ef.html\nConfirm official entry rules
+  before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_b8af11c
+ 593637710ef.html
 X-TKD-DETAIL-PATH:events/evt_b8af11c593637710ef.html
 END:VEVENT
 END:VCALENDAR

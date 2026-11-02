@@ -26,9 +26,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
   벨트 옐로 이상\, 성인 SafeSport\nAdvancement: Nationals pathway\n
  Ranking: Listed for some divisions\; check which organization/points on de
  tail page\nVenue: Map/location field has the published address\nFULL DETAI
- LS: Site not deployed yet\; see the bundled event page (events/evt_48af7c3
- 7455a80eff6.html)\nConfirm official entry rules before booking travel.
-URL:https://www.usatkd.org/2024-usatkd-new-york-state-championships
+ LS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-publi
+ c/events/evt_48af7c37455a80eff6.html\nConfirm official entry rules before 
+ booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_48af7c3
+ 7455a80eff6.html
 X-TKD-DETAIL-PATH:events/evt_48af7c37455a80eff6.html
 END:VEVENT
 BEGIN:VEVENT
@@ -48,11 +50,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: Team Champions USA / Andrew O
  h\nAffiliation: AAU\nEligibility: Check full entry conditions on detail pa
  ge\nAdvancement: Nationals pathway\nVenue: Map/location field has the publ
- ished address\nFULL DETAILS: Site not deployed yet\; see the bundled event
-  page (events/evt_658e2187815d7fc351.html)\nConfirm official entry rules b
- efore booking travel.
-URL:https://image.aausports.org/dnn/tw/2025/Events/2025_AAUNYMETRO_Packet.p
- df
+ ished address\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.git
+ hub.io/tkd-calendar-public/events/evt_658e2187815d7fc351.html\nConfirm off
+ icial entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_658e218
+ 7815d7fc351.html
 X-TKD-DETAIL-PATH:events/evt_658e2187815d7fc351.html
 END:VEVENT
 BEGIN:VEVENT
@@ -74,10 +76,78 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
   벨트 옐로 이상\, 성인 SafeSport\nAdvancement: Nationals pathway\n
  Ranking: Listed for some divisions\; check which organization/points on de
  tail page\nVenue: Map/location field has the published address\nFULL DETAI
- LS: Site not deployed yet\; see the bundled event page (events/evt_9e1d36f
- d3fce3837d1.html)\nConfirm official entry rules before booking travel.
-URL:https://www.usatkd.org/2025-usatkd-new-york-state-championships
+ LS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-publi
+ c/events/evt_9e1d36fd3fce3837d1.html\nConfirm official entry rules before 
+ booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_9e1d36f
+ d3fce3837d1.html
 X-TKD-DETAIL-PATH:events/evt_9e1d36fd3fce3837d1.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_ce8a5c3b2ef4b5bb96@tkd-calendar.local
+DTSTAMP:20261102T022132Z
+LAST-MODIFIED:20261102T022132Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20250516
+DTEND;VALUE=DATE:20250519
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2025 U.S. AMERICAN OPEN EAST
+LOCATION:Richmond\, VA\, United States
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: USATKD\nIdentity/entry: USATK
+ D 회원 등록\; 벨트 옐로 이상\, 성인 SafeSport\nVenue: City/sta
+ te only\; exact address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: http
+ s://koreatonystark.github.io/tkd-calendar-public/events/evt_ce8a5c3b2ef4b5
+ bb96.html\nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_ce8a5c3
+ b2ef4b5bb96.html
+X-TKD-DETAIL-PATH:events/evt_ce8a5c3b2ef4b5bb96.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_ed0d64293630791b61@tkd-calendar.local
+DTSTAMP:20261102T022132Z
+LAST-MODIFIED:20261102T022132Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20250723
+DTEND;VALUE=DATE:20250728
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] 2025 U.S. NATIONAL CHAMPIONSHIPS
+LOCATION:Ontario\, CA\, United States
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: USATKD\nIdentity/entry: World
+  Class: 미국 시민권 증빙 필수\nVenue: City/state only\; exact add
+ ress unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.
+ github.io/tkd-calendar-public/events/evt_ed0d64293630791b61.html\nConfirm 
+ official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_ed0d642
+ 93630791b61.html
+X-TKD-DETAIL-PATH:events/evt_ed0d64293630791b61.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_c295ab1479ecbe92f3@tkd-calendar.local
+DTSTAMP:20261102T022132Z
+LAST-MODIFIED:20261102T022132Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20250905
+DTEND;VALUE=DATE:20250908
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2025 U.S. SEASON FINAL & SPORT FESTIVAL
+LOCATION:Daytona Beach\, FL\, United States
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: USATKD\nIdentity/entry: USATK
+ D 회원 등록\; 벨트 옐로 이상\, 성인 SafeSport\nVenue: City/sta
+ te only\; exact address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: http
+ s://koreatonystark.github.io/tkd-calendar-public/events/evt_c295ab1479ecbe
+ 92f3.html\nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_c295ab1
+ 479ecbe92f3.html
+X-TKD-DETAIL-PATH:events/evt_c295ab1479ecbe92f3.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_71f3bf5aa4d846a84f@tkd-calendar.local
@@ -94,31 +164,35 @@ LOCATION:NC\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_71f3bf5aa4
- d846a84f.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_71f3bf5aa4d846a84f.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_71f3bf5
+ aa4d846a84f.html
 X-TKD-DETAIL-PATH:events/evt_71f3bf5aa4d846a84f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_6818c3a10c19396510@tkd-calendar.local
-DTSTAMP:20261031T182922Z
-LAST-MODIFIED:20261031T182922Z
-SEQUENCE:1
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260130
 DTEND;VALUE=DATE:20260202
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD S] 2026 U.S. National Taekwondo Team Trials
-LOCATION:Tulsa\, OK
+LOCATION:TULSA\, OK\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SA Taekwondo\nIdentity/entry: 미국 대표 선발 경로·국적·선발 
  자격 확인\nVenue: City/state only\; exact address unconfirmed\nFULL DE
- TAILS: Site not deployed yet\; see the bundled event page (events/evt_6818
- c3a10c19396510.html)\nConfirm official entry rules before booking travel.
-URL:https://www.usatkd.org/calendar
+ TAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-pu
+ blic/events/evt_6818c3a10c19396510.html\nConfirm official entry rules befo
+ re booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_6818c3a
+ 10c19396510.html
 X-TKD-DETAIL-PATH:events/evt_6818c3a10c19396510.html
 END:VEVENT
 BEGIN:VEVENT
@@ -135,10 +209,11 @@ SUMMARY:[TKD B] 2026 AAU Southwestern District Championship
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
- (events/evt_93234864c90f7245fb.html)\nConfirm official entry rules before 
- booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io
+ /tkd-calendar-public/events/evt_93234864c90f7245fb.html\nConfirm official 
+ entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_9323486
+ 4c90f7245fb.html
 X-TKD-DETAIL-PATH:events/evt_93234864c90f7245fb.html
 END:VEVENT
 BEGIN:VEVENT
@@ -159,11 +234,12 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ns on detail page\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 
  이상\, 성인 SafeSport\nRanking: Listed for some divisions\; check whic
  h organization/points on detail page\nRegistration deadline: 2026-02-10\nV
- enue: City/state only\; exact address unconfirmed\nFULL DETAILS: Site not 
- deployed yet\; see the bundled event page (events/evt_f17e8c692bc461398c.h
- tml)\nConfirm official entry rules before booking travel.
-URL:https://assets.contentstack.io/v3/assets/blteb7d012fc7ebef7f/blt100c201
- c77074baa/696ea914a092f407bfcd5f01/Metro_Open_International_2026.pdf
+ enue: City/state only\; exact address unconfirmed\nFULL DETAILS / ENTRY / 
+ EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/events/evt_
+ f17e8c692bc461398c.html\nConfirm official entry rules before booking trave
+ l.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_f17e8c6
+ 92bc461398c.html
 X-TKD-DETAIL-PATH:events/evt_f17e8c692bc461398c.html
 END:VEVENT
 BEGIN:VEVENT
@@ -181,10 +257,12 @@ LOCATION:GA\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_07c290a8ea
- 7f9e7c7d.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_07c290a8ea7f9e7c7d.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_07c290a
+ 8ea7f9e7c7d.html
 X-TKD-DETAIL-PATH:events/evt_07c290a8ea7f9e7c7d.html
 END:VEVENT
 BEGIN:VEVENT
@@ -202,10 +280,12 @@ LOCATION:VA\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_701b4fbc98
- e5ad1aeb.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_701b4fbc98e5ad1aeb.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_701b4fb
+ c98e5ad1aeb.html
 X-TKD-DETAIL-PATH:events/evt_701b4fbc98e5ad1aeb.html
 END:VEVENT
 BEGIN:VEVENT
@@ -223,10 +303,12 @@ LOCATION:FL\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_69a9b11344
- a50d9c97.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_69a9b11344a50d9c97.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_69a9b11
+ 344a50d9c97.html
 X-TKD-DETAIL-PATH:events/evt_69a9b11344a50d9c97.html
 END:VEVENT
 BEGIN:VEVENT
@@ -247,10 +329,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  SA Taekwondo\nCategory: International competition (see organizing federati
  on on event page)\nIdentity/entry: 국제오픈: WT GAL 필수(미국 시
  민권 일괄 요건 아님)\nVenue: City/state only\; exact address uncon
- firmed\nFULL DETAILS: Site not deployed yet\; see the bundled event page (
- events/evt_21f712685f3450cb09.html)\nConfirm official entry rules before b
- ooking travel.
-URL:https://www.usatkd.org/calendar
+ firmed\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/
+ tkd-calendar-public/events/evt_21f712685f3450cb09.html\nConfirm official e
+ ntry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_21f7126
+ 85f3450cb09.html
 X-TKD-DETAIL-PATH:events/evt_21f712685f3450cb09.html
 END:VEVENT
 BEGIN:VEVENT
@@ -268,10 +351,12 @@ LOCATION:MI\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_c500caf1b6
- 155395b7.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_c500caf1b6155395b7.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_c500caf
+ 1b6155395b7.html
 X-TKD-DETAIL-PATH:events/evt_c500caf1b6155395b7.html
 END:VEVENT
 BEGIN:VEVENT
@@ -289,10 +374,12 @@ LOCATION:UT\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_0277e853b5
- e61ff576.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_0277e853b5e61ff576.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_0277e85
+ 3b5e61ff576.html
 X-TKD-DETAIL-PATH:events/evt_0277e853b5e61ff576.html
 END:VEVENT
 BEGIN:VEVENT
@@ -310,10 +397,12 @@ LOCATION:MD\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_f8ce1093b5
- a976f509.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_f8ce1093b5a976f509.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_f8ce109
+ 3b5a976f509.html
 X-TKD-DETAIL-PATH:events/evt_f8ce1093b5a976f509.html
 END:VEVENT
 BEGIN:VEVENT
@@ -331,10 +420,12 @@ LOCATION:TN\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_2fb699e747
- 5d0ea4a0.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_2fb699e7475d0ea4a0.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_2fb699e
+ 7475d0ea4a0.html
 X-TKD-DETAIL-PATH:events/evt_2fb699e7475d0ea4a0.html
 END:VEVENT
 BEGIN:VEVENT
@@ -353,10 +444,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: Virginia Taekwondo Associatio
  n\nAffiliation: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐
  로 이상\, 성인 SafeSport\nVenue: City/state only\; exact address unco
- nfirmed\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
- (events/evt_1f156133b798cff1b4.html)\nConfirm official entry rules before 
- booking travel.
-URL:https://vatkd.org/
+ nfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io
+ /tkd-calendar-public/events/evt_1f156133b798cff1b4.html\nConfirm official 
+ entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_1f15613
+ 3b798cff1b4.html
 X-TKD-DETAIL-PATH:events/evt_1f156133b798cff1b4.html
 END:VEVENT
 BEGIN:VEVENT
@@ -373,10 +465,11 @@ SUMMARY:[TKD B] 2026 AAU Missouri Valley District Championship
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
- (events/evt_e00a714fcc959810a5.html)\nConfirm official entry rules before 
- booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io
+ /tkd-calendar-public/events/evt_e00a714fcc959810a5.html\nConfirm official 
+ entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e00a714
+ fcc959810a5.html
 X-TKD-DETAIL-PATH:events/evt_e00a714fcc959810a5.html
 END:VEVENT
 BEGIN:VEVENT
@@ -394,10 +487,12 @@ LOCATION:NM\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_e4c4765f1c
- 09573ae8.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_e4c4765f1c09573ae8.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e4c4765
+ f1c09573ae8.html
 X-TKD-DETAIL-PATH:events/evt_e4c4765f1c09573ae8.html
 END:VEVENT
 BEGIN:VEVENT
@@ -415,10 +510,12 @@ LOCATION:NY\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_f765f67d20
- f985eacd.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_f765f67d20f985eacd.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_f765f67
+ d20f985eacd.html
 X-TKD-DETAIL-PATH:events/evt_f765f67d20f985eacd.html
 END:VEVENT
 BEGIN:VEVENT
@@ -436,10 +533,12 @@ LOCATION:WA\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_e7e2ae4f85
- 4e8b77c4.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_e7e2ae4f854e8b77c4.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e7e2ae4
+ f854e8b77c4.html
 X-TKD-DETAIL-PATH:events/evt_e7e2ae4f854e8b77c4.html
 END:VEVENT
 BEGIN:VEVENT
@@ -459,10 +558,12 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: Georgia State Championship or
  ganizer\nAffiliation: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨
  트 옐로 이상\, 성인 SafeSport\nRegistration deadline: 2026-03-19\nV
- enue: Map/location field has the published address\nFULL DETAILS: Site not
-  deployed yet\; see the bundled event page (events/evt_d61667a07b72b1cbb5.
- html)\nConfirm official entry rules before booking travel.
-URL:https://www.usatkd.org/2026-georgia-state-championship
+ enue: Map/location field has the published address\nFULL DETAILS / ENTRY /
+  EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/events/evt
+ _d61667a07b72b1cbb5.html\nConfirm official entry rules before booking trav
+ el.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_d61667a
+ 07b72b1cbb5.html
 X-TKD-DETAIL-PATH:events/evt_d61667a07b72b1cbb5.html
 END:VEVENT
 BEGIN:VEVENT
@@ -484,9 +585,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
   벨트 옐로 이상\, 성인 SafeSport\nAdvancement: Nationals pathway\n
  Ranking: Listed for some divisions\; check which organization/points on de
  tail page\nVenue: Map/location field has the published address\nFULL DETAI
- LS: Site not deployed yet\; see the bundled event page (events/evt_92a67da
- 46ee70a78f6.html)\nConfirm official entry rules before booking travel.
-URL:https://www.usatkd.org/2026-usatkd-new-york-state-championship
+ LS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-publi
+ c/events/evt_92a67da46ee70a78f6.html\nConfirm official entry rules before 
+ booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_92a67da
+ 46ee70a78f6.html
 X-TKD-DETAIL-PATH:events/evt_92a67da46ee70a78f6.html
 END:VEVENT
 BEGIN:VEVENT
@@ -506,10 +609,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: California State Championship
   organizer\nAffiliation: USATKD\nIdentity/entry: USATKD 회원 등록\; 
  벨트 옐로 이상\, 성인 SafeSport\nVenue: Map/location field has the
-  published address\nFULL DETAILS: Site not deployed yet\; see the bundled 
- event page (events/evt_e742e278b23bd98498.html)\nConfirm official entry ru
- les before booking travel.
-URL:https://www.usatkd.org/2026-california-state-championship
+  published address\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystar
+ k.github.io/tkd-calendar-public/events/evt_e742e278b23bd98498.html\nConfir
+ m official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e742e27
+ 8b23bd98498.html
 X-TKD-DETAIL-PATH:events/evt_e742e278b23bd98498.html
 END:VEVENT
 BEGIN:VEVENT
@@ -526,10 +630,11 @@ SUMMARY:[TKD B] 2026 AAU New England District Championship
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
- (events/evt_aa35432404975e2598.html)\nConfirm official entry rules before 
- booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io
+ /tkd-calendar-public/events/evt_aa35432404975e2598.html\nConfirm official 
+ entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_aa35432
+ 404975e2598.html
 X-TKD-DETAIL-PATH:events/evt_aa35432404975e2598.html
 END:VEVENT
 BEGIN:VEVENT
@@ -547,10 +652,12 @@ LOCATION:OH\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_2441464376
- 4b8e868e.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_24414643764b8e868e.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_2441464
+ 3764b8e868e.html
 X-TKD-DETAIL-PATH:events/evt_24414643764b8e868e.html
 END:VEVENT
 BEGIN:VEVENT
@@ -568,10 +675,12 @@ LOCATION:TX\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_9e47ae1bb2
- f32ade82.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_9e47ae1bb2f32ade82.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_9e47ae1
+ bb2f32ade82.html
 X-TKD-DETAIL-PATH:events/evt_9e47ae1bb2f32ade82.html
 END:VEVENT
 BEGIN:VEVENT
@@ -588,10 +697,11 @@ SUMMARY:[TKD B] 2026 AAU Central District Championship
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
- (events/evt_3f429f70293d51d243.html)\nConfirm official entry rules before 
- booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io
+ /tkd-calendar-public/events/evt_3f429f70293d51d243.html\nConfirm official 
+ entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_3f429f7
+ 0293d51d243.html
 X-TKD-DETAIL-PATH:events/evt_3f429f70293d51d243.html
 END:VEVENT
 BEGIN:VEVENT
@@ -609,10 +719,12 @@ LOCATION:IA\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_ae9df195f5
- c783966f.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_ae9df195f5c783966f.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_ae9df19
+ 5f5c783966f.html
 X-TKD-DETAIL-PATH:events/evt_ae9df195f5c783966f.html
 END:VEVENT
 BEGIN:VEVENT
@@ -630,10 +742,12 @@ LOCATION:MD\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_4d2a586028
- d3f45170.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_4d2a586028d3f45170.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_4d2a586
+ 028d3f45170.html
 X-TKD-DETAIL-PATH:events/evt_4d2a586028d3f45170.html
 END:VEVENT
 BEGIN:VEVENT
@@ -651,10 +765,12 @@ LOCATION:FL\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_677c098717
- 31b5f5fc.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_677c09871731b5f5fc.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_677c098
+ 71731b5f5fc.html
 X-TKD-DETAIL-PATH:events/evt_677c09871731b5f5fc.html
 END:VEVENT
 BEGIN:VEVENT
@@ -677,11 +793,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
   USATKD 회원 등록\; 벨트 옐로 이상\, 성인 SafeSport\nAdvanceme
  nt: Nationals pathway\nRanking: Listed for some divisions\; check which or
  ganization/points on detail page\nVenue: Map/location field has the publis
- hed address\nFULL DETAILS: Site not deployed yet\; see the bundled event p
- age (events/evt_aff87b2bc20c372fbe.html)\nConfirm official entry rules bef
- ore booking travel.
-URL:https://ncta-usa.com/wordpress/2026-ncta-national-collegiate-and-high-s
- chool-championships/
+ hed address\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.githu
+ b.io/tkd-calendar-public/events/evt_aff87b2bc20c372fbe.html\nConfirm offic
+ ial entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_aff87b2
+ bc20c372fbe.html
 X-TKD-DETAIL-PATH:events/evt_aff87b2bc20c372fbe.html
 END:VEVENT
 BEGIN:VEVENT
@@ -699,10 +815,12 @@ LOCATION:MN\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_a1da79cdee
- 14b3ebe1.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_a1da79cdee14b3ebe1.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_a1da79c
+ dee14b3ebe1.html
 X-TKD-DETAIL-PATH:events/evt_a1da79cdee14b3ebe1.html
 END:VEVENT
 BEGIN:VEVENT
@@ -720,10 +838,12 @@ LOCATION:PR\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_48ef7c944c
- c284b35f.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_48ef7c944cc284b35f.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_48ef7c9
+ 44cc284b35f.html
 X-TKD-DETAIL-PATH:events/evt_48ef7c944cc284b35f.html
 END:VEVENT
 BEGIN:VEVENT
@@ -741,10 +861,12 @@ LOCATION:CA\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_d8c6371399
- 7f732881.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_d8c63713997f732881.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_d8c6371
+ 3997f732881.html
 X-TKD-DETAIL-PATH:events/evt_d8c63713997f732881.html
 END:VEVENT
 BEGIN:VEVENT
@@ -763,10 +885,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: Texas State Championship orga
  nizer\nAffiliation: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 
  옐로 이상\, 성인 SafeSport\nRegistration deadline: 2026-04-13\nVenue
- : Map/location field has the published address\nFULL DETAILS: Site not dep
- loyed yet\; see the bundled event page (events/evt_ab2cd1a8a075755506.html
- )\nConfirm official entry rules before booking travel.
-URL:https://www.usatkd.org/2026-usatkd-texas-state-championship
+ : Map/location field has the published address\nFULL DETAILS / ENTRY / EVI
+ DENCE: https://koreatonystark.github.io/tkd-calendar-public/events/evt_ab2
+ cd1a8a075755506.html\nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_ab2cd1a
+ 8a075755506.html
 X-TKD-DETAIL-PATH:events/evt_ab2cd1a8a075755506.html
 END:VEVENT
 BEGIN:VEVENT
@@ -784,10 +907,12 @@ LOCATION:MO\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_4efd63a8b6
- 8e0df484.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_4efd63a8b68e0df484.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_4efd63a
+ 8b68e0df484.html
 X-TKD-DETAIL-PATH:events/evt_4efd63a8b68e0df484.html
 END:VEVENT
 BEGIN:VEVENT
@@ -805,10 +930,12 @@ LOCATION:AZ\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_064cc69b07
- 3a4c4d5c.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_064cc69b073a4c4d5c.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_064cc69
+ b073a4c4d5c.html
 X-TKD-DETAIL-PATH:events/evt_064cc69b073a4c4d5c.html
 END:VEVENT
 BEGIN:VEVENT
@@ -826,10 +953,12 @@ LOCATION:CO\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_d0faccf9b3
- f1ea969d.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_d0faccf9b3f1ea969d.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_d0faccf
+ 9b3f1ea969d.html
 X-TKD-DETAIL-PATH:events/evt_d0faccf9b3f1ea969d.html
 END:VEVENT
 BEGIN:VEVENT
@@ -847,10 +976,12 @@ LOCATION:IN\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_010b7b1f49
- a18db99a.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_010b7b1f49a18db99a.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_010b7b1
+ f49a18db99a.html
 X-TKD-DETAIL-PATH:events/evt_010b7b1f49a18db99a.html
 END:VEVENT
 BEGIN:VEVENT
@@ -868,10 +999,12 @@ LOCATION:OK\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_1210209a60
- a5f9a04f.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_1210209a60a5f9a04f.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_1210209
+ a60a5f9a04f.html
 X-TKD-DETAIL-PATH:events/evt_1210209a60a5f9a04f.html
 END:VEVENT
 BEGIN:VEVENT
@@ -890,10 +1023,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU Taekwondo Region 1\nAffil
  iation: AAU\nEligibility: Check full entry conditions on detail page\nRegi
  stration deadline: 2026-05-01\nVenue: Map/location field has the published
-  address\nFULL DETAILS: Site not deployed yet\; see the bundled event page
-  (events/evt_006543a97babf2c5d9.html)\nConfirm official entry rules before
-  booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+  address\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.i
+ o/tkd-calendar-public/events/evt_006543a97babf2c5d9.html\nConfirm official
+  entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_006543a
+ 97babf2c5d9.html
 X-TKD-DETAIL-PATH:events/evt_006543a97babf2c5d9.html
 END:VEVENT
 BEGIN:VEVENT
@@ -910,10 +1044,11 @@ SUMMARY:[TKD B] 2026 AAU Gulf District Championship
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
- (events/evt_a369e91f3c0c19b559.html)\nConfirm official entry rules before 
- booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io
+ /tkd-calendar-public/events/evt_a369e91f3c0c19b559.html\nConfirm official 
+ entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_a369e91
+ f3c0c19b559.html
 X-TKD-DETAIL-PATH:events/evt_a369e91f3c0c19b559.html
 END:VEVENT
 BEGIN:VEVENT
@@ -931,10 +1066,12 @@ LOCATION:NY\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_3e6c278d7d
- 2a62222e.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_3e6c278d7d2a62222e.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_3e6c278
+ d7d2a62222e.html
 X-TKD-DETAIL-PATH:events/evt_3e6c278d7d2a62222e.html
 END:VEVENT
 BEGIN:VEVENT
@@ -952,10 +1089,12 @@ LOCATION:OR\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_622e096350
- da4322a9.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_622e096350da4322a9.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_622e096
+ 350da4322a9.html
 X-TKD-DETAIL-PATH:events/evt_622e096350da4322a9.html
 END:VEVENT
 BEGIN:VEVENT
@@ -972,10 +1111,11 @@ SUMMARY:[TKD A] 2026 AAU Region 10 Championship
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
- (events/evt_81dca2941f393e8e2f.html)\nConfirm official entry rules before 
- booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io
+ /tkd-calendar-public/events/evt_81dca2941f393e8e2f.html\nConfirm official 
+ entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_81dca29
+ 41f393e8e2f.html
 X-TKD-DETAIL-PATH:events/evt_81dca2941f393e8e2f.html
 END:VEVENT
 BEGIN:VEVENT
@@ -993,10 +1133,12 @@ LOCATION:NY\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_96011cc49b
- 5802426a.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_96011cc49b5802426a.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_96011cc
+ 49b5802426a.html
 X-TKD-DETAIL-PATH:events/evt_96011cc49b5802426a.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1013,10 +1155,11 @@ SUMMARY:[TKD B] 2026 AAU Middle Atlantic District Championship
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
- (events/evt_947cf55e3651299ef2.html)\nConfirm official entry rules before 
- booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io
+ /tkd-calendar-public/events/evt_947cf55e3651299ef2.html\nConfirm official 
+ entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_947cf55
+ e3651299ef2.html
 X-TKD-DETAIL-PATH:events/evt_947cf55e3651299ef2.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1034,10 +1177,12 @@ LOCATION:MT\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_bb858bf5ea
- bc7403ad.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_bb858bf5eabc7403ad.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_bb858bf
+ 5eabc7403ad.html
 X-TKD-DETAIL-PATH:events/evt_bb858bf5eabc7403ad.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1055,10 +1200,12 @@ LOCATION:WI\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_90eec3abec
- 5736bc01.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_90eec3abec5736bc01.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_90eec3a
+ bec5736bc01.html
 X-TKD-DETAIL-PATH:events/evt_90eec3abec5736bc01.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1076,32 +1223,35 @@ LOCATION:PA\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_903040e09d
- 2c531d56.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_903040e09d2c531d56.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_903040e
+ 09d2c531d56.html
 X-TKD-DETAIL-PATH:events/evt_903040e09d2c531d56.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_27cae247cc3570f6b2@tkd-calendar.local
-DTSTAMP:20261031T182922Z
-LAST-MODIFIED:20261031T182922Z
-SEQUENCE:1
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260601
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
-SUMMARY:[TKD A] 2026 U.S. American Open East
-LOCATION:Oaks\, PA
+SUMMARY:[TKD A] 2026 U.S. TAEKWONDO AMERICAN OPEN - EAST
+LOCATION:Oaks\, PA\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SA Taekwondo\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 이상\
  , 성인 SafeSport\nVenue: City/state only\; exact address unconfirmed\nFU
- LL DETAILS: Site not deployed yet\; see the bundled event page (events/evt
- _27cae247cc3570f6b2.html)\nConfirm official entry rules before booking tra
- vel.
-URL:https://www.usatkd.org/calendar
+ LL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calend
+ ar-public/events/evt_27cae247cc3570f6b2.html\nConfirm official entry rules
+  before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_27cae24
+ 7cc3570f6b2.html
 X-TKD-DETAIL-PATH:events/evt_27cae247cc3570f6b2.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1119,10 +1269,12 @@ LOCATION:CT\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_adb54bd45b
- 17eeed9e.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_adb54bd45b17eeed9e.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_adb54bd
+ 45b17eeed9e.html
 X-TKD-DETAIL-PATH:events/evt_adb54bd45b17eeed9e.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1140,10 +1292,12 @@ LOCATION:KY\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_2030df3be8
- 20a4bd7f.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_2030df3be820a4bd7f.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_2030df3
+ be820a4bd7f.html
 X-TKD-DETAIL-PATH:events/evt_2030df3be820a4bd7f.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1160,10 +1314,11 @@ SUMMARY:[TKD A] 2026 AAU Region 9 Championship
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
- (events/evt_955190ca72f77ca90b.html)\nConfirm official entry rules before 
- booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io
+ /tkd-calendar-public/events/evt_955190ca72f77ca90b.html\nConfirm official 
+ entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_955190c
+ a72f77ca90b.html
 X-TKD-DETAIL-PATH:events/evt_955190ca72f77ca90b.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1181,53 +1336,58 @@ LOCATION:NC\, USA
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU\nAffiliation: AAU\nEligib
  ility: Check full entry conditions on detail page\nAdvancement: Nationals 
- pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_3aed03df7e
- 20cf0f58.html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ pathway\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_3aed03df7e20cf0f58.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_3aed03d
+ f7e20cf0f58.html
 X-TKD-DETAIL-PATH:events/evt_3aed03df7e20cf0f58.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_f482cf0f9f8b92e8fa@tkd-calendar.local
-DTSTAMP:20261031T182922Z
-LAST-MODIFIED:20261031T182922Z
-SEQUENCE:1
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260615
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
-SUMMARY:[TKD A] 2026 U.S. American Open West
-LOCATION:Tucson\, AZ
+SUMMARY:[TKD A] 2026 U.S. TAEKWONDO AMERICAN OPEN - WEST
+LOCATION:Tucson\, AZ\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SA Taekwondo\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 이상\
  , 성인 SafeSport\nVenue: City/state only\; exact address unconfirmed\nFU
- LL DETAILS: Site not deployed yet\; see the bundled event page (events/evt
- _f482cf0f9f8b92e8fa.html)\nConfirm official entry rules before booking tra
- vel.
-URL:https://www.usatkd.org/calendar
+ LL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calend
+ ar-public/events/evt_f482cf0f9f8b92e8fa.html\nConfirm official entry rules
+  before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_f482cf0
+ f9f8b92e8fa.html
 X-TKD-DETAIL-PATH:events/evt_f482cf0f9f8b92e8fa.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_ffcc86e5936323c0d7@tkd-calendar.local
-DTSTAMP:20261031T182922Z
-LAST-MODIFIED:20261031T182922Z
-SEQUENCE:1
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260706
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:S
-SUMMARY:[TKD S] 2026 U.S. National Championships
-LOCATION:Charlotte\, NC
+SUMMARY:[TKD S] 2026 U.S. NATIONAL TAEKWONDO CHAMPIONSHIPS
+LOCATION:Charlotte\, NC\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SA Taekwondo\nIdentity/entry: World Class: 미국 시민권 증빙 필수\
- nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS: Site no
- t deployed yet\; see the bundled event page (events/evt_ffcc86e5936323c0d7
- .html)\nConfirm official entry rules before booking travel.
-URL:https://www.usatkd.org/calendar
+ nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS / ENTRY 
+ / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/events/ev
+ t_ffcc86e5936323c0d7.html\nConfirm official entry rules before booking tra
+ vel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_ffcc86e
+ 5936323c0d7.html
 X-TKD-DETAIL-PATH:events/evt_ffcc86e5936323c0d7.html
 END:VEVENT
 END:VCALENDAR

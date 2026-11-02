@@ -9,9 +9,9 @@ X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
  하세요.
 BEGIN:VEVENT
 UID:evt_72f303a85ad6ee5a7f@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:3
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270322
 STATUS:CONFIRMED
@@ -24,10 +24,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  SATKD\nEligibility: Check full entry conditions on detail page\nCategory: 
  International competition (see organizing federation on event page)\nIdent
  ity/entry: 국제오픈: WT GAL 필수(미국 시민권 일괄 요건 아
- 님)\nFULL DETAILS: Site not deployed yet\; see the bundled event page (ev
- ents/evt_72f303a85ad6ee5a7f.html)\nConfirm official entry rules before boo
- king travel.
-URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+ 님)\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tk
+ d-calendar-public/events/evt_72f303a85ad6ee5a7f.html\nConfirm official ent
+ ry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_72f303a
+ 85ad6ee5a7f.html
 X-TKD-DETAIL-PATH:events/evt_72f303a85ad6ee5a7f.html
 END:VEVENT
 END:VCALENDAR

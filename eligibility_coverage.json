@@ -1,8 +1,8 @@
 {
-  "awaiting_event_year_verification": 58,
-  "s_a_events": 58,
+  "awaiting_event_year_verification": 66,
+  "s_a_events": 66,
   "source_rules": 10,
-  "with_verified_reference": 55,
+  "with_verified_reference": 63,
   "without_verified_reference": [
     {
       "id": "evt_eda25645904f7c3470",

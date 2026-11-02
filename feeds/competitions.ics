@@ -9,24 +9,25 @@ X-WR-CALDESC:확정+예상 일정이 함께 표시됩니다. 예상 여부
  하세요.
 BEGIN:VEVENT
 UID:evt_6d513f4b09b0196304@tkd-calendar.local
-DTSTAMP:20261031T182922Z
-LAST-MODIFIED:20261031T182922Z
-SEQUENCE:1
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260914
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:A
-SUMMARY:[TKD A] 2026 U.S. Season Final
-LOCATION:Little Rock\, AR
+SUMMARY:[TKD A] 2026 U.S. TAEKWONDO SEASON FINAL
+LOCATION:Little Rock\, AR\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SA Taekwondo\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 이상\
  , 성인 SafeSport\nVenue: City/state only\; exact address unconfirmed\nFU
- LL DETAILS: Site not deployed yet\; see the bundled event page (events/evt
- _6d513f4b09b0196304.html)\nConfirm official entry rules before booking tra
- vel.
-URL:https://www.usatkd.org/calendar
+ LL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calend
+ ar-public/events/evt_6d513f4b09b0196304.html\nConfirm official entry rules
+  before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_6d513f4
+ b09b0196304.html
 X-TKD-DETAIL-PATH:events/evt_6d513f4b09b0196304.html
 END:VEVENT
 BEGIN:VEVENT
@@ -46,17 +47,18 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: NY Open organizing committee\
  nEligibility: Check full entry conditions on detail page\nRegistration dea
  dline: 2026-10-07\nVenue: Map/location field has the published address\nFU
- LL DETAILS: Site not deployed yet\; see the bundled event page (events/evt
- _b8af11c593637710ef.html)\nConfirm official entry rules before booking tra
- vel.
-URL:https://nyopentkd.org/general-info/
+ LL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calend
+ ar-public/events/evt_b8af11c593637710ef.html\nConfirm official entry rules
+  before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_b8af11c
+ 593637710ef.html
 X-TKD-DETAIL-PATH:events/evt_b8af11c593637710ef.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_e1abea5fa30cd9303b@tkd-calendar.local
-DTSTAMP:20261031T180000Z
-LAST-MODIFIED:20261031T180000Z
-SEQUENCE:0
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:1
 DTSTART;VALUE=DATE:20261022
 DTEND;VALUE=DATE:20261026
 STATUS:CONFIRMED
@@ -64,16 +66,17 @@ TRANSP:TRANSPARENT
 X-TKD-EDITORIAL-GRADE:S
 SUMMARY:[TKD W] 2026 Pan American Club Championship
 X-TKD-INTERNATIONAL:TRUE
-LOCATION:Daytona Beach\, FL
+LOCATION:Daytona Beach\, FL\, United States
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SA Taekwondo\nCategory: International competition (see organizing federati
  on on event page)\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 
  이상\, 성인 SafeSport\nVenue: City/state only\; exact address unconfir
- med\nFULL DETAILS: Site not deployed yet\; see the bundled event page (eve
- nts/evt_e1abea5fa30cd9303b.html)\nConfirm official entry rules before book
- ing travel.
-URL:https://www.usatkd.org/calendar
+ med\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd
+ -calendar-public/events/evt_e1abea5fa30cd9303b.html\nConfirm official entr
+ y rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e1abea5
+ fa30cd9303b.html
 X-TKD-DETAIL-PATH:events/evt_e1abea5fa30cd9303b.html
 END:VEVENT
 BEGIN:VEVENT
@@ -93,10 +96,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
  nRanking: Listed for some divisions\; check which organization/points on d
  etail page\nRegistration deadline: 2026-11-04\nVenue: City/state only\; ex
- act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
- dled event page (events/evt_fa467dd2a6090f5364.html)\nConfirm official ent
- ry rules before booking travel.
-URL:https://www.ataezsignup.com/tournaments/all/
+ act address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://koreaton
+ ystark.github.io/tkd-calendar-public/events/evt_fa467dd2a6090f5364.html\nC
+ onfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_fa467dd
+ 2a6090f5364.html
 X-TKD-DETAIL-PATH:events/evt_fa467dd2a6090f5364.html
 END:VEVENT
 BEGIN:VEVENT
@@ -116,10 +120,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
  nRanking: Listed for some divisions\; check which organization/points on d
  etail page\nRegistration deadline: 2026-11-04\nVenue: City/state only\; ex
- act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
- dled event page (events/evt_a835a413486c667dc2.html)\nConfirm official ent
- ry rules before booking travel.
-URL:https://www.ataezsignup.com/tournaments/all/
+ act address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://koreaton
+ ystark.github.io/tkd-calendar-public/events/evt_a835a413486c667dc2.html\nC
+ onfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_a835a41
+ 3486c667dc2.html
 X-TKD-DETAIL-PATH:events/evt_a835a413486c667dc2.html
 END:VEVENT
 BEGIN:VEVENT
@@ -139,11 +144,11 @@ LOCATION:San Jose Convention Center - South Hall\, 435 S Market St\, San Jo
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: Blue Dragon Taekwondo Academy
  \, Inc.\nEligibility: Check full entry conditions on detail page\nVenue: M
- ap/location field has the published address\nFULL DETAILS: Site not deploy
- ed yet\; see the bundled event page (events/evt_ea1877a560f5df9193.html)\n
- Confirm official entry rules before booking travel.
-URL:https://worldscusa.com/tournaments/korea-national-assembly-presidents-c
- up-u-s-taekwondo-championship/
+ ap/location field has the published address\nFULL DETAILS / ENTRY / EVIDEN
+ CE: https://koreatonystark.github.io/tkd-calendar-public/events/evt_ea1877
+ a560f5df9193.html\nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_ea1877a
+ 560f5df9193.html
 X-TKD-DETAIL-PATH:events/evt_ea1877a560f5df9193.html
 END:VEVENT
 BEGIN:VEVENT
@@ -163,10 +168,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
  nRanking: Listed for some divisions\; check which organization/points on d
  etail page\nRegistration deadline: 2026-11-11\nVenue: City/state only\; ex
- act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
- dled event page (events/evt_13ba834e047841043f.html)\nConfirm official ent
- ry rules before booking travel.
-URL:https://www.ataezsignup.com/tournaments/all/
+ act address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://koreaton
+ ystark.github.io/tkd-calendar-public/events/evt_13ba834e047841043f.html\nC
+ onfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_13ba834
+ e047841043f.html
 X-TKD-DETAIL-PATH:events/evt_13ba834e047841043f.html
 END:VEVENT
 BEGIN:VEVENT
@@ -186,11 +192,35 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
  nRanking: Listed for some divisions\; check which organization/points on d
  etail page\nRegistration deadline: 2026-11-11\nVenue: City/state only\; ex
- act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
- dled event page (events/evt_150482411c6ea6b0e3.html)\nConfirm official ent
- ry rules before booking travel.
-URL:https://www.ataezsignup.com/tournaments/all/
+ act address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://koreaton
+ ystark.github.io/tkd-calendar-public/events/evt_150482411c6ea6b0e3.html\nC
+ onfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_1504824
+ 11c6ea6b0e3.html
 X-TKD-DETAIL-PATH:events/evt_150482411c6ea6b0e3.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_e7d2c94095d74f1041@tkd-calendar.local
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20261115
+DTEND;VALUE=DATE:20261116
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:A
+SUMMARY:[TKD A] 2026 Lion's Cup
+LOCATION:Azusa\, CA\, United States
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
+ ditorial\, not federation grade)\nOrganizer: USATKD\nAffiliation: USATKD\n
+ Identity/entry: USATKD 회원 등록\; 벨트 옐로 이상\, 성인 SafeS
+ port\nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS / E
+ NTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/even
+ ts/evt_e7d2c94095d74f1041.html\nConfirm official entry rules before bookin
+ g travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e7d2c94
+ 095d74f1041.html
+X-TKD-DETAIL-PATH:events/evt_e7d2c94095d74f1041.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_4bb8cf22aba99d4ea4@tkd-calendar.local
@@ -208,17 +238,19 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
  : ATA\nEligibility: Check full entry conditions on detail page\nRanking: L
  isted for some divisions\; check which organization/points on detail page\
- nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS: Site no
- t deployed yet\; see the bundled event page (events/evt_4bb8cf22aba99d4ea4
- .html)\nConfirm official entry rules before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/
+ nVenue: City/state only\; exact address unconfirmed\nFULL DETAILS / ENTRY 
+ / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/events/ev
+ t_4bb8cf22aba99d4ea4.html\nConfirm official entry rules before booking tra
+ vel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_4bb8cf2
+ 2aba99d4ea4.html
 X-TKD-DETAIL-PATH:events/evt_4bb8cf22aba99d4ea4.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_133ef943baa2d4c948@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:3
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270118
 STATUS:CONFIRMED
@@ -232,10 +264,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  enior WT World Class requires valid Kukkiwon/WT Dan\; verify other divisio
  ns individually.\nIdentity/entry: 미국 대표 선발 경로·국적·선
  발 자격 확인\nAdvancement: Team pathway\; \nVenue: City/state only\; 
- exact address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the b
- undled event page (events/evt_133ef943baa2d4c948.html)\nConfirm official e
- ntry rules before booking travel.
-URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+ exact address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://koreat
+ onystark.github.io/tkd-calendar-public/events/evt_133ef943baa2d4c948.html\
+ nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_133ef94
+ 3baa2d4c948.html
 X-TKD-DETAIL-PATH:events/evt_133ef943baa2d4c948.html
 END:VEVENT
 BEGIN:VEVENT
@@ -255,11 +288,12 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  Senior Master Tony Rosa\nAffiliation: ATA\nEligibility: Check full entry c
  onditions on detail page\nRanking: Listed for some divisions\; check which
   organization/points on detail page\nRegistration deadline: 2027-01-13\nVe
- nue: Map/location field has the published address\nFULL DETAILS: Site not 
- deployed yet\; see the bundled event page (events/evt_791cc83c0b436895ca.h
- tml)\nConfirm official entry rules before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/class-a/0115-162027-tn
- -class-a/
+ nue: Map/location field has the published address\nFULL DETAILS / ENTRY / 
+ EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/events/evt_
+ 791cc83c0b436895ca.html\nConfirm official entry rules before booking trave
+ l.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_791cc83
+ c0b436895ca.html
 X-TKD-DETAIL-PATH:events/evt_791cc83c0b436895ca.html
 END:VEVENT
 BEGIN:VEVENT
@@ -280,11 +314,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  n: Taekwondo America\nEligibility: Check full entry conditions on detail p
  age\nIdentity/entry: TA 회원 도장 소속·학교장을 통한 등록\n
  Registration deadline: 2027-01-13\nVenue: Map/location field has the publi
- shed address\nFULL DETAILS: Site not deployed yet\; see the bundled event 
- page (events/evt_da5fa33a061e407444.html)\nConfirm official entry rules be
- fore booking travel.
-URL:https://taekwondoamerica.org/project/national-tournament-cincinnati-oh-
- jan-22-23-2027/
+ shed address\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.gith
+ ub.io/tkd-calendar-public/events/evt_da5fa33a061e407444.html\nConfirm offi
+ cial entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_da5fa33
+ a061e407444.html
 X-TKD-DETAIL-PATH:events/evt_da5fa33a061e407444.html
 END:VEVENT
 BEGIN:VEVENT
@@ -305,11 +339,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  Lavonne Isaacs\nAffiliation: ATA\nEligibility: Check full entry conditions
   on detail page\nRanking: Listed for some divisions\; check which organiza
  tion/points on detail page\nRegistration deadline: 2027-02-10\nVenue: Map/
- location field has the published address\nFULL DETAILS: Site not deployed 
- yet\; see the bundled event page (events/evt_2fe481bb288e10791a.html)\nCon
- firm official entry rules before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/class-a/0212-132027-fl
- -class-a/
+ location field has the published address\nFULL DETAILS / ENTRY / EVIDENCE:
+  https://koreatonystark.github.io/tkd-calendar-public/events/evt_2fe481bb2
+ 88e10791a.html\nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_2fe481b
+ b288e10791a.html
 X-TKD-DETAIL-PATH:events/evt_2fe481bb288e10791a.html
 END:VEVENT
 BEGIN:VEVENT
@@ -330,11 +364,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  nAffiliation: ATA\nEligibility: Check full entry conditions on detail page
  \nRanking: Listed for some divisions\; check which organization/points on 
  detail page\nRegistration deadline: 2027-02-24\nVenue: Map/location field 
- has the published address\nFULL DETAILS: Site not deployed yet\; see the b
- undled event page (events/evt_217a7ea5b97605cfe7.html)\nConfirm official e
- ntry rules before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/class-a/0226-272027-tx
- -class-a/
+ has the published address\nFULL DETAILS / ENTRY / EVIDENCE: https://koreat
+ onystark.github.io/tkd-calendar-public/events/evt_217a7ea5b97605cfe7.html\
+ nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_217a7ea
+ 5b97605cfe7.html
 X-TKD-DETAIL-PATH:events/evt_217a7ea5b97605cfe7.html
 END:VEVENT
 BEGIN:VEVENT
@@ -353,10 +387,12 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: AAU Oregon / Region 12 organi
  zer\nAffiliation: AAU\nEligibility: Check full entry conditions on detail 
  page\nAdvancement: Nationals pathway\nRegistration deadline: 2027-02-24\nV
- enue: Map/location field has the published address\nFULL DETAILS: Site not
-  deployed yet\; see the bundled event page (events/evt_add62b5dd9e92cb6a5.
- html)\nConfirm official entry rules before booking travel.
-URL:https://aauortkd.com/
+ enue: Map/location field has the published address\nFULL DETAILS / ENTRY /
+  EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/events/evt
+ _add62b5dd9e92cb6a5.html\nConfirm official entry rules before booking trav
+ el.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_add62b5
+ dd9e92cb6a5.html
 X-TKD-DETAIL-PATH:events/evt_add62b5dd9e92cb6a5.html
 END:VEVENT
 BEGIN:VEVENT
@@ -377,18 +413,18 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  tion: ATA\nEligibility: Check full entry conditions on detail page\nRankin
  g: Listed for some divisions\; check which organization/points on detail p
  age\nRegistration deadline: 2027-03-03\nVenue: Map/location field has the 
- published address\nFULL DETAILS: Site not deployed yet\; see the bundled e
- vent page (events/evt_54ec6f339ea405336a.html)\nConfirm official entry rul
- es before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/class-a/0305-062027-ks
- -class-a/
+ published address\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark
+ .github.io/tkd-calendar-public/events/evt_54ec6f339ea405336a.html\nConfirm
+  official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_54ec6f3
+ 39ea405336a.html
 X-TKD-DETAIL-PATH:events/evt_54ec6f339ea405336a.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_e5b6518772c3f00c10@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:2
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270321
 STATUS:CONFIRMED
@@ -403,16 +439,18 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  s vary / Official event says all ranks\; some divisions are restricted\nRa
  nking: Listed for some divisions\; check which organization/points on deta
  il page\nVenue: Map/location field has the published address\nFULL DETAILS
- : Site not deployed yet\; see the bundled event page (events/evt_e5b651877
- 2c3f00c10.html)\nConfirm official entry rules before booking travel.
-URL:https://atamartialarts.com/events/spring-nationals/
+  / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/
+ events/evt_e5b6518772c3f00c10.html\nConfirm official entry rules before bo
+ oking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e5b6518
+ 772c3f00c10.html
 X-TKD-DETAIL-PATH:events/evt_e5b6518772c3f00c10.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_72f303a85ad6ee5a7f@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:3
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270322
 STATUS:CONFIRMED
@@ -425,10 +463,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  SATKD\nEligibility: Check full entry conditions on detail page\nCategory: 
  International competition (see organizing federation on event page)\nIdent
  ity/entry: 국제오픈: WT GAL 필수(미국 시민권 일괄 요건 아
- 님)\nFULL DETAILS: Site not deployed yet\; see the bundled event page (ev
- ents/evt_72f303a85ad6ee5a7f.html)\nConfirm official entry rules before boo
- king travel.
-URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+ 님)\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tk
+ d-calendar-public/events/evt_72f303a85ad6ee5a7f.html\nConfirm official ent
+ ry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_72f303a
+ 85ad6ee5a7f.html
 X-TKD-DETAIL-PATH:events/evt_72f303a85ad6ee5a7f.html
 END:VEVENT
 BEGIN:VEVENT
@@ -448,11 +487,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
  nRanking: Listed for some divisions\; check which organization/points on d
  etail page\nRegistration deadline: 2027-03-24\nVenue: Map/location field h
- as the published address\nFULL DETAILS: Site not deployed yet\; see the bu
- ndled event page (events/evt_5d2732e2d91c8ef098.html)\nConfirm official en
- try rules before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/class-a/0326-272027-pa
- -class-a/
+ as the published address\nFULL DETAILS / ENTRY / EVIDENCE: https://koreato
+ nystark.github.io/tkd-calendar-public/events/evt_5d2732e2d91c8ef098.html\n
+ Confirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_5d2732e
+ 2d91c8ef098.html
 X-TKD-DETAIL-PATH:events/evt_5d2732e2d91c8ef098.html
 END:VEVENT
 BEGIN:VEVENT
@@ -473,11 +512,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  Howard\nAffiliation: ATA\nEligibility: Check full entry conditions on deta
  il page\nRanking: Listed for some divisions\; check which organization/poi
  nts on detail page\nVenue: Map/location field has the published address\nF
- ULL DETAILS: Site not deployed yet\; see the bundled event page (events/ev
- t_861a203b3e8fdb3279.html)\nConfirm official entry rules before booking tr
- avel.
-URL:https://atamartialarts.com/events/event-schedule/class-a/0409-102027-mo
- -class-a/
+ ULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calen
+ dar-public/events/evt_861a203b3e8fdb3279.html\nConfirm official entry rule
+ s before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_861a203
+ b3e8fdb3279.html
 X-TKD-DETAIL-PATH:events/evt_861a203b3e8fdb3279.html
 END:VEVENT
 BEGIN:VEVENT
@@ -497,10 +536,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
  nRanking: Listed for some divisions\; check which organization/points on d
  etail page\nRegistration deadline: 2027-04-07\nVenue: City/state only\; ex
- act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
- dled event page (events/evt_d58dc9269e1f87d1a8.html)\nConfirm official ent
- ry rules before booking travel.
-URL:https://www.ataezsignup.com/tournaments/all/
+ act address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://koreaton
+ ystark.github.io/tkd-calendar-public/events/evt_d58dc9269e1f87d1a8.html\nC
+ onfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_d58dc92
+ 69e1f87d1a8.html
 X-TKD-DETAIL-PATH:events/evt_d58dc9269e1f87d1a8.html
 END:VEVENT
 BEGIN:VEVENT
@@ -520,10 +560,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  Affiliation: ATA\nEligibility: Check full entry conditions on detail page\
  nRanking: Listed for some divisions\; check which organization/points on d
  etail page\nRegistration deadline: 2027-04-14\nVenue: City/state only\; ex
- act address unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bun
- dled event page (events/evt_e966f043b66aa0e812.html)\nConfirm official ent
- ry rules before booking travel.
-URL:https://www.ataezsignup.com/tournaments/all/
+ act address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://koreaton
+ ystark.github.io/tkd-calendar-public/events/evt_e966f043b66aa0e812.html\nC
+ onfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e966f04
+ 3b66aa0e812.html
 X-TKD-DETAIL-PATH:events/evt_e966f043b66aa0e812.html
 END:VEVENT
 BEGIN:VEVENT
@@ -544,11 +585,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  lle Moh\nAffiliation: ATA\nEligibility: Check full entry conditions on det
  ail page\nRanking: Listed for some divisions\; check which organization/po
  ints on detail page\nVenue: Map/location field has the published address\n
- FULL DETAILS: Site not deployed yet\; see the bundled event page (events/e
- vt_63b0ef741e8f7569da.html)\nConfirm official entry rules before booking t
- ravel.
-URL:https://atamartialarts.com/events/event-schedule/class-a/0423-242027-wi
- -class-a/
+ FULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-cale
+ ndar-public/events/evt_63b0ef741e8f7569da.html\nConfirm official entry rul
+ es before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_63b0ef7
+ 41e8f7569da.html
 X-TKD-DETAIL-PATH:events/evt_63b0ef741e8f7569da.html
 END:VEVENT
 BEGIN:VEVENT
@@ -569,11 +610,12 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  or Master Kevin Pavlik\nAffiliation: ATA\nEligibility: Check full entry co
  nditions on detail page\nRanking: Listed for some divisions\; check which 
  organization/points on detail page\nRegistration deadline: 2027-04-21\nVen
- ue: Map/location field has the published address\nFULL DETAILS: Site not d
- eployed yet\; see the bundled event page (events/evt_4d8d030bf50bb7c3ea.ht
- ml)\nConfirm official entry rules before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/class-a/0423-242027-oh
- -class-a/
+ ue: Map/location field has the published address\nFULL DETAILS / ENTRY / E
+ VIDENCE: https://koreatonystark.github.io/tkd-calendar-public/events/evt_4
+ d8d030bf50bb7c3ea.html\nConfirm official entry rules before booking travel
+ .
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_4d8d030
+ bf50bb7c3ea.html
 X-TKD-DETAIL-PATH:events/evt_4d8d030bf50bb7c3ea.html
 END:VEVENT
 BEGIN:VEVENT
@@ -594,11 +636,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
   Master Julia Wegmann\nAffiliation: ATA\nEligibility: Check full entry con
  ditions on detail page\nRanking: Listed for some divisions\; check which o
  rganization/points on detail page\nVenue: Map/location field has the publi
- shed address\nFULL DETAILS: Site not deployed yet\; see the bundled event 
- page (events/evt_873d835b8838e7d3d3.html)\nConfirm official entry rules be
- fore booking travel.
-URL:https://atamartialarts.com/events/event-schedule/class-a/0423-242027-nc
- -class-a/
+ shed address\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.gith
+ ub.io/tkd-calendar-public/events/evt_873d835b8838e7d3d3.html\nConfirm offi
+ cial entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_873d835
+ b8838e7d3d3.html
 X-TKD-DETAIL-PATH:events/evt_873d835b8838e7d3d3.html
 END:VEVENT
 BEGIN:VEVENT
@@ -618,18 +660,18 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  liation: ATA\nEligibility: Check full entry conditions on detail page\nRan
  king: Listed for some divisions\; check which organization/points on detai
  l page\nRegistration deadline: 2027-04-21\nVenue: Map/location field has t
- he published address\nFULL DETAILS: Site not deployed yet\; see the bundle
- d event page (events/evt_b983465b9fc4a0b3a9.html)\nConfirm official entry 
- rules before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/class-a/0423-242027-ga
- -class-a/
+ he published address\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonyst
+ ark.github.io/tkd-calendar-public/events/evt_b983465b9fc4a0b3a9.html\nConf
+ irm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_b983465
+ b9fc4a0b3a9.html
 X-TKD-DETAIL-PATH:events/evt_b983465b9fc4a0b3a9.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_b3683a1747010b43b9@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:3
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270510
 STATUS:CONFIRMED
@@ -640,17 +682,18 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
  ntry: USATKD 회원 등록\; 벨트 옐로 이상\, 성인 SafeSport\nFULL
-  DETAILS: Site not deployed yet\; see the bundled event page (events/evt_b
- 3683a1747010b43b9.html)\nConfirm official entry rules before booking trave
- l.
-URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+  DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar
+ -public/events/evt_b3683a1747010b43b9.html\nConfirm official entry rules b
+ efore booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_b3683a1
+ 747010b43b9.html
 X-TKD-DETAIL-PATH:events/evt_b3683a1747010b43b9.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_b61805cbe50356e590@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:3
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270621
 STATUS:CONFIRMED
@@ -661,17 +704,18 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
  ntry: USATKD 회원 등록\; 벨트 옐로 이상\, 성인 SafeSport\nFULL
-  DETAILS: Site not deployed yet\; see the bundled event page (events/evt_b
- 61805cbe50356e590.html)\nConfirm official entry rules before booking trave
- l.
-URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+  DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar
+ -public/events/evt_b61805cbe50356e590.html\nConfirm official entry rules b
+ efore booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_b61805c
+ be50356e590.html
 X-TKD-DETAIL-PATH:events/evt_b61805cbe50356e590.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_e819a3218112395b29@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:3
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270712
 STATUS:CONFIRMED
@@ -682,17 +726,18 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
  ntry: World Class: 미국 시민권 증빙 필수\nAdvancement: Nationals 
- pathway\nFULL DETAILS: Site not deployed yet\; see the bundled event page 
- (events/evt_e819a3218112395b29.html)\nConfirm official entry rules before 
- booking travel.
-URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+ pathway\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io
+ /tkd-calendar-public/events/evt_e819a3218112395b29.html\nConfirm official 
+ entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e819a32
+ 18112395b29.html
 X-TKD-DETAIL-PATH:events/evt_e819a3218112395b29.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_d02150bb464a3f0e6f@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:2
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20270719
 DTEND;VALUE=DATE:20270725
 STATUS:CONFIRMED
@@ -707,10 +752,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  sion conditions apply / Organizer says all ranks\; participation may requi
  re ATA membership\nCategory: International competition (see organizing fed
  eration on event page)\nVenue: Map/location field has the published addres
- s\nFULL DETAILS: Site not deployed yet\; see the bundled event page (event
- s/evt_d02150bb464a3f0e6f.html)\nConfirm official entry rules before bookin
- g travel.
-URL:https://atamartialarts.com/worlds/
+ s\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-c
+ alendar-public/events/evt_d02150bb464a3f0e6f.html\nConfirm official entry 
+ rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_d02150b
+ b464a3f0e6f.html
 X-TKD-DETAIL-PATH:events/evt_d02150bb464a3f0e6f.html
 END:VEVENT
 BEGIN:VEVENT
@@ -731,18 +777,18 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  Chief Master Barbara Sustaire\nAffiliation: ATA\nEligibility: Check full e
  ntry conditions on detail page\nRanking: Listed for some divisions\; check
   which organization/points on detail page\nVenue: Map/location field has t
- he published address\nFULL DETAILS: Site not deployed yet\; see the bundle
- d event page (events/evt_135137e88c3c8e2f00.html)\nConfirm official entry 
- rules before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/class-a/0813-142027-tx
- -class-a/
+ he published address\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonyst
+ ark.github.io/tkd-calendar-public/events/evt_135137e88c3c8e2f00.html\nConf
+ irm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_135137e
+ 88c3c8e2f00.html
 X-TKD-DETAIL-PATH:events/evt_135137e88c3c8e2f00.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_9f9dd2d45ca1267bff@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:3
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:4
 DTSTART;VALUE=DATE:20270903
 DTEND;VALUE=DATE:20270906
 STATUS:CONFIRMED
@@ -755,10 +801,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
  ditorial\, not federation grade)\nOrganizer: USA Taekwondo\nAffiliation: U
  SATKD\nEligibility: Check full entry conditions on detail page\nIdentity/e
  ntry: USATKD 회원 등록\; 벨트 옐로 이상\, 성인 SafeSport\nVenu
- e: Map/location field has the published address\nFULL DETAILS: Site not de
- ployed yet\; see the bundled event page (events/evt_9f9dd2d45ca1267bff.htm
- l)\nConfirm official entry rules before booking travel.
-URL:https://www.usatkd.org/2027-usa-taekwondo-competition-season
+ e: Map/location field has the published address\nFULL DETAILS / ENTRY / EV
+ IDENCE: https://koreatonystark.github.io/tkd-calendar-public/events/evt_9f
+ 9dd2d45ca1267bff.html\nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_9f9dd2d
+ 45ca1267bff.html
 X-TKD-DETAIL-PATH:events/evt_9f9dd2d45ca1267bff.html
 END:VEVENT
 BEGIN:VEVENT
@@ -777,11 +824,12 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: Master Jordan Howard\nAffilia
  tion: ATA\nEligibility: Check full entry conditions on detail page\nRankin
  g: Listed for some divisions\; check which organization/points on detail p
- age\nVenue: Map/location field has the published address\nFULL DETAILS: Si
- te not deployed yet\; see the bundled event page (events/evt_05f1820c8759d
- cf969.html)\nConfirm official entry rules before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/class-a/0910-112027-mo
- -class-a/
+ age\nVenue: Map/location field has the published address\nFULL DETAILS / E
+ NTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/even
+ ts/evt_05f1820c8759dcf969.html\nConfirm official entry rules before bookin
+ g travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_05f1820
+ c8759dcf969.html
 X-TKD-DETAIL-PATH:events/evt_05f1820c8759dcf969.html
 END:VEVENT
 BEGIN:VEVENT
@@ -800,18 +848,19 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  ditorial\, not federation grade)\nOrganizer: ATA Region 106\nAffiliation: 
  ATA\nEligibility: Check full entry conditions on detail page\nRanking: Lis
  ted for some divisions\; check which organization/points on detail page\nV
- enue: Map/location field has the published address\nFULL DETAILS: Site not
-  deployed yet\; see the bundled event page (events/evt_2eb8acc19b4fac375f.
- html)\nConfirm official entry rules before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/class-a/09182027-in-cl
- ass-a/
+ enue: Map/location field has the published address\nFULL DETAILS / ENTRY /
+  EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/events/evt
+ _2eb8acc19b4fac375f.html\nConfirm official entry rules before booking trav
+ el.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_2eb8acc
+ 19b4fac375f.html
 X-TKD-DETAIL-PATH:events/evt_2eb8acc19b4fac375f.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_58d662f1eba94dbdba@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:1
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:2
 DTSTART;VALUE=DATE:20271006
 DTEND;VALUE=DATE:20271010
 STATUS:CONFIRMED
@@ -822,17 +871,18 @@ LOCATION:St. Louis\, MO
 DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
  : ATA\nEligibility: Check full entry conditions on detail page\nVenue: Cit
- y/state only\; exact address unconfirmed\nFULL DETAILS: Site not deployed 
- yet\; see the bundled event page (events/evt_58d662f1eba94dbdba.html)\nCon
- firm official entry rules before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/
+ y/state only\; exact address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE:
+  https://koreatonystark.github.io/tkd-calendar-public/events/evt_58d662f1e
+ ba94dbdba.html\nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_58d662f
+ 1eba94dbdba.html
 X-TKD-DETAIL-PATH:events/evt_58d662f1eba94dbdba.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_3ad5cd1e7aed03d8dc@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:2
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:3
 DTSTART;VALUE=DATE:20271017
 DTEND;VALUE=DATE:20271025
 STATUS:CONFIRMED
@@ -848,10 +898,11 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
  on policy\nCategory: International competition (see organizing federation 
  on event page)\nIdentity/entry: 국가협회/연맹 등록·선발 자격 
  필요\nAdvancement: Team pathway\; \nVenue: City/state only\; exact addre
- ss unconfirmed\nFULL DETAILS: Site not deployed yet\; see the bundled even
- t page (events/evt_3ad5cd1e7aed03d8dc.html)\nConfirm official entry rules 
- before booking travel.
-URL:https://itftkd.sport/events/category/championships/
+ ss unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.gi
+ thub.io/tkd-calendar-public/events/evt_3ad5cd1e7aed03d8dc.html\nConfirm of
+ ficial entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_3ad5cd1
+ e7aed03d8dc.html
 X-TKD-DETAIL-PATH:events/evt_3ad5cd1e7aed03d8dc.html
 END:VEVENT
 BEGIN:VEVENT
@@ -872,38 +923,62 @@ DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: B (e
  filiation: ATA\nEligibility: Check full entry conditions on detail page\nR
  anking: Listed for some divisions\; check which organization/points on det
  ail page\nVenue: Map/location field has the published address\nFULL DETAIL
- S: Site not deployed yet\; see the bundled event page (events/evt_a71958b9
- f8003dcacd.html)\nConfirm official entry rules before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/class-a/10232027-il-cl
- ass-a/
+ S / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public
+ /events/evt_a71958b9f8003dcacd.html\nConfirm official entry rules before b
+ ooking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_a71958b
+ 9f8003dcacd.html
 X-TKD-DETAIL-PATH:events/evt_a71958b9f8003dcacd.html
 END:VEVENT
 BEGIN:VEVENT
-UID:evt_f7656ff59fabd8298a@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
+UID:evt_8a86ea7bc0e52381e6@tkd-calendar.local
+DTSTAMP:20261102T022132Z
+LAST-MODIFIED:20261102T022132Z
 SEQUENCE:1
-DTSTART;VALUE=DATE:20271210
-DTEND;VALUE=DATE:20271212
+DTSTART;VALUE=DATE:20280329
+DTEND;VALUE=DATE:20280402
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
-X-TKD-EDITORIAL-GRADE:A
-SUMMARY:[TKD A] ATA 2027 H.U. Lee Classic
-LOCATION:Little Rock\, AR
-DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: A (e
- ditorial\, not federation grade)\nOrganizer: ATA Martial Arts\nAffiliation
- : ATA\nEligibility: Check full entry conditions on detail page\nVenue: Cit
- y/state only\; exact address unconfirmed\nFULL DETAILS: Site not deployed 
- yet\; see the bundled event page (events/evt_f7656ff59fabd8298a.html)\nCon
- firm official entry rules before booking travel.
-URL:https://atamartialarts.com/events/event-schedule/
-X-TKD-DETAIL-PATH:events/evt_f7656ff59fabd8298a.html
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD S] 2028 ATA Spring Nationals
+LOCATION:Fort Worth\, TX
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: ATA\nVenue: City/state only\;
+  exact address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://korea
+ tonystark.github.io/tkd-calendar-public/events/evt_8a86ea7bc0e52381e6.html
+ \nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_8a86ea7
+ bc0e52381e6.html
+X-TKD-DETAIL-PATH:events/evt_8a86ea7bc0e52381e6.html
+END:VEVENT
+BEGIN:VEVENT
+UID:evt_8cbb5ae7385636ed6e@tkd-calendar.local
+DTSTAMP:20261102T022132Z
+LAST-MODIFIED:20261102T022132Z
+SEQUENCE:1
+DTSTART;VALUE=DATE:20280710
+DTEND;VALUE=DATE:20280716
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+X-TKD-EDITORIAL-GRADE:S
+SUMMARY:[TKD W] 2028 ATA World Championships
+X-TKD-INTERNATIONAL:TRUE
+LOCATION:Phoenix\, AZ
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: S (e
+ ditorial\, not federation grade)\nOrganizer: ATA\nCategory: International 
+ competition (see organizing federation on event page)\nVenue: City/state o
+ nly\; exact address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: https://
+ koreatonystark.github.io/tkd-calendar-public/events/evt_8cbb5ae7385636ed6e
+ .html\nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_8cbb5ae
+ 7385636ed6e.html
+X-TKD-DETAIL-PATH:events/evt_8cbb5ae7385636ed6e.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_69c4f4fb09fd723854@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:6
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20270726
 DTEND;VALUE=DATE:20270727
 STATUS:TENTATIVE
@@ -920,10 +995,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 높음)\
  ed\nTKD Hub importance: S (editorial\, not federation grade)\nOrganizer: A
  AU Taekwondo\nAffiliation: AAU\nEligibility: Check full entry conditions o
  n detail page\nForecast basis: 3 prior edition(s)\; confidence high\nVenue
- : City/state only\; exact address unconfirmed\nFULL DETAILS: Site not depl
- oyed yet\; see the bundled event page (events/evt_69c4f4fb09fd723854.html)
- \nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/future-dates/
+ : City/state only\; exact address unconfirmed\nFULL DETAILS / ENTRY / EVID
+ ENCE: https://koreatonystark.github.io/tkd-calendar-public/events/evt_69c4
+ f4fb09fd723854.html\nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_69c4f4f
+ b09fd723854.html
 X-TKD-DETAIL-PATH:events/evt_69c4f4fb09fd723854.html
 END:VEVENT
 BEGIN:VEVENT
@@ -944,10 +1020,12 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
  n근거: 2025·2026 개최 시작일 / 공식 발표 시 자동 수정됨\
  nStatus: [Projected] planning estimate — date/edition not confirmed\nTKD
   Hub importance: A (editorial\, not federation grade)\nOrganizer: AAU\nFor
- ecast basis: 2 prior edition(s)\; confidence medium\nFULL DETAILS: Site no
- t deployed yet\; see the bundled event page (events/evt_324b30908a78f6e29a
- .html)\nConfirm official entry rules before booking travel.
-URL:https://aausports.org/taekwondo/2024-25-season-licensed-events
+ ecast basis: 2 prior edition(s)\; confidence medium\nFULL DETAILS / ENTRY 
+ / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/events/ev
+ t_324b30908a78f6e29a.html\nConfirm official entry rules before booking tra
+ vel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_324b309
+ 08a78f6e29a.html
 X-TKD-DETAIL-PATH:events/evt_324b30908a78f6e29a.html
 END:VEVENT
 BEGIN:VEVENT
@@ -969,10 +1047,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
- nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
- evt_01d0f69e0fbf36b5c6.html)\nConfirm official entry rules before booking 
- travel.
-URL:https://aausports.org/taekwondo/future-dates/
+ nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-cal
+ endar-public/events/evt_01d0f69e0fbf36b5c6.html\nConfirm official entry ru
+ les before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_01d0f69
+ e0fbf36b5c6.html
 X-TKD-DETAIL-PATH:events/evt_01d0f69e0fbf36b5c6.html
 END:VEVENT
 BEGIN:VEVENT
@@ -994,10 +1073,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
- nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
- evt_5ca718f96311ab7da4.html)\nConfirm official entry rules before booking 
- travel.
-URL:https://aausports.org/taekwondo/future-dates/
+ nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-cal
+ endar-public/events/evt_5ca718f96311ab7da4.html\nConfirm official entry ru
+ les before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_5ca718f
+ 96311ab7da4.html
 X-TKD-DETAIL-PATH:events/evt_5ca718f96311ab7da4.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1019,10 +1099,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
- nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
- evt_5a44319f801b90171e.html)\nConfirm official entry rules before booking 
- travel.
-URL:https://aausports.org/taekwondo/future-dates/
+ nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-cal
+ endar-public/events/evt_5a44319f801b90171e.html\nConfirm official entry ru
+ les before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_5a44319
+ f801b90171e.html
 X-TKD-DETAIL-PATH:events/evt_5a44319f801b90171e.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1044,10 +1125,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
- nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
- evt_73cf42e0cadc09c03c.html)\nConfirm official entry rules before booking 
- travel.
-URL:https://aausports.org/taekwondo/future-dates/
+ nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-cal
+ endar-public/events/evt_73cf42e0cadc09c03c.html\nConfirm official entry ru
+ les before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_73cf42e
+ 0cadc09c03c.html
 X-TKD-DETAIL-PATH:events/evt_73cf42e0cadc09c03c.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1069,17 +1151,18 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  표 시 자동 수정됨\nStatus: [Projected] planning estimate — date/e
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: AAU\nForecast basis: 1 prior edition(s)\; confidence low\
- nFULL DETAILS: Site not deployed yet\; see the bundled event page (events/
- evt_d187d92c10d7caa2dc.html)\nConfirm official entry rules before booking 
- travel.
-URL:https://aausports.org/taekwondo/future-dates/
+ nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-cal
+ endar-public/events/evt_d187d92c10d7caa2dc.html\nConfirm official entry ru
+ les before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_d187d92
+ c10d7caa2dc.html
 X-TKD-DETAIL-PATH:events/evt_d187d92c10d7caa2dc.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_0706fb7dc88eb58892@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:6
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:7
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 STATUS:TENTATIVE
@@ -1095,17 +1178,18 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 높음)\
  ed\nTKD Hub importance: S (editorial\, not federation grade)\nOrganizer: A
  AU Taekwondo\nAffiliation: AAU\nEligibility: Check full entry conditions o
  n detail page\nAdvancement: Team pathway\; \nForecast basis: 3 prior editi
- on(s)\; confidence high\nFULL DETAILS: Site not deployed yet\; see the bun
- dled event page (events/evt_0706fb7dc88eb58892.html)\nConfirm official ent
- ry rules before booking travel.
-URL:https://aausports.org/taekwondo/future-dates/
+ on(s)\; confidence high\nFULL DETAILS / ENTRY / EVIDENCE: https://koreaton
+ ystark.github.io/tkd-calendar-public/events/evt_0706fb7dc88eb58892.html\nC
+ onfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_0706fb7
+ dc88eb58892.html
 X-TKD-DETAIL-PATH:events/evt_0706fb7dc88eb58892.html
 END:VEVENT
 BEGIN:VEVENT
 UID:evt_69a6895fdd9e4d8f73@tkd-calendar.local
-DTSTAMP:20261031T160000Z
-LAST-MODIFIED:20261031T160000Z
-SEQUENCE:7
+DTSTAMP:20261102T022102Z
+LAST-MODIFIED:20261102T022102Z
+SEQUENCE:8
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
 STATUS:TENTATIVE
@@ -1123,10 +1207,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
  wondo\nAffiliation: AAU\nEligibility: Check full entry conditions on detai
  l page\nAdvancement: Team pathway\; \nForecast basis: 2 prior edition(s)\;
   confidence medium\nVenue: City/state only\; exact address unconfirmed\nFU
- LL DETAILS: Site not deployed yet\; see the bundled event page (events/evt
- _69a6895fdd9e4d8f73.html)\nConfirm official entry rules before booking tra
- vel.
-URL:https://aausports.org/taekwondo/future-dates/
+ LL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calend
+ ar-public/events/evt_69a6895fdd9e4d8f73.html\nConfirm official entry rules
+  before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_69a6895
+ fdd9e4d8f73.html
 X-TKD-DETAIL-PATH:events/evt_69a6895fdd9e4d8f73.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1149,10 +1234,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐
  로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\; confid
- ence low\nFULL DETAILS: Site not deployed yet\; see the bundled event page
-  (events/evt_8729e713a649b68aa3.html)\nConfirm official entry rules before
-  booking travel.
-URL:https://www.usatkd.org/calendar
+ ence low\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.i
+ o/tkd-calendar-public/events/evt_8729e713a649b68aa3.html\nConfirm official
+  entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_8729e71
+ 3a649b68aa3.html
 X-TKD-DETAIL-PATH:events/evt_8729e713a649b68aa3.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1175,10 +1261,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐
  로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\; confid
- ence low\nFULL DETAILS: Site not deployed yet\; see the bundled event page
-  (events/evt_3161c2241f2eff5227.html)\nConfirm official entry rules before
-  booking travel.
-URL:https://www.usatkd.org/calendar
+ ence low\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.i
+ o/tkd-calendar-public/events/evt_3161c2241f2eff5227.html\nConfirm official
+  entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_3161c22
+ 41f2eff5227.html
 X-TKD-DETAIL-PATH:events/evt_3161c2241f2eff5227.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1201,10 +1288,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐
  로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\; confid
- ence low\nFULL DETAILS: Site not deployed yet\; see the bundled event page
-  (events/evt_17898047a9039e6b4b.html)\nConfirm official entry rules before
-  booking travel.
-URL:https://www.usatkd.org/calendar
+ ence low\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.i
+ o/tkd-calendar-public/events/evt_17898047a9039e6b4b.html\nConfirm official
+  entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_1789804
+ 7a9039e6b4b.html
 X-TKD-DETAIL-PATH:events/evt_17898047a9039e6b4b.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1227,10 +1315,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐
  로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\; confid
- ence low\nFULL DETAILS: Site not deployed yet\; see the bundled event page
-  (events/evt_5060b736317dabde37.html)\nConfirm official entry rules before
-  booking travel.
-URL:https://www.usatkd.org/calendar
+ ence low\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.i
+ o/tkd-calendar-public/events/evt_5060b736317dabde37.html\nConfirm official
+  entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_5060b73
+ 6317dabde37.html
 X-TKD-DETAIL-PATH:events/evt_5060b736317dabde37.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1252,10 +1341,12 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
  nStatus: [Projected] planning estimate — date/edition not confirmed\nTKD
   Hub importance: B (editorial\, not federation grade)\nOrganizer: NY Open 
  organizing committee\nEligibility: Check full entry conditions on detail p
- age\nForecast basis: 2 prior edition(s)\; confidence medium\nFULL DETAILS:
-  Site not deployed yet\; see the bundled event page (events/evt_4d75c64fe5
- d4e84893.html)\nConfirm official entry rules before booking travel.
-URL:https://nyopentkd.org/general-info/
+ age\nForecast basis: 2 prior edition(s)\; confidence medium\nFULL DETAILS 
+ / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public/e
+ vents/evt_4d75c64fe5d4e84893.html\nConfirm official entry rules before boo
+ king travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_4d75c64
+ fe5d4e84893.html
 X-TKD-DETAIL-PATH:events/evt_4d75c64fe5d4e84893.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1280,10 +1371,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  ade)\nOrganizer: USATKD\nCategory: International competition (see organizi
  ng federation on event page)\nIdentity/entry: USATKD 회원 등록\; 벨
  트 옐로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\;
-  confidence low\nFULL DETAILS: Site not deployed yet\; see the bundled eve
- nt page (events/evt_10acbb0b75c867aea5.html)\nConfirm official entry rules
-  before booking travel.
-URL:https://www.usatkd.org/calendar
+  confidence low\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.g
+ ithub.io/tkd-calendar-public/events/evt_10acbb0b75c867aea5.html\nConfirm o
+ fficial entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_10acbb0
+ b75c867aea5.html
 X-TKD-DETAIL-PATH:events/evt_10acbb0b75c867aea5.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1306,10 +1398,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐
  로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\; confid
- ence low\nFULL DETAILS: Site not deployed yet\; see the bundled event page
-  (events/evt_5aee50177dc1de9888.html)\nConfirm official entry rules before
-  booking travel.
-URL:https://www.usatkd.org/calendar
+ ence low\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.i
+ o/tkd-calendar-public/events/evt_5aee50177dc1de9888.html\nConfirm official
+  entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_5aee501
+ 77dc1de9888.html
 X-TKD-DETAIL-PATH:events/evt_5aee50177dc1de9888.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1332,10 +1425,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
  ed\nTKD Hub importance: A (editorial\, not federation grade)\nOrganizer: U
  SATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐로 이상\, 성
  인 SafeSport\nForecast basis: 3 prior edition(s)\; confidence medium\nFUL
- L DETAILS: Site not deployed yet\; see the bundled event page (events/evt_
- 6b26455de1ccb87d09.html)\nConfirm official entry rules before booking trav
- el.
-URL:https://www.usatkd.org/calendar
+ L DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calenda
+ r-public/events/evt_6b26455de1ccb87d09.html\nConfirm official entry rules 
+ before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_6b26455
+ de1ccb87d09.html
 X-TKD-DETAIL-PATH:events/evt_6b26455de1ccb87d09.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1358,10 +1452,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  dition not confirmed\nTKD Hub importance: A (editorial\, not federation gr
  ade)\nOrganizer: USATKD\nIdentity/entry: USATKD 회원 등록\; 벨트 옐
  로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\; confid
- ence low\nFULL DETAILS: Site not deployed yet\; see the bundled event page
-  (events/evt_cc1261ab565bfde85d.html)\nConfirm official entry rules before
-  booking travel.
-URL:https://www.usatkd.org/calendar
+ ence low\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.github.i
+ o/tkd-calendar-public/events/evt_cc1261ab565bfde85d.html\nConfirm official
+  entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_cc1261a
+ b565bfde85d.html
 X-TKD-DETAIL-PATH:events/evt_cc1261ab565bfde85d.html
 END:VEVENT
 BEGIN:VEVENT
@@ -1390,10 +1485,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 보통)\
   federation on event page)\nIdentity/entry: 한국 국적→국내 팀 / 
  그 외 국적→해외 팀\nForecast basis: 3 prior edition(s)\; confiden
  ce medium\nVenue: City/state only\; exact address unconfirmed\nFULL DETAIL
- S: Site not deployed yet\; see the bundled event page (events/evt_9c0218fa
- 5b51277acf.html)\nConfirm official entry rules before booking travel.
-URL:https://www.kukkiwon.or.kr/eng/board/read?boardManagementNo=49&boardNo=
- 4050&menuLevel=2&menuNo=91&page=1&searchCategory=&searchType=&searchWord=
+ S / ENTRY / EVIDENCE: https://koreatonystark.github.io/tkd-calendar-public
+ /events/evt_9c0218fa5b51277acf.html\nConfirm official entry rules before b
+ ooking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_9c0218f
+ a5b51277acf.html
 X-TKD-DETAIL-PATH:events/evt_9c0218fa5b51277acf.html
 END:VEVENT
 END:VCALENDAR

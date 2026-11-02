@@ -29,10 +29,11 @@ DESCRIPTION:⚠ 예상 날짜 — 공식 발표 아님 (신뢰도: 낮음)
  ade)\nOrganizer: USATKD\nCategory: International competition (see organizi
  ng federation on event page)\nIdentity/entry: USATKD 회원 등록\; 벨
  트 옐로 이상\, 성인 SafeSport\nForecast basis: 1 prior edition(s)\;
-  confidence low\nFULL DETAILS: Site not deployed yet\; see the bundled eve
- nt page (events/evt_10acbb0b75c867aea5.html)\nConfirm official entry rules
-  before booking travel.
-URL:https://www.usatkd.org/calendar
+  confidence low\nFULL DETAILS / ENTRY / EVIDENCE: https://koreatonystark.g
+ ithub.io/tkd-calendar-public/events/evt_10acbb0b75c867aea5.html\nConfirm o
+ fficial entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_10acbb0
+ b75c867aea5.html
 X-TKD-DETAIL-PATH:events/evt_10acbb0b75c867aea5.html
 END:VEVENT
 END:VCALENDAR

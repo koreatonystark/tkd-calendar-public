@@ -55,11 +55,865 @@
       "status": "pending",
       "title": "2027 Taekwondo America National Tournament - Covington, KY",
       "year": 2027
+    },
+    {
+      "affiliation_claim": "AAU",
+      "discovered_by": [
+        "tourneyreg_discovery"
+      ],
+      "id": "candidate_f3cf11dd9a95c03c80",
+      "location": "",
+      "source_url": "https://www.tourneyreg.net/",
+      "start_date": "2026-11-14",
+      "state": "",
+      "status": "pending",
+      "title": "5th Impact Rising Stars Competition",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "None",
+      "discovered_by": [
+        "tourneyreg_discovery"
+      ],
+      "id": "candidate_fa23d298a36600518c",
+      "location": "",
+      "source_url": "https://www.tourneyreg.net/",
+      "start_date": "2026-11-21",
+      "state": "",
+      "status": "pending",
+      "title": "ULTIMATE FIGHTER CUP 2026 - ARUBA",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "open",
+      "discovered_by": [
+        "tourneyreg_discovery"
+      ],
+      "id": "candidate_ef7035263d2066999d",
+      "location": "",
+      "source_url": "https://www.tourneyreg.net/",
+      "start_date": "2026-11-21",
+      "state": "",
+      "status": "pending",
+      "title": "The JOURNEY FUND CHALLENGE",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "AAU",
+      "discovered_by": [
+        "tourneyreg_discovery"
+      ],
+      "id": "candidate_4ed9e2ccc5795fc3d3",
+      "location": "",
+      "source_url": "https://www.tourneyreg.net/",
+      "start_date": "2026-12-05",
+      "state": "",
+      "status": "pending",
+      "title": "9th New Jersey Tae Kwon Do Open Championships",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "not verified",
+      "discovered_by": [
+        "tourneyreg_discovery"
+      ],
+      "id": "candidate_b06085ee60c56d7590",
+      "location": "",
+      "source_url": "https://www.tourneyreg.net/",
+      "start_date": "2026-12-12",
+      "state": "",
+      "status": "pending",
+      "title": "2026 Southwest Florida Taekwondo Championships",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "AAU",
+      "discovered_by": [
+        "tourneyreg_discovery"
+      ],
+      "id": "candidate_42097e3523899e7bf2",
+      "location": "",
+      "source_url": "https://www.tourneyreg.net/",
+      "start_date": "2026-12-13",
+      "state": "",
+      "status": "pending",
+      "title": "TOURNAMENT OF CHAMPIONS - AAU QUALIFIER",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "AAU",
+      "discovered_by": [
+        "tourneyreg_discovery"
+      ],
+      "id": "candidate_af58b74231e7804fce",
+      "location": "",
+      "source_url": "https://www.tourneyreg.net/",
+      "start_date": "2027-01-16",
+      "state": "",
+      "status": "pending",
+      "title": "4th New Jersey AAU State Hanmadang & Sport Poomsae Qualifier",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_b1c6864dbc2fa9c290",
+      "location": "Little Rock, AR",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-12-04",
+      "state": "AR",
+      "status": "pending",
+      "title": "HU Lee Classic - Class APlus",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal AA Nationals",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_c764c797a12e1ed259",
+      "location": "Fort Worth, TX",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-03-19",
+      "state": "TX",
+      "status": "pending",
+      "title": "2027 Spring Nationals - AA Nationals",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_f4bbfbad4b77278126",
+      "location": "Memphis, TN",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-10-31",
+      "state": "TN",
+      "status": "pending",
+      "title": "TNT Big Explosion - B Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_88b53e89792bef0fa7",
+      "location": "St. Charles, MO",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-06",
+      "state": "MO",
+      "status": "pending",
+      "title": "Gateway Championships - A Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_d82ebb281333507f05",
+      "location": "Coraopolis, PA",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-06",
+      "state": "PA",
+      "status": "pending",
+      "title": "Three Rivers Throwdown: The Forge - B Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_887c2673492e67d988",
+      "location": "Fort Lauderdale, FL",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-06",
+      "state": "FL",
+      "status": "pending",
+      "title": "SOFLO Championship - A Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_6e5812447958a5d792",
+      "location": "Aurora, CO",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-06",
+      "state": "CO",
+      "status": "pending",
+      "title": "The Rocky Mountain Rumble - B Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_194a327318590438a8",
+      "location": "Round Rock, TX",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-07",
+      "state": "TX",
+      "status": "pending",
+      "title": "Top Texas Tournament - B Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_13897a0b27fce89de5",
+      "location": "Nashua, NH",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-07",
+      "state": "NH",
+      "status": "pending",
+      "title": "New England Battle of Champions - B Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_23fee7b3f1e48f98b4",
+      "location": "Fort Wayne, IN",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-07",
+      "state": "IN",
+      "status": "pending",
+      "title": "Fort Wayne Clash Of Champions - Rise Of The Golden Dragon - B Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_344c5eaaf0063fa28f",
+      "location": "Baraboo, WI",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-13",
+      "state": "WI",
+      "status": "pending",
+      "title": "LVLUP Invitational in the Wisconsin Dells - A Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_5b9ac2c051926f5505",
+      "location": "McCordsville, IN",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-13",
+      "state": "IN",
+      "status": "pending",
+      "title": "Rise to the Challenge - B Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_f63fef302a54ca5900",
+      "location": "Salem, OR",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-13",
+      "state": "OR",
+      "status": "pending",
+      "title": "Seeds Today Trees Tomorrow II - B Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_1864191bcae5d106bb",
+      "location": "Roswell, GA",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-13",
+      "state": "GA",
+      "status": "pending",
+      "title": "Grand Master Invitational - A Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_c38ac851947aa0f5d0",
+      "location": "Emporia, KS",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-14",
+      "state": "KS",
+      "status": "pending",
+      "title": "Salute To Service Showdown - B Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_5e209cac79333f3805",
+      "location": "Concord, NC",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-14",
+      "state": "NC",
+      "status": "pending",
+      "title": "WINNERS FOR LIFE MARTIAL ARTS - B Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_d601ced8a62b7e3dc4",
+      "location": "Atlantic City, NJ",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-20",
+      "state": "NJ",
+      "status": "pending",
+      "title": "Atlantic City Showdown - B Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_a1a1b37130a7a832b2",
+      "location": "95841, CA",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-21",
+      "state": "CA",
+      "status": "pending",
+      "title": "Owings Regional Tournament - B Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_8c488b26908a3a85bf",
+      "location": "San Diego, CA",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-11-21",
+      "state": "CA",
+      "status": "pending",
+      "title": "SoCal Songahm Classic - B Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_6f37be678383c1ab86",
+      "location": "Henderson, NV",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-12-12",
+      "state": "NV",
+      "status": "pending",
+      "title": "Round 2 Fight - B Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_02aa30cb934512307a",
+      "location": "Sioux Falls, SD",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-01-08",
+      "state": "SD",
+      "status": "pending",
+      "title": "Sioux Falls Regional Tournament - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_836806b13eb95b6e5e",
+      "location": "Memphis, TN",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-01-15",
+      "state": "TN",
+      "status": "pending",
+      "title": "Bluff City Regional Tournament - Memphis Class A - A Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_a35a7e776bd0d11832",
+      "location": "Everett, WA",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-01-30",
+      "state": "WA",
+      "status": "pending",
+      "title": "Where Grit Meets Glory - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_0b736fee9c8fdf0cce",
+      "location": "Orlando, FL",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-02-12",
+      "state": "FL",
+      "status": "pending",
+      "title": "Florida Championships United - A Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_44f941a6a356ee0111",
+      "location": "Morgantown, PA",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-02-13",
+      "state": "PA",
+      "status": "pending",
+      "title": "The Limitless Championships - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_44415f696684babcbd",
+      "location": "Saraland, AL",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-02-20",
+      "state": "AL",
+      "status": "pending",
+      "title": "Battle on Mobile Bay - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_84f3cf9ab123429497",
+      "location": "Lebanon , MO",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-02-26",
+      "state": "MO",
+      "status": "pending",
+      "title": "Lebanon Invitational 2027 - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_d0d2a6851c2689ad15",
+      "location": "Allen, TX",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-02-26",
+      "state": "TX",
+      "status": "pending",
+      "title": "Metroplex Mayhem - A Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_f54816b5b4d5c22f9c",
+      "location": "Fort Wayne, IN",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-02-27",
+      "state": "IN",
+      "status": "pending",
+      "title": "Fort Wayne Clash of Champions - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_0497cf8d1729131e37",
+      "location": "Crown Point, IN",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-02-27",
+      "state": "IN",
+      "status": "pending",
+      "title": "Hoosier Classic - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_27736b854147cd1a08",
+      "location": "Kansas City, KS",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-03-05",
+      "state": "KS",
+      "status": "pending",
+      "title": "KC Pride Championship III - A Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_e4a5e4931288a02a36",
+      "location": "Monroeville, PA",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-03-26",
+      "state": "PA",
+      "status": "pending",
+      "title": "Grand Master Caruso's Tournament of Champions - A Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_f41195b4864f1177fa",
+      "location": "Lincoln, NE",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-04-02",
+      "state": "NE",
+      "status": "pending",
+      "title": "Heartland Championships - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_41854d9bfde5516dc3",
+      "location": "Minneapolis, MN",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-04-02",
+      "state": "MN",
+      "status": "pending",
+      "title": "Weekend of Champions - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_9690ee39e074034b49",
+      "location": "Henderson, NV",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-04-03",
+      "state": "NV",
+      "status": "pending",
+      "title": "THE SILVERSTATE CHAMPIONSHIP - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_b182df360f86cb3033",
+      "location": "Galveston, TX",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-04-09",
+      "state": "TX",
+      "status": "pending",
+      "title": "Lone Star Championship - A Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_2f20c53dd9d7cca367",
+      "location": "Ocala, FL",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-04-17",
+      "state": "FL",
+      "status": "pending",
+      "title": "Fire Horse Championship - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_2bb618d0ca99ed5af7",
+      "location": "Tempe, AZ",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-04-17",
+      "state": "AZ",
+      "status": "pending",
+      "title": "Celebrating Korean Taekwondo - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_e1d3aec99cfcca90e8",
+      "location": "Morgantown, PA",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-04-17",
+      "state": "PA",
+      "status": "pending",
+      "title": "Penn Classic - A Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_b4bcb884e6379a7eb4",
+      "location": ", AR",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-04-17",
+      "state": "AR",
+      "status": "pending",
+      "title": "Jonesboro Tournament - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_15a1b2ba6780138109",
+      "location": "Canal winchester, OH",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-04-23",
+      "state": "OH",
+      "status": "pending",
+      "title": "Picktown Showdown - A Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_66909a0c5bdde6c3b2",
+      "location": "Roswell, GA",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-04-23",
+      "state": "GA",
+      "status": "pending",
+      "title": "Battle Ground Atlanta - A Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_e7533b395079ac6570",
+      "location": "Ponchatoula, LA",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-04-24",
+      "state": "LA",
+      "status": "pending",
+      "title": "Inspired Martial Arts Regional Championship - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "Organizer listing; sanction unverified",
+      "discovered_by": [
+        "worldsc_discovery"
+      ],
+      "id": "candidate_0fa5f5281a74b0de50",
+      "location": "San Jose Convention Center – South Hall · 435 S Market Street, San Jose, CA 95113",
+      "source_url": "https://worldscusa.com/",
+      "start_date": "2026-11-07",
+      "state": "CA",
+      "status": "pending",
+      "title": "Korea National Assembly President’s Cup U.S. Taekwondo Championship",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "Organizer listing; sanction unverified",
+      "discovered_by": [
+        "worldsc_discovery"
+      ],
+      "id": "candidate_49eb43b9c9343cd4bb",
+      "location": "Independence High School · San Jose, CA",
+      "source_url": "https://worldscusa.com/",
+      "start_date": "2027-01-30",
+      "state": "CA",
+      "status": "pending",
+      "title": "USA Dream Open Taekwondo Hanmadang Festival Championships",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "Organizer listing; sanction unverified",
+      "discovered_by": [
+        "worldsc_discovery"
+      ],
+      "id": "candidate_0d0053260aa1450067",
+      "location": "",
+      "source_url": "https://worldscusa.com/",
+      "start_date": "2027-02-13",
+      "state": "",
+      "status": "pending",
+      "title": "2027 AAU Taekwondo Arizona State Championship",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "Organizer listing; sanction unverified",
+      "discovered_by": [
+        "worldsc_discovery"
+      ],
+      "id": "candidate_6227fe5bbcd0b7b572",
+      "location": "Watsonville High School · 250 E. Beach St, Watsonville, CA 95076",
+      "source_url": "https://worldscusa.com/",
+      "start_date": "2027-03-13",
+      "state": "CA",
+      "status": "pending",
+      "title": "33rd Annual Santa Cruz Open Tae Kwon Do Championship",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "Organizer listing; sanction unverified",
+      "discovered_by": [
+        "worldsc_discovery"
+      ],
+      "id": "candidate_9b8072d56926cc7483",
+      "location": "San Jose, CA",
+      "source_url": "https://worldscusa.com/",
+      "start_date": "2027-05-22",
+      "state": "CA",
+      "status": "pending",
+      "title": "World Sport Elite Open Taekwondo Championship",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "Listed in AAU official 2026-2027 licensed directory; AAU Region 1; reported April 10 (year to confirm)",
+      "discovered_by": [
+        "aau_licensed_directory"
+      ],
+      "id": "candidate_ba7905223c962cfb06",
+      "location": "",
+      "source_url": "https://aausports.org/taekwondo/2024-25-season-licensed-events",
+      "start_date": "",
+      "state": "",
+      "status": "pending",
+      "title": "2027 New England District Qualifier",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "Listed in AAU official 2026-2027 licensed directory; AAU Region 5; reported May 1 (year to confirm)",
+      "discovered_by": [
+        "aau_licensed_directory"
+      ],
+      "id": "candidate_b33088e2d5fde6b996",
+      "location": "",
+      "source_url": "https://aausports.org/taekwondo/2024-25-season-licensed-events",
+      "start_date": "",
+      "state": "",
+      "status": "pending",
+      "title": "Indiana District Qualifier",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "Listed in AAU official 2026-2027 licensed directory; AAU Region 8; reported November 7 (year to confirm)",
+      "discovered_by": [
+        "aau_licensed_directory"
+      ],
+      "id": "candidate_1869527c706cc615ca",
+      "location": "",
+      "source_url": "https://aausports.org/taekwondo/2024-25-season-licensed-events",
+      "start_date": "",
+      "state": "",
+      "status": "pending",
+      "title": "Southwestern District Championship",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "Listed in AAU official 2026-2027 licensed directory; AAU Region 8; reported April 3 (year to confirm)",
+      "discovered_by": [
+        "aau_licensed_directory"
+      ],
+      "id": "candidate_7562f99736bf0a109c",
+      "location": "",
+      "source_url": "https://aausports.org/taekwondo/2024-25-season-licensed-events",
+      "start_date": "",
+      "state": "",
+      "status": "pending",
+      "title": "2027 Gulf District Championship",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "Listed in AAU official 2026-2027 licensed directory; AAU Region 11; reported April 10 (year to confirm)",
+      "discovered_by": [
+        "aau_licensed_directory"
+      ],
+      "id": "candidate_6669f45250d2ccd395",
+      "location": "",
+      "source_url": "https://aausports.org/taekwondo/2024-25-season-licensed-events",
+      "start_date": "",
+      "state": "",
+      "status": "pending",
+      "title": "Pacific Northwest District Championship",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "Taekwondo America association; membership and open entry unverified",
+      "discovered_by": [
+        "taekwondo_america_nationals"
+      ],
+      "id": "candidate_9821bd2b107a63b344",
+      "location": "Covington, KY",
+      "source_url": "https://taekwondoamerica.org/upcoming-events/",
+      "start_date": "2027-01-22",
+      "state": "KY",
+      "status": "pending",
+      "title": "2027 Taekwondo America National Tournament",
+      "year": 2027
     }
   ],
   "counts": {
-    "pending": 4,
-    "total": 4
+    "pending": 65,
+    "total": 65
   },
   "notice": "DISCOVERY ONLY: not verified, graded or included in ICS.",
   "schema_version": 1
