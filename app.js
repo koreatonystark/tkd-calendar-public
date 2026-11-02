@@ -239,8 +239,12 @@ async function renderPublicGoogleCalendars(){
   try{const response=await fetch('./google-calendars.json',{cache:'no-store'});if(response.ok)data=await response.json()}catch(e){}
   if(!data?.calendars?.length){el.innerHTML='<p class="worker-help">운영자 Google 계정에 공개 캘린더를 생성·연결하면 S/A/B 구독 링크가 여기에 자동 표시됩니다. 현재는 아래 ICS 구독을 사용하세요.</p>';return;}
   el.innerHTML=data.calendars.map(cal=>{
-    const url='https://calendar.google.com/calendar/u/0/r?cid='+encodeURIComponent(cal.calendar_id);
-    return `<div class="feed-item"><div class="feed-top"><b>${esc(cal.name)}</b></div><div class="feed-sub">${esc(cal.tier)}급 구독 · 공개 일정/예정일 포함 · 대회 메모에서 상세 링크 열기</div><div class="feed-actions"><a href="${esc(url)}" target="_blank" rel="noopener noreferrer">Google Calendar에 추가 ↗</a></div></div>`;
+    // cid expects a Google calendar ID, not an external ICS URL.
+    // Google often uses base64 in its official 'Get shareable link'.
+    // Do not force /u/0: subscribers may use a different Google account.
+    const cid=btoa(cal.calendar_id).replace(/=+$/,'');
+    const url='https://calendar.google.com/calendar?cid='+encodeURIComponent(cid);
+    return `<div class="feed-item"><div class="feed-top"><b>${esc(cal.name)}</b></div><div class="feed-sub">${esc(cal.tier)} 전용 · 공개 일정/예정일 포함 · 대회 메모에서 상세 링크 열기</div><div class="feed-actions"><a href="${esc(url)}" target="_blank" rel="noopener noreferrer">Google Calendar에 추가 ↗</a></div></div>`;
   }).join('')+'<p class="worker-help">International/S/A/B/ETC/Small은 상호 배타적입니다. All은 Small을 제외한 주요대회 통합 피드입니다.</p>';
 }
 function renderSources(){

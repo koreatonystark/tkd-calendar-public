@@ -24,7 +24,7 @@
   },
   "coverage": {
     "configured_sources": 18,
-    "last_online_refresh": true,
+    "last_online_refresh": false,
     "missing_metadata": {
       "age_eligibility": 5,
       "belt_eligibility": 5,
@@ -42,24 +42,7 @@
     "pending": 66,
     "total": 66
   },
-  "run": {
-    "candidates_found": 1,
-    "candidates_updated": 0,
-    "errors": 0,
-    "metadata": {
-      "changed": 0,
-      "checked": 32,
-      "failed": 0,
-      "pending_review": 0,
-      "skipped": 0,
-      "unchanged": 32
-    },
-    "new_events": 0,
-    "not_modified": 0,
-    "parsed": 12,
-    "skipped": 0,
-    "updated_events": 0
-  },
+  "run": {},
   "sources": {
     "aau_future": {
       "cadence_days": 1,
@@ -320,5 +303,5 @@
       "url": "https://worldscusa.com/"
     }
   },
-  "updated_at": "2026-11-02T03:35:38Z"
+  "updated_at": "2026-11-02T04:54:22Z"
 }

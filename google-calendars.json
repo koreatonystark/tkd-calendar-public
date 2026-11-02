@@ -1,5 +1,36 @@
 {
-  "calendars": [],
-  "configured": false,
+  "calendars": [
+    {
+      "calendar_id": "61cd5f347b5395fcd8262b264484c798f5f370c4bb5763f6d07c7d9ead747776@group.calendar.google.com",
+      "name": "TKD S",
+      "tier": "S"
+    },
+    {
+      "calendar_id": "91702e79670209286436a084c514031eddd3b51f38d622fef712287df7327278@group.calendar.google.com",
+      "name": "TKD A",
+      "tier": "A"
+    },
+    {
+      "calendar_id": "0bfacd8fec1f7a31c893ee3aa9e07b5c307424441411e241a677c41b93c1e93e@group.calendar.google.com",
+      "name": "TKD B",
+      "tier": "B"
+    },
+    {
+      "calendar_id": "396f71965fef44d14cd5768e8d1558d544a536faec99ca1d0b300130391316f8@group.calendar.google.com",
+      "name": "TKD ETC",
+      "tier": "ETC"
+    },
+    {
+      "calendar_id": "91702e79670209286436a084c514031eddd3b51f38d622fef712287df7327278@group.calendar.google.com",
+      "name": "TKD Small",
+      "tier": "SMALL"
+    },
+    {
+      "calendar_id": "c854752b1498ad227178b17737acc5d49259cacc62188f3b9ee433b5a5780e9a@group.calendar.google.com",
+      "name": "TKD International",
+      "tier": "INTERNATIONAL"
+    }
+  ],
+  "configured": true,
   "notice": "Google publication is only active after the owner has made each calendar public and shared event-edit access with the service account."
 }
