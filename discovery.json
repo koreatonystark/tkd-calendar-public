@@ -923,11 +923,39 @@
       "status": "pending",
       "title": "2026 Champions Open",
       "year": 2026
+    },
+    {
+      "affiliation_claim": "not verified",
+      "discovered_by": [
+        "tourneyreg_discovery"
+      ],
+      "id": "candidate_acc4e80d82db9cf844",
+      "location": "",
+      "source_url": "https://www.tourneyreg.net/",
+      "start_date": "2026-12-05",
+      "state": "",
+      "status": "pending",
+      "title": "2026 Infinity Open Taekwondo Championship",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "not verified",
+      "discovered_by": [
+        "tourneyreg_discovery"
+      ],
+      "id": "candidate_8d575e4e30c874c18a",
+      "location": "",
+      "source_url": "https://www.tourneyreg.net/",
+      "start_date": "2027-01-30",
+      "state": "",
+      "status": "pending",
+      "title": "NCTA Varsity TKD New Jersey State Championships",
+      "year": 2027
     }
   ],
   "counts": {
-    "pending": 66,
-    "total": 66
+    "pending": 68,
+    "total": 68
   },
   "notice": "DISCOVERY ONLY: not verified, graded or included in ICS.",
   "schema_version": 1
