@@ -524,7 +524,7 @@
         "ata_signup_discovery"
       ],
       "id": "candidate_84f3cf9ab123429497",
-      "location": "Lebanon , MO",
+      "location": "Lebanon, MO",
       "source_url": "https://www.ataezsignup.com/tournaments/all/",
       "start_date": "2027-02-26",
       "state": "MO",
@@ -951,11 +951,39 @@
       "status": "pending",
       "title": "NCTA Varsity TKD New Jersey State Championships",
       "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_f5799fa60e2a24e83f",
+      "location": "San Diego, CA",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-01-29",
+      "state": "CA",
+      "status": "pending",
+      "title": "Region 103A - (San Diego, CA) Class A Tournament Series - A Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_5991fbaac42c52f06f",
+      "location": "Idaho Falls, ID",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-04-09",
+      "state": "ID",
+      "status": "pending",
+      "title": "Battle at the Falls 2027 - B Regional",
+      "year": 2027
     }
   ],
   "counts": {
-    "pending": 68,
-    "total": 68
+    "pending": 70,
+    "total": 70
   },
   "notice": "DISCOVERY ONLY: not verified, graded or included in ICS.",
   "schema_version": 1
