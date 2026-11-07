@@ -979,11 +979,25 @@
       "status": "pending",
       "title": "Battle at the Falls 2027 - B Regional",
       "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_09a4461cfc2266a0cb",
+      "location": "Henderson, NV",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-02-19",
+      "state": "NV",
+      "status": "pending",
+      "title": "Region 103B-(Las Vegas, NV) Class A Tournament Series - A Regional",
+      "year": 2027
     }
   ],
   "counts": {
-    "pending": 70,
-    "total": 70
+    "pending": 71,
+    "total": 71
   },
   "notice": "DISCOVERY ONLY: not verified, graded or included in ICS.",
   "schema_version": 1

@@ -18,7 +18,7 @@
     "NE": 1,
     "NH": 1,
     "NJ": 2,
-    "NV": 2,
+    "NV": 3,
     "OH": 1,
     "OR": 1,
     "PA": 4,
@@ -84,7 +84,7 @@
   "nationwide_complete": false,
   "next_steps": "Review candidate sanction/ranking/eligibility; add AAU district and regional published feeds and state organizer sources; maintain manual intake for poster-only events.",
   "observed_sab_competitions": 141,
-  "review_candidates": 70,
+  "review_candidates": 71,
   "sources_configured": 18,
   "states_with_no_confirmed_record": [
     "AL",

@@ -39,8 +39,8 @@
     "observed_states": 39
   },
   "discovery": {
-    "pending": 70,
-    "total": 70
+    "pending": 71,
+    "total": 71
   },
   "events": [
     {
@@ -16349,15 +16349,15 @@
     "aau_future": {
       "cadence_days": 1,
       "etag": "",
-      "last_checked": "2026-11-05T20:06:44Z",
+      "last_checked": "2026-11-07T17:46:59Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-05T20:06:44Z",
+      "last_success": "2026-11-07T17:46:59Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "AAU Taekwondo - future national events",
-      "page_sha256": "29217fd34d6d8a8309d6897f862b023022763acbca23dc748ddb623eecb7a1e3",
+      "page_sha256": "7d319bb882d30338b59986a5ab16dc59c85b0ac44dfe554b82a0442ab85f65a9",
       "records": 8,
       "status": "ok",
       "url": "https://aausports.org/taekwondo/future-dates/"
@@ -16365,15 +16365,15 @@
     "aau_licensed_directory": {
       "cadence_days": 2,
       "etag": "",
-      "last_checked": "2026-11-04T19:53:36Z",
+      "last_checked": "2026-11-07T17:46:59Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-04T19:53:36Z",
+      "last_success": "2026-11-07T17:46:59Z",
       "message": "Page changed, event data identical",
       "mode": "discovery",
       "name": "AAU official licensed competitions across Regions 1-15",
-      "page_sha256": "2807f6976e426d381b78ec949bc8b2855a6c98b34e2d6b79e43ce663662265fd",
+      "page_sha256": "5ee364cf18de899b276309ae17cf9c568c1b8212edfaca292c7d5212db2e832d",
       "records": 5,
       "status": "ok",
       "url": "https://aausports.org/taekwondo/2024-25-season-licensed-events"
@@ -16408,16 +16408,16 @@
     "ata_signup_discovery": {
       "cadence_days": 2,
       "etag": "",
-      "last_checked": "2026-11-04T19:53:36Z",
+      "last_checked": "2026-11-07T17:46:59Z",
       "last_http_status": 200,
       "last_modified": "",
-      "last_semantic_change": "2026-11-04T19:53:36Z",
-      "last_success": "2026-11-04T19:53:36Z",
+      "last_semantic_change": "2026-11-07T17:46:59Z",
+      "last_success": "2026-11-07T17:46:59Z",
       "message": "Parsed updated source",
       "mode": "discovery",
       "name": "ATA EZ Signup - nationwide ATA regionals and nationals",
-      "page_sha256": "9ba5b1eccae572238867c74ba57d6b21d4f8297126b84ec3bd1494e62439e9e7",
-      "records": 44,
+      "page_sha256": "7bad8a6df64a8579877a1a9ae8f31104fd7abc56f23dca119dbf5dd18ab5c870",
+      "records": 45,
       "status": "ok",
       "url": "https://www.ataezsignup.com/tournaments/all/"
     },
@@ -16439,7 +16439,7 @@
     },
     "cma_events": {
       "cadence_days": 1,
-      "last_checked": "2026-11-05T20:06:44Z",
+      "last_checked": "2026-11-07T17:46:59Z",
       "last_http_status": 200,
       "message": "No parsed event; previous records preserved.",
       "mode": "events",
@@ -16450,12 +16450,12 @@
     },
     "cma_grafton": {
       "cadence_days": 1,
-      "last_checked": "2026-11-05T20:06:44Z",
+      "last_checked": "2026-11-07T17:46:59Z",
       "last_http_status": 200,
       "message": "No parsed event; previous records preserved.",
       "mode": "events",
       "name": "CMA Grafton - public Nationals tournament notices",
-      "page_sha256": "9f8bf16c05d1aa7f01ef799eacac5843e3d04d11d29e1313f04282097ed08e11",
+      "page_sha256": "c84e665b32b6f41319dfce877605f01a22f6723513749bc1e1ce453a5acaaf7c",
       "status": "no_structured_events",
       "url": "https://cmagrafton.com/updates/"
     },
@@ -16543,11 +16543,11 @@
     "tourneyreg_discovery": {
       "cadence_days": 1,
       "etag": "",
-      "last_checked": "2026-11-05T20:06:44Z",
+      "last_checked": "2026-11-07T17:46:59Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-03T19:38:34Z",
-      "last_success": "2026-11-05T20:06:44Z",
+      "last_success": "2026-11-07T17:46:59Z",
       "message": "Content hash unchanged; parser skipped.",
       "mode": "discovery",
       "name": "TourneyReg - nationwide competition registration index",
@@ -16558,32 +16558,32 @@
     },
     "usatkd_calendar": {
       "cadence_days": 1,
-      "etag": "W/\"641a7-8zncFM38VZ65JA/ukgOL/duiTTM\"",
-      "last_checked": "2026-11-05T20:06:44Z",
+      "etag": "W/\"641a7-uIsPTG/bz7if8Dr4FHE8RDjjCW4\"",
+      "last_checked": "2026-11-07T17:46:59Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-05T20:06:44Z",
+      "last_success": "2026-11-07T17:46:59Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "USA Taekwondo - event and training calendar",
-      "page_sha256": "952dfccd30d4a7baa65653a3c769eb9681b4f1c7699c33b9971e1078c853e436",
+      "page_sha256": "58c8445d1827144aa11f63ce6e3928e0e383c64317284cdba89aabd5f58cf2f0",
       "records": 15,
       "status": "ok",
       "url": "https://www.usatkd.org/calendar"
     },
     "usatkd_season": {
       "cadence_days": 1,
-      "etag": "W/\"4c99a-+sxFTwzWEt1wUuKNUYP7zDfXYqY\"",
-      "last_checked": "2026-11-05T20:06:44Z",
+      "etag": "W/\"4c99a-Ypw260FKv9Xf6viKuIj5tYvHY+U\"",
+      "last_checked": "2026-11-07T17:46:59Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-05T20:06:44Z",
+      "last_success": "2026-11-07T17:46:59Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "USA Taekwondo - season overview",
-      "page_sha256": "154c683d4e71d69dbe0f3bd07d55b0675f6c3e7435fe0de59f1fb45d76dd7710",
+      "page_sha256": "978217742214694c48cf2dfd3008fc67940efc54700487a18f1fe42098431052",
       "records": 6,
       "status": "ok",
       "url": "https://www.usatkd.org/2027-usa-taekwondo-competition-season"
@@ -16605,5 +16605,5 @@
       "url": "https://worldscusa.com/"
     }
   },
-  "updated_at": "2026-11-06T19:31:49Z"
+  "updated_at": "2026-11-07T17:47:07Z"
 }
