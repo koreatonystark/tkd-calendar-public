@@ -1,10 +1,10 @@
 {
   "conflicts": 0,
   "counts": {
-    "a": 40,
+    "a": 41,
     "b": 51,
     "calendar_buckets": {
-      "A": 40,
+      "A": 41,
       "B": 51,
       "ETC": 28,
       "INTERNATIONAL": 11,
@@ -15,10 +15,10 @@
     "dated": 108,
     "etc": 28,
     "international": 11,
-    "master": 148,
-    "predicted": 19,
+    "master": 149,
+    "predicted": 20,
     "s": 11,
-    "sab": 141,
+    "sab": 142,
     "small": 1,
     "tbd": 21
   },
@@ -43,7 +43,7 @@
     "total": 71
   },
   "run": {
-    "candidates_found": 1,
+    "candidates_found": 0,
     "candidates_updated": 0,
     "errors": 0,
     "metadata": {
@@ -55,24 +55,24 @@
       "unchanged": 0
     },
     "new_events": 0,
-    "not_modified": 1,
-    "parsed": 1,
-    "skipped": 10,
+    "not_modified": 0,
+    "parsed": 0,
+    "skipped": 12,
     "updated_events": 0
   },
   "sources": {
     "aau_future": {
       "cadence_days": 1,
       "etag": "",
-      "last_checked": "2026-11-07T17:46:59Z",
+      "last_checked": "2026-11-08T17:58:36Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-07T17:46:59Z",
+      "last_success": "2026-11-08T17:58:36Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "AAU Taekwondo - future national events",
-      "page_sha256": "7d319bb882d30338b59986a5ab16dc59c85b0ac44dfe554b82a0442ab85f65a9",
+      "page_sha256": "f69c0bc7472a12db9e39010b0be10a6a7a37a61030a2392c6da74c4f92281716",
       "records": 8,
       "status": "ok",
       "url": "https://aausports.org/taekwondo/future-dates/"
@@ -154,7 +154,7 @@
     },
     "cma_events": {
       "cadence_days": 1,
-      "last_checked": "2026-11-07T17:46:59Z",
+      "last_checked": "2026-11-08T17:58:36Z",
       "last_http_status": 200,
       "message": "No parsed event; previous records preserved.",
       "mode": "events",
@@ -165,7 +165,7 @@
     },
     "cma_grafton": {
       "cadence_days": 1,
-      "last_checked": "2026-11-07T17:46:59Z",
+      "last_checked": "2026-11-08T17:58:36Z",
       "last_http_status": 200,
       "message": "No parsed event; previous records preserved.",
       "mode": "events",
@@ -258,47 +258,47 @@
     "tourneyreg_discovery": {
       "cadence_days": 1,
       "etag": "",
-      "last_checked": "2026-11-07T17:46:59Z",
+      "last_checked": "2026-11-08T17:58:36Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-03T19:38:34Z",
-      "last_success": "2026-11-07T17:46:59Z",
-      "message": "Content hash unchanged; parser skipped.",
+      "last_success": "2026-11-08T17:58:36Z",
+      "message": "Page changed, event data identical",
       "mode": "discovery",
       "name": "TourneyReg - nationwide competition registration index",
-      "page_sha256": "c8eecb983d36f70edf8116b8a5ac6f66398a014971b95d07995160cb70ee978f",
+      "page_sha256": "c609ff96d4fe0e052c356e7610a5e0960ae303efdb229c56e311d10ded681c48",
       "records": 9,
-      "status": "not_modified",
+      "status": "ok",
       "url": "https://www.tourneyreg.net/"
     },
     "usatkd_calendar": {
       "cadence_days": 1,
-      "etag": "W/\"641a7-uIsPTG/bz7if8Dr4FHE8RDjjCW4\"",
-      "last_checked": "2026-11-07T17:46:59Z",
+      "etag": "W/\"640b3-FLhNIgNtJuzvhS4ahLcbZdanCaQ\"",
+      "last_checked": "2026-11-08T17:58:36Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-07T17:46:59Z",
+      "last_success": "2026-11-08T17:58:36Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "USA Taekwondo - event and training calendar",
-      "page_sha256": "58c8445d1827144aa11f63ce6e3928e0e383c64317284cdba89aabd5f58cf2f0",
+      "page_sha256": "936430434437d688d725f87eb9fd12d21df491bd836e492698abbd6226922672",
       "records": 15,
       "status": "ok",
       "url": "https://www.usatkd.org/calendar"
     },
     "usatkd_season": {
       "cadence_days": 1,
-      "etag": "W/\"4c99a-Ypw260FKv9Xf6viKuIj5tYvHY+U\"",
-      "last_checked": "2026-11-07T17:46:59Z",
+      "etag": "W/\"4c99a-/EOshmp51ZlRAFCauSffyOofXYM\"",
+      "last_checked": "2026-11-08T17:58:36Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-07T17:46:59Z",
+      "last_success": "2026-11-08T17:58:36Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "USA Taekwondo - season overview",
-      "page_sha256": "978217742214694c48cf2dfd3008fc67940efc54700487a18f1fe42098431052",
+      "page_sha256": "1c3c09359b4d7fc29e8f11a68d3ace76be84621349b346fc2d60d0ccab239596",
       "records": 6,
       "status": "ok",
       "url": "https://www.usatkd.org/2027-usa-taekwondo-competition-season"
@@ -320,5 +320,5 @@
       "url": "https://worldscusa.com/"
     }
   },
-  "updated_at": "2026-11-07T17:47:07Z"
+  "updated_at": "2026-11-08T17:58:41Z"
 }
