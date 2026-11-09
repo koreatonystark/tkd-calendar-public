@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-08",
+  "as_of": "2026-11-09",
   "configured_automated_sources": 18,
   "confirmed_upcoming_by_state": {
     "AR": 1,
@@ -55,7 +55,7 @@
   "sab_unknown_day_upcoming": 6,
   "sab_upcoming_including_tbd": 60,
   "snapshot_checked_on": "2026-10-31",
-  "total_master_events": 149,
+  "total_master_events": 150,
   "upcoming_by_grade": {
     "A": 22,
     "B": 19,

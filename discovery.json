@@ -993,11 +993,25 @@
       "status": "pending",
       "title": "Region 103B-(Las Vegas, NV) Class A Tournament Series - A Regional",
       "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_efd9836e36bfd7adf6",
+      "location": "Glendale, AZ",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-01-09",
+      "state": "AZ",
+      "status": "pending",
+      "title": "ARIZONA KICKOFF - B Regional",
+      "year": 2027
     }
   ],
   "counts": {
-    "pending": 71,
-    "total": 71
+    "pending": 72,
+    "total": 72
   },
   "notice": "DISCOVERY ONLY: not verified, graded or included in ICS.",
   "schema_version": 1

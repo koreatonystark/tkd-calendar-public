@@ -95,4 +95,26 @@ URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_e7d4246
  0542f490eae.html
 X-TKD-DETAIL-PATH:events/evt_e7d42460542f490eae.html
 END:VEVENT
+BEGIN:VEVENT
+UID:evt_1a96abe1573282aab0@tkd-calendar.local
+DTSTAMP:20261109T223028Z
+LAST-MODIFIED:20261109T223028Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270215
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+SUMMARY:[TKD C] LEVEL UP SPARRING CAMP
+X-TKD-CALENDAR-BUCKET:UNCLASSIFIED
+LOCATION:Chatsworth\, CA
+DESCRIPTION:Status: Official event date confirmed\nTKD Hub importance: C (e
+ ditorial\, not federation grade)\nOrganizer: USATKD\nIdentity/entry: USATK
+ D 회원 등록\; 벨트 옐로 이상\, 성인 SafeSport\nVenue: City/sta
+ te only\; exact address unconfirmed\nFULL DETAILS / ENTRY / EVIDENCE: http
+ s://koreatonystark.github.io/tkd-calendar-public/events/evt_1a96abe1573282
+ aab0.html\nConfirm official entry rules before booking travel.
+URL:https://koreatonystark.github.io/tkd-calendar-public/events/evt_1a96abe
+ 1573282aab0.html
+X-TKD-DETAIL-PATH:events/evt_1a96abe1573282aab0.html
+END:VEVENT
 END:VCALENDAR

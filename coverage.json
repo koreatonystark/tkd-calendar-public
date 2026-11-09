@@ -2,7 +2,7 @@
   "candidate_states": {
     "AL": 1,
     "AR": 2,
-    "AZ": 2,
+    "AZ": 3,
     "CA": 7,
     "CO": 1,
     "FL": 4,
@@ -84,7 +84,7 @@
   "nationwide_complete": false,
   "next_steps": "Review candidate sanction/ranking/eligibility; add AAU district and regional published feeds and state organizer sources; maintain manual intake for poster-only events.",
   "observed_sab_competitions": 142,
-  "review_candidates": 71,
+  "review_candidates": 72,
   "sources_configured": 18,
   "states_with_no_confirmed_record": [
     "AL",
