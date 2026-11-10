@@ -43,21 +43,21 @@
     "total": 72
   },
   "run": {
-    "candidates_found": 1,
+    "candidates_found": 0,
     "candidates_updated": 0,
-    "errors": 1,
+    "errors": 0,
     "metadata": {
-      "changed": 2,
-      "checked": 3,
-      "failed": 1,
+      "changed": 0,
+      "checked": 0,
+      "failed": 0,
       "pending_review": 2,
-      "skipped": 28,
-      "unchanged": 1
+      "skipped": 32,
+      "unchanged": 0
     },
-    "new_events": 1,
-    "not_modified": 2,
-    "parsed": 3,
-    "skipped": 0,
+    "new_events": 0,
+    "not_modified": 0,
+    "parsed": 0,
+    "skipped": 18,
     "updated_events": 0
   },
   "sources": {
@@ -320,5 +320,5 @@
       "url": "https://worldscusa.com/"
     }
   },
-  "updated_at": "2026-11-09T22:31:02Z"
+  "updated_at": "2026-11-10T19:51:50Z"
 }
