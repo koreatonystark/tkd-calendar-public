@@ -1007,11 +1007,67 @@
       "status": "pending",
       "title": "ARIZONA KICKOFF - B Regional",
       "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_f1448bd65696a0aa9a",
+      "location": "Little Rock, AR",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-12-04",
+      "state": "AR",
+      "status": "pending",
+      "title": "HU Lee Classic-Regular Registration - Class APlus",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_0a6908fdb5da589c50",
+      "location": "Frankfort, KY",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-01-23",
+      "state": "KY",
+      "status": "pending",
+      "title": "TIME TO GET KICKING - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_2e6c29412907bd0bee",
+      "location": "Brownsburg, IN",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-03-06",
+      "state": "IN",
+      "status": "pending",
+      "title": "Legendary Showdown - B Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_8861d6138991210404",
+      "location": "Windsor, CO",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-04-02",
+      "state": "CO",
+      "status": "pending",
+      "title": "Colorado Clash - B Regional",
+      "year": 2027
     }
   ],
   "counts": {
-    "pending": 72,
-    "total": 72
+    "pending": 76,
+    "total": 76
   },
   "notice": "DISCOVERY ONLY: not verified, graded or included in ICS.",
   "schema_version": 1
