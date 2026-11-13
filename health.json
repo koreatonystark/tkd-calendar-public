@@ -43,7 +43,7 @@
     "total": 76
   },
   "run": {
-    "candidates_found": 4,
+    "candidates_found": 0,
     "candidates_updated": 0,
     "errors": 0,
     "metadata": {
@@ -55,8 +55,8 @@
       "unchanged": 0
     },
     "new_events": 0,
-    "not_modified": 0,
-    "parsed": 2,
+    "not_modified": 1,
+    "parsed": 0,
     "skipped": 10,
     "updated_events": 0
   },
@@ -95,27 +95,27 @@
     },
     "ata_class_a": {
       "cadence_days": 3,
-      "last_checked": "2026-11-09T22:30:28Z",
+      "last_checked": "2026-11-13T19:52:17Z",
       "last_http_status": 200,
       "message": "No parsed event; previous records preserved.",
       "mode": "events",
       "name": "ATA ranked Class A regional schedule (all US states)",
-      "page_sha256": "4f58eb4fe3ff5cac47d17fd7dd5824c37d12ec4c80665d96c78863389d34b0b8",
+      "page_sha256": "573fe7195dfce2786a7c6ba1d2601e119997cf98a1d923bd98d8a9c69e110458",
       "status": "no_structured_events",
       "url": "https://atamartialarts.com/events/event-schedule/"
     },
     "ata_schedule": {
       "cadence_days": 3,
       "etag": "",
-      "last_checked": "2026-11-09T22:30:28Z",
+      "last_checked": "2026-11-13T19:52:17Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-09T22:30:28Z",
+      "last_success": "2026-11-13T19:52:17Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "ATA Martial Arts - national events",
-      "page_sha256": "4f58eb4fe3ff5cac47d17fd7dd5824c37d12ec4c80665d96c78863389d34b0b8",
+      "page_sha256": "573fe7195dfce2786a7c6ba1d2601e119997cf98a1d923bd98d8a9c69e110458",
       "records": 7,
       "status": "ok",
       "url": "https://atamartialarts.com/events/event-schedule/"
@@ -139,11 +139,11 @@
     "cma_champions_open": {
       "cadence_days": 3,
       "etag": "",
-      "last_checked": "2026-11-09T22:30:28Z",
+      "last_checked": "2026-11-13T19:52:17Z",
       "last_http_status": 200,
       "last_modified": "Sun, 01 Nov 2026 19:24:19 GMT",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-09T22:30:28Z",
+      "last_success": "2026-11-13T19:52:17Z",
       "message": "Content hash unchanged; parser skipped.",
       "mode": "discovery",
       "name": "CMA Champions Open - tournament announcements/posters",
@@ -177,38 +177,38 @@
     "itf_championships": {
       "cadence_days": 3,
       "etag": "",
-      "last_checked": "2026-11-09T22:30:28Z",
+      "last_checked": "2026-11-13T19:52:17Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-09T22:30:28Z",
+      "last_success": "2026-11-13T19:52:17Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "ITF - official championships",
-      "page_sha256": "97da0ef7e37db8dfadfa1c6e2b00bd1b629fda1aded7ba9d8586da708ba85edf",
+      "page_sha256": "4b949f96f0a1f6782bc8a456cb34e01916bd84c61f4e4b0c25d2a2077d757bff",
       "records": 1,
       "status": "ok",
       "url": "https://itftkd.sport/events/category/championships/"
     },
     "itf_usa_discovery": {
       "cadence_days": 3,
-      "last_checked": "2026-11-09T22:30:28Z",
+      "last_checked": "2026-11-13T19:52:17Z",
       "last_http_status": 200,
       "message": "No parsed event; previous records preserved.",
       "mode": "discovery",
       "name": "ITF - US federation events directory",
-      "page_sha256": "07972615b732f81ea97b646157430f38e025e83b8e7e087ab242a19873281ad3",
+      "page_sha256": "59c517c50071e07bf83a21c86f58afbe3c10cb928b822f21e5b46b96ed782520",
       "status": "no_structured_events",
       "url": "https://itf-tkd.org/events/current/"
     },
     "kihapp_usa_discovery": {
       "cadence_days": 3,
-      "last_checked": "2026-11-09T22:30:28Z",
+      "last_checked": "2026-11-13T19:52:17Z",
       "last_http_status": 200,
       "message": "No parsed event; previous records preserved.",
       "mode": "discovery",
       "name": "Kihapp - US Taekwon-Do events (ITF or related)",
-      "page_sha256": "483091b48eaa4f736cafcd5b763162fcf4d1ed267de7b8889e3fcd6451f6ea7e",
+      "page_sha256": "741a445165bec06e6943460fb3c848b66515be8ad3c2cd1321320d165cd83518",
       "status": "no_structured_events",
       "url": "https://www.kihapp.com/arts/1/tournaments?country=United+States"
     },
@@ -230,7 +230,7 @@
     },
     "ny_open_info": {
       "cadence_days": 3,
-      "last_checked": "2026-11-09T22:30:28Z",
+      "last_checked": "2026-11-13T19:52:17Z",
       "last_http_status": 200,
       "message": "No parsed event; previous records preserved.",
       "mode": "events",
@@ -306,19 +306,19 @@
     "worldsc_discovery": {
       "cadence_days": 3,
       "etag": "",
-      "last_checked": "2026-11-09T22:30:28Z",
+      "last_checked": "2026-11-13T19:52:17Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-09T22:30:28Z",
-      "last_success": "2026-11-09T22:30:28Z",
-      "message": "Parsed updated source",
+      "last_success": "2026-11-13T19:52:17Z",
+      "message": "Page changed, event data identical",
       "mode": "discovery",
       "name": "World Sport Committee USA - community open listings",
-      "page_sha256": "a9357188e54f6aa2659d1e3cd38b8fb7ceefe75a95fa155a187e72e1a435d263",
+      "page_sha256": "ac1bb1e8c1d8c52d7a01f3e7aa4b8d7e55ef492d791ade14068d1921458176c0",
       "records": 4,
       "status": "ok",
       "url": "https://worldscusa.com/"
     }
   },
-  "updated_at": "2026-11-12T20:08:07Z"
+  "updated_at": "2026-11-13T19:52:25Z"
 }
