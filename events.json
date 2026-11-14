@@ -16577,15 +16577,15 @@
     "aau_future": {
       "cadence_days": 1,
       "etag": "",
-      "last_checked": "2026-11-12T20:07:58Z",
+      "last_checked": "2026-11-14T18:17:44Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-12T20:07:58Z",
+      "last_success": "2026-11-14T18:17:44Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "AAU Taekwondo - future national events",
-      "page_sha256": "972fc7c5e704aef6d096bce68836da16d18a560178269abdb5982ae531a48149",
+      "page_sha256": "88f282aefa1ba7d69b7d30068ca77d8c4f4fe9ae8f1e4202ad8aa5c83b3792ca",
       "records": 8,
       "status": "ok",
       "url": "https://aausports.org/taekwondo/future-dates/"
@@ -16667,7 +16667,7 @@
     },
     "cma_events": {
       "cadence_days": 1,
-      "last_checked": "2026-11-12T20:07:58Z",
+      "last_checked": "2026-11-14T18:17:44Z",
       "last_http_status": 200,
       "message": "No parsed event; previous records preserved.",
       "mode": "events",
@@ -16678,7 +16678,7 @@
     },
     "cma_grafton": {
       "cadence_days": 1,
-      "last_checked": "2026-11-12T20:07:58Z",
+      "last_checked": "2026-11-14T18:17:44Z",
       "last_http_status": 200,
       "message": "No parsed event; previous records preserved.",
       "mode": "events",
@@ -16771,47 +16771,47 @@
     "tourneyreg_discovery": {
       "cadence_days": 1,
       "etag": "",
-      "last_checked": "2026-11-12T20:07:58Z",
+      "last_checked": "2026-11-14T18:17:44Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-12T20:07:58Z",
-      "last_success": "2026-11-12T20:07:58Z",
-      "message": "Parsed updated source",
+      "last_success": "2026-11-14T18:17:44Z",
+      "message": "Content hash unchanged; parser skipped.",
       "mode": "discovery",
       "name": "TourneyReg - nationwide competition registration index",
       "page_sha256": "0b1ee1ae863ad20924f78606a3a75511b5444cfb87beb421d43e83666a8836d5",
       "records": 8,
-      "status": "ok",
+      "status": "not_modified",
       "url": "https://www.tourneyreg.net/"
     },
     "usatkd_calendar": {
       "cadence_days": 1,
-      "etag": "W/\"64085-riTF1jo3r6F5OBsmAzd2U9IpvZc\"",
-      "last_checked": "2026-11-12T20:07:58Z",
+      "etag": "W/\"64085-GPDOoGZFmhVzvAnr8I2Gx/HukJs\"",
+      "last_checked": "2026-11-14T18:17:44Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-11T19:43:30Z",
-      "last_success": "2026-11-12T20:07:58Z",
+      "last_success": "2026-11-14T18:17:44Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "USA Taekwondo - event and training calendar",
-      "page_sha256": "9c44890ab67ff86067e46275048d8432e4c4108e94284ca989907c1e300a1890",
+      "page_sha256": "0602bce6be80e7bd6d7763cf1d300d782e7d4b915ba4877537ebe42708cf60bd",
       "records": 15,
       "status": "ok",
       "url": "https://www.usatkd.org/calendar"
     },
     "usatkd_season": {
       "cadence_days": 1,
-      "etag": "W/\"4cb98-ziPO1GlJOu+iSxCJCsMYQiGuCkc\"",
-      "last_checked": "2026-11-12T20:07:58Z",
+      "etag": "W/\"4cb98-+9kRYPfTO1Xc9TqNQOkEg08ttHw\"",
+      "last_checked": "2026-11-14T18:17:44Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-12T20:07:58Z",
+      "last_success": "2026-11-14T18:17:44Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "USA Taekwondo - season overview",
-      "page_sha256": "9e852fdebc37e40a179ce8ca097c3345aded4f28355e6304baf5389502dc8814",
+      "page_sha256": "813a44b3b8ab66a3ff707e4e85620daa3d943389cc812042fcbb82df99c7f4d9",
       "records": 6,
       "status": "ok",
       "url": "https://www.usatkd.org/2027-usa-taekwondo-competition-season"
@@ -16833,5 +16833,5 @@
       "url": "https://worldscusa.com/"
     }
   },
-  "updated_at": "2026-11-13T19:52:25Z"
+  "updated_at": "2026-11-14T18:17:48Z"
 }
