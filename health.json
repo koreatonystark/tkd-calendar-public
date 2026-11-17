@@ -45,19 +45,19 @@
   "run": {
     "candidates_found": 0,
     "candidates_updated": 0,
-    "errors": 1,
+    "errors": 0,
     "metadata": {
-      "changed": 2,
-      "checked": 19,
+      "changed": 3,
+      "checked": 4,
       "failed": 0,
-      "pending_review": 4,
-      "skipped": 13,
-      "unchanged": 17
+      "pending_review": 7,
+      "skipped": 28,
+      "unchanged": 1
     },
     "new_events": 0,
-    "not_modified": 1,
+    "not_modified": 0,
     "parsed": 1,
-    "skipped": 4,
+    "skipped": 15,
     "updated_events": 0
   },
   "sources": {
@@ -80,15 +80,15 @@
     "aau_licensed_directory": {
       "cadence_days": 2,
       "etag": "",
-      "last_checked": "2026-11-15T18:57:59Z",
+      "last_checked": "2026-11-17T21:05:41Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-15T18:57:59Z",
+      "last_success": "2026-11-17T21:05:41Z",
       "message": "Page changed, event data identical",
       "mode": "discovery",
       "name": "AAU official licensed competitions across Regions 1-15",
-      "page_sha256": "36b1072300758803cf969a0c95c9ba7ea4074862a22ddc87976cfdc7d07c42b1",
+      "page_sha256": "f9fa4939e1944d5da983bc6f50ba2701bf1c7623f5fea85f22352b5c9d9d0804",
       "records": 5,
       "status": "ok",
       "url": "https://aausports.org/taekwondo/2024-25-season-licensed-events"
@@ -123,17 +123,17 @@
     "ata_signup_discovery": {
       "cadence_days": 2,
       "etag": "",
-      "last_checked": "2026-11-15T18:57:59Z",
+      "last_checked": "2026-11-17T21:05:41Z",
       "last_http_status": 200,
       "last_modified": "",
-      "last_semantic_change": "2026-11-12T20:07:58Z",
-      "last_success": "2026-11-15T18:57:59Z",
-      "message": "Content hash unchanged; parser skipped.",
+      "last_semantic_change": "2026-11-17T21:05:41Z",
+      "last_success": "2026-11-17T21:05:41Z",
+      "message": "Parsed updated source",
       "mode": "discovery",
       "name": "ATA EZ Signup - nationwide ATA regionals and nationals",
-      "page_sha256": "9b632b7362fef93d541ce708909909b95d78598e0a360e325ded3a91033f1e66",
-      "records": 42,
-      "status": "not_modified",
+      "page_sha256": "e9a3dd03721317aeb4e40a1293f51ce6137a55e87dfbb95396e1d68d4033cef7",
+      "records": 36,
+      "status": "ok",
       "url": "https://www.ataezsignup.com/tournaments/all/"
     },
     "cma_champions_open": {
@@ -215,15 +215,15 @@
     "kukkiwon_2027": {
       "cadence_days": 7,
       "etag": "",
-      "last_checked": "2026-11-09T22:30:28Z",
+      "last_checked": "2026-11-17T21:05:41Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-09T22:30:28Z",
+      "last_success": "2026-11-17T21:05:41Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "Kukkiwon - 2027 Hanmadang announcement",
-      "page_sha256": "ee5ef730a1052a2c9f313d711adaecafcd144c21a4579685fb3b690776b14dce",
+      "page_sha256": "74f85dd86ea4de9054948527fd7cd38e240963bcc3c56dd98dd4387a4ae27065",
       "records": 1,
       "status": "ok",
       "url": "https://www.kukkiwon.or.kr/eng/board/read?boardManagementNo=49&boardNo=4050&menuLevel=2&menuNo=91&page=1&searchCategory=&searchType=&searchWord="
@@ -320,5 +320,5 @@
       "url": "https://worldscusa.com/"
     }
   },
-  "updated_at": "2026-11-16T22:19:48Z"
+  "updated_at": "2026-11-17T21:05:49Z"
 }
