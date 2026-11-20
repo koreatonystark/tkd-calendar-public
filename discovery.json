@@ -1063,11 +1063,53 @@
       "status": "pending",
       "title": "Colorado Clash - B Regional",
       "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_006ec5cc60bca0c1f6",
+      "location": "",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2026-12-12",
+      "state": "",
+      "status": "pending",
+      "title": "Ninja Showdown - B Regional",
+      "year": 2026
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_8a6a212b0ecfa3f120",
+      "location": "Coraopolis, PA",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-02-05",
+      "state": "PA",
+      "status": "pending",
+      "title": "Three Rivers Throwdown: Steel Reign - A Regional",
+      "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal B Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_3e5841f8e1b90d6b76",
+      "location": "Hillsboro, OR",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-04-09",
+      "state": "OR",
+      "status": "pending",
+      "title": "WolfPack Dominate the Valley 2027 - B Regional",
+      "year": 2027
     }
   ],
   "counts": {
-    "pending": 76,
-    "total": 76
+    "pending": 79,
+    "total": 79
   },
   "notice": "DISCOVERY ONLY: not verified, graded or included in ICS.",
   "schema_version": 1
