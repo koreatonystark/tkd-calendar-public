@@ -16887,15 +16887,15 @@
     "kukkiwon_2027": {
       "cadence_days": 7,
       "etag": "",
-      "last_checked": "2026-11-17T21:05:41Z",
+      "last_checked": "2026-11-24T22:36:09Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-17T21:05:41Z",
+      "last_success": "2026-11-24T22:36:09Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "Kukkiwon - 2027 Hanmadang announcement",
-      "page_sha256": "74f85dd86ea4de9054948527fd7cd38e240963bcc3c56dd98dd4387a4ae27065",
+      "page_sha256": "0eb5f1de33ba797bcd6cd1cf55a0d6fdafda9d1971af8e6de309d64d21545710",
       "records": 1,
       "status": "ok",
       "url": "https://www.kukkiwon.or.kr/eng/board/read?boardManagementNo=49&boardNo=4050&menuLevel=2&menuNo=91&page=1&searchCategory=&searchType=&searchWord="
@@ -16992,5 +16992,5 @@
       "url": "https://worldscusa.com/"
     }
   },
-  "updated_at": "2026-11-24T00:04:31Z"
+  "updated_at": "2026-11-24T22:36:15Z"
 }
