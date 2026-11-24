@@ -1105,11 +1105,25 @@
       "status": "pending",
       "title": "WolfPack Dominate the Valley 2027 - B Regional",
       "year": 2027
+    },
+    {
+      "affiliation_claim": "ATA event listing; ATA internal A Regional",
+      "discovered_by": [
+        "ata_signup_discovery"
+      ],
+      "id": "candidate_37fff7ed1f3d400d00",
+      "location": "Chesterfield, MO",
+      "source_url": "https://www.ataezsignup.com/tournaments/all/",
+      "start_date": "2027-04-09",
+      "state": "MO",
+      "status": "pending",
+      "title": "ATA Gateway Championships 2027 - A Regional",
+      "year": 2027
     }
   ],
   "counts": {
-    "pending": 79,
-    "total": 79
+    "pending": 80,
+    "total": 80
   },
   "notice": "DISCOVERY ONLY: not verified, graded or included in ICS.",
   "schema_version": 1
