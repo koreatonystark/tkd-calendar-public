@@ -45,34 +45,34 @@
   "run": {
     "candidates_found": 0,
     "candidates_updated": 0,
-    "errors": 0,
+    "errors": 1,
     "metadata": {
-      "changed": 3,
-      "checked": 4,
+      "changed": 0,
+      "checked": 0,
       "failed": 0,
       "pending_review": 10,
-      "skipped": 28,
-      "unchanged": 1
+      "skipped": 32,
+      "unchanged": 0
     },
     "new_events": 0,
-    "not_modified": 0,
+    "not_modified": 1,
     "parsed": 0,
-    "skipped": 17,
+    "skipped": 10,
     "updated_events": 0
   },
   "sources": {
     "aau_future": {
       "cadence_days": 1,
       "etag": "",
-      "last_checked": "2026-11-24T00:04:17Z",
+      "last_checked": "2026-11-25T21:50:03Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-24T00:04:17Z",
+      "last_success": "2026-11-25T21:50:03Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "AAU Taekwondo - future national events",
-      "page_sha256": "15b3bb14f36d2d3cb44e760ee0da92abfbaba0ad15a6116983dc2989472c12f2",
+      "page_sha256": "81a64e3e4d5c29a5798832a903c18791b9ff11042660f337f498c5e063a9e026",
       "records": 8,
       "status": "ok",
       "url": "https://aausports.org/taekwondo/future-dates/"
@@ -154,7 +154,7 @@
     },
     "cma_events": {
       "cadence_days": 1,
-      "last_checked": "2026-11-24T00:04:17Z",
+      "last_checked": "2026-11-25T21:50:03Z",
       "last_http_status": 200,
       "message": "No parsed event; previous records preserved.",
       "mode": "events",
@@ -165,7 +165,7 @@
     },
     "cma_grafton": {
       "cadence_days": 1,
-      "last_checked": "2026-11-24T00:04:17Z",
+      "last_checked": "2026-11-25T21:50:03Z",
       "last_http_status": 200,
       "message": "No parsed event; previous records preserved.",
       "mode": "events",
@@ -177,17 +177,17 @@
     "itf_championships": {
       "cadence_days": 3,
       "etag": "",
-      "last_checked": "2026-11-24T00:04:17Z",
+      "last_checked": "2026-11-25T21:50:03Z",
       "last_http_status": 403,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
       "last_success": "2026-11-13T19:52:17Z",
-      "message": "403 Client Error: Forbidden for url: https://itftkd.sport/events/category/championships/",
+      "message": "HTTPSConnectionPool(host='itftkd.sport', port=443): Read timed out. (read timeout=25)",
       "mode": "events",
       "name": "ITF - official championships",
       "page_sha256": "4b949f96f0a1f6782bc8a456cb34e01916bd84c61f4e4b0c25d2a2077d757bff",
       "records": 1,
-      "status": "blocked",
+      "status": "error",
       "url": "https://itftkd.sport/events/category/championships/"
     },
     "itf_usa_discovery": {
@@ -242,15 +242,15 @@
     "taekwondo_america_nationals": {
       "cadence_days": 7,
       "etag": "",
-      "last_checked": "2026-11-18T20:43:07Z",
+      "last_checked": "2026-11-25T21:50:03Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-18T20:43:07Z",
+      "last_success": "2026-11-25T21:50:03Z",
       "message": "Page changed, event data identical",
       "mode": "discovery",
       "name": "Taekwondo America national member tournaments",
-      "page_sha256": "fd1d2d1564ed7bf1f6d1f96b40fa1b49ad7f957d413c4ce5a9efc960d5d9b83c",
+      "page_sha256": "2727e4dc12764a9f7444e0468d0f37133b05b923368756a732824efd136637dd",
       "records": 1,
       "status": "ok",
       "url": "https://taekwondoamerica.org/upcoming-events/"
@@ -258,11 +258,11 @@
     "tourneyreg_discovery": {
       "cadence_days": 1,
       "etag": "",
-      "last_checked": "2026-11-24T00:04:17Z",
+      "last_checked": "2026-11-25T21:50:03Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-22T19:50:45Z",
-      "last_success": "2026-11-24T00:04:17Z",
+      "last_success": "2026-11-25T21:50:03Z",
       "message": "Content hash unchanged; parser skipped.",
       "mode": "discovery",
       "name": "TourneyReg - nationwide competition registration index",
@@ -273,32 +273,32 @@
     },
     "usatkd_calendar": {
       "cadence_days": 1,
-      "etag": "W/\"62467-gEzv+8SaExUeKgegA7ZXnuNRGq8\"",
-      "last_checked": "2026-11-24T00:04:17Z",
+      "etag": "W/\"6247b-IWbLz6tDZaQ+dUVsF2jcw5uwuO8\"",
+      "last_checked": "2026-11-25T21:50:03Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-16T22:19:35Z",
-      "last_success": "2026-11-24T00:04:17Z",
+      "last_success": "2026-11-25T21:50:03Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "USA Taekwondo - event and training calendar",
-      "page_sha256": "bf2a06bed2f95123263ba435bdb77ce4cf50fdaac798853c0937c119f7b4bc29",
+      "page_sha256": "fecfb70e33ae851a41400140f8802e7ac62380021e52bdc0196d72ec9d6c13b2",
       "records": 14,
       "status": "ok",
       "url": "https://www.usatkd.org/calendar"
     },
     "usatkd_season": {
       "cadence_days": 1,
-      "etag": "W/\"4cb97-HfLikVPXVyAIFPUf76Fc1u2c3Lo\"",
-      "last_checked": "2026-11-24T00:04:17Z",
+      "etag": "W/\"4cbab-oqJPj2WWTcrRGA4zZd2tOExn+3I\"",
+      "last_checked": "2026-11-25T21:50:03Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-24T00:04:17Z",
+      "last_success": "2026-11-25T21:50:03Z",
       "message": "Page changed, event data identical",
       "mode": "events",
       "name": "USA Taekwondo - season overview",
-      "page_sha256": "869097e934d3a47c7b9acf4744b55bd54ba4dc918656073eb613525e24b19049",
+      "page_sha256": "ddaca10342453905d554ecdbb018f1fdeafe3da03154628c6dba47bd5159669c",
       "records": 6,
       "status": "ok",
       "url": "https://www.usatkd.org/2027-usa-taekwondo-competition-season"
@@ -320,5 +320,5 @@
       "url": "https://worldscusa.com/"
     }
   },
-  "updated_at": "2026-11-24T22:36:15Z"
+  "updated_at": "2026-11-25T21:50:36Z"
 }
