@@ -16752,15 +16752,15 @@
     "aau_licensed_directory": {
       "cadence_days": 2,
       "etag": "",
-      "last_checked": "2026-11-24T00:04:17Z",
+      "last_checked": "2026-11-26T21:43:55Z",
       "last_http_status": 200,
       "last_modified": "",
       "last_semantic_change": "2026-11-02T03:35:05Z",
-      "last_success": "2026-11-24T00:04:17Z",
+      "last_success": "2026-11-26T21:43:55Z",
       "message": "Page changed, event data identical",
       "mode": "discovery",
       "name": "AAU official licensed competitions across Regions 1-15",
-      "page_sha256": "d15b1217e01e6ad40cf4880931a0f5895efe7f9bc6615317023feee70dfbeb32",
+      "page_sha256": "28c99d965fc4402ce935735c3ad6aa3260c347a98f81c825bca508394a573563",
       "records": 5,
       "status": "ok",
       "url": "https://aausports.org/taekwondo/2024-25-season-licensed-events"
@@ -16795,16 +16795,16 @@
     "ata_signup_discovery": {
       "cadence_days": 2,
       "etag": "",
-      "last_checked": "2026-11-24T00:04:17Z",
+      "last_checked": "2026-11-26T21:43:55Z",
       "last_http_status": 200,
       "last_modified": "",
-      "last_semantic_change": "2026-11-24T00:04:17Z",
-      "last_success": "2026-11-24T00:04:17Z",
+      "last_semantic_change": "2026-11-26T21:43:55Z",
+      "last_success": "2026-11-26T21:43:55Z",
       "message": "Parsed updated source",
       "mode": "discovery",
       "name": "ATA EZ Signup - nationwide ATA regionals and nationals",
-      "page_sha256": "c375567910fc8b9bb4de00c6a97d8e6996bc95ba6d67546f855b3249c77fa56e",
-      "records": 40,
+      "page_sha256": "0408d843d0b3b5d9a80e8b6886bc13a1ab8b94845f5e6e15b335fecb9fcd95da",
+      "records": 37,
       "status": "ok",
       "url": "https://www.ataezsignup.com/tournaments/all/"
     },
@@ -16992,5 +16992,5 @@
       "url": "https://worldscusa.com/"
     }
   },
-  "updated_at": "2026-11-25T21:50:36Z"
+  "updated_at": "2026-11-26T21:43:57Z"
 }
